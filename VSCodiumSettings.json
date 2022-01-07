@@ -1,0 +1,142 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.detectIndentation": false,
+    "editor.dragAndDrop": false,
+    "editor.emptySelectionClipboard": false,
+    "editor.gotoLocation.multipleDeclarations": "goto",
+    "editor.gotoLocation.multipleDefinitions": "goto",
+    "editor.gotoLocation.multipleImplementations": "goto",
+    "editor.gotoLocation.multipleReferences": "goto",
+    "editor.gotoLocation.multipleTypeDefinitions": "goto",
+    "editor.mouseWheelScrollSensitivity": 1.5,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.padding.top": 5,
+    "editor.renameOnType": true,
+    "editor.renderFinalNewline": false,
+    "editor.smartSelect.selectLeadingAndTrailingWhitespace": false,
+    "editor.smoothScrolling": true,
+    "editor.stablePeek": true,
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?",
+    "editor.wrappingIndent": "indent",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorStyle": "block",
+    "editor.find.autoFindInSelection": "multiline",
+    "diffEditor.codeLens": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "diffEditor.maxComputationTime": 10000,
+    "editor.minimap.size": "fill",
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.suggest.localityBonus": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "workbench.enableExperiments": false,
+    "workbench.list.smoothScrolling": true,
+    "workbench.quickOpen.closeOnFocusLost": false,
+    "workbench.sash.size": 5,
+    "workbench.startupEditor": "none",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.hideTabs": false,
+    "window.customMenuBarAltFocus": false,
+    "window.menuBarVisibility": "visible",
+    "window.titleBarStyle": "custom",
+    "window.title": "${activeEditorShort}${separator}${rootName}",
+    "window.newWindowDimensions": "inherit",
+    "editor.cursorBlinking": "solid",
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "window.openFoldersInNewWindow": "on",
+
+    "macros.list": {
+        "add__init__": [
+            {"command": "type", "args": {"text": "def __init__(self):\n\t"}},
+            "insertSnippet"
+        ],
+
+        "addSelf": [
+            {"command": "type", "args": {"text": "self"}},
+            "insertSnippet"
+        ],
+
+        "commentDown": [
+            "editor.action.copyLinesDownAction",
+            "cursorUp",
+            "editor.action.addCommentLine",
+            "cursorDown"
+        ],
+
+        "copyLine": [
+            "cursorEnd",
+            "cursorHomeSelect",
+        ],
+
+        "runMain": [
+            //* This took waaaaaaaaaaaaaay longer than it should have to figure out.
+            // "workbench.action.files.saveAll",
+            // "workbench.action.terminal.clear",
+            // {"command": "workbench.action.quickOpen", "args": "main.py"},
+            // {"command": "$delay", "args": {"delay": 25}},
+            // "workbench.action.acceptSelectedQuickOpenItem",
+            // "python.execInTerminal",
+            // "workbench.action.quickOpenPreviousRecentlyUsedEditorInGroup",
+            // "workbench.action.acceptSelectedQuickOpenItem",
+
+
+            // {"command": "workbench.action.terminal.sendSequence", "args": {"text": "{ctrl}c"}},
+            "workbench.action.terminal.clear",
+            //* {"command": "workbench.action.terminal.sendSequence", "args": {"text": "/bin/python src/main.py\n"}},
+            {"command": "workbench.action.terminal.sendSequence", "args": {"text": "/bin/python src/main.py\n"}},
+        ],
+
+        // "runPrev": [
+        //     // "workbench.action.terminal.focus",
+        //     "workbench.action.terminal.clear",
+        //     // "workbench.action.terminal.scrollUp",
+        //     {"command": "workbench.action.terminal.sendSequence", "args": {"text": "\n"}},
+        //     "workbench.action.quickOpen",
+        //     "workbench.action.acceptSelectedQuickOpenItem",
+        // ],
+
+        "leaveTerminal": [
+            // {"command": "workbench.action.terminal.toggleTerminal", "args": {"command": "commentDown"}}
+            // "workbench.action.quickOpenNavigateNextInViewPicker",
+            "workbench.action.quickOpen",
+            "workbench.action.acceptSelectedQuickOpenItem",
+
+        ],
+
+        "specialCommentLine": [
+            "editor.action.commentLine",
+            "cursorHome",
+            "cursorWordEndRight",
+            {"command": "type", "args": {"text": "* "}},
+        ],
+
+        "autoDocString": [
+            {"command": "type", "args": {"text": "\"\"\"\n\"\"\""}},
+            "cursorUp",
+            {"command": "type", "args": {"text": " "}},
+        ],
+        "colonEndLine": [
+            "cursorEnd",
+            {"command": "type", "args": {"text": ":\n"}},
+        ],
+        "semicolonEndLine": [
+            "cursorEnd",
+            {"command": "type", "args": {"text": ";"}},
+        ],
+        "closeParenEndLine": [
+            "cursorEnd",
+            {"command": "type", "args": {"text": ")\n"}},
+        ],
+    },
+    "explorer.confirmDelete": false,
+    "terminal.integrated.scrollback": 1000000,
+    "godot_tools.editor_path": "/bin/godot",
+    "godot_tools.gdscript_lsp_server_port": 6007,
+    "clangd.onConfigChanged": "ignore",
+    "cmake.configureOnEdit": false,
+    "explorer.confirmDragAndDrop": false,
+    "security.workspace.trust.untrustedFiles": "open"
+}
