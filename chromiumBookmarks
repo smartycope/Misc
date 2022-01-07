@@ -1,0 +1,3353 @@
+{
+   "checksum": "5ec0f69957ff7a2164cfefe196fcba0f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13157687431000000",
+            "guid": "c98217ad-36d2-4b38-8478-48eff8e9b2b7",
+            "id": "6",
+            "name": "",
+            "type": "url",
+            "url": "https://drive.google.com/drive/?tab=mo"
+         }, {
+            "date_added": "13061267612000000",
+            "guid": "7c1109c4-f073-4b69-808d-1e9e2cb952c6",
+            "id": "7",
+            "name": "",
+            "type": "url",
+            "url": "https://www.lds.org/study/scriptures?lang=eng"
+         }, {
+            "date_added": "13200783510000000",
+            "guid": "d675c292-2503-4210-aade-3c4d46fbed30",
+            "id": "8",
+            "name": "",
+            "type": "url",
+            "url": "https://trello.com/copelandcarter/boards"
+         }, {
+            "date_added": "13065068704000000",
+            "guid": "7eb52cff-019e-4bb0-99ab-e64450f2c391",
+            "id": "9",
+            "name": "",
+            "type": "url",
+            "url": "http://www.acronymfinder.com/"
+         }, {
+            "date_added": "13202428120000000",
+            "guid": "02e24615-ad8c-40c3-a3c6-46cf47ff4f8f",
+            "id": "10",
+            "name": "",
+            "type": "url",
+            "url": "https://app.youneedabudget.com/a0e1aefc-b121-4fb6-84b0-89cd96df2552/budget"
+         }, {
+            "date_added": "13240821919000000",
+            "guid": "be68eb2e-9698-42bd-89ad-c8f9a5c61b9d",
+            "id": "11",
+            "name": "",
+            "type": "url",
+            "url": "https://apod.nasa.gov/apod/astropix.html"
+         }, {
+            "date_added": "13239674434000000",
+            "guid": "a809c39b-0abc-462b-9d49-461ac47cf532",
+            "id": "12",
+            "name": "",
+            "type": "url",
+            "url": "https://paste.centos.org/"
+         }, {
+            "date_added": "13243648212000000",
+            "guid": "0b25087b-8089-4891-805f-b1c458a779c2",
+            "id": "14",
+            "name": "",
+            "type": "url",
+            "url": "https://www.upwork.com/"
+         }, {
+            "date_added": "13239953644000000",
+            "guid": "8a559fbb-41df-4000-935d-f3b6719aa9bf",
+            "id": "15",
+            "name": "",
+            "type": "url",
+            "url": "https://fedora.pkgs.org/"
+         }, {
+            "date_added": "13243648237000000",
+            "guid": "cc66decd-cd0e-4248-8fdc-25581c915234",
+            "id": "16",
+            "name": "",
+            "type": "url",
+            "url": "https://www.linkedin.com/"
+         }, {
+            "date_added": "13166565502000000",
+            "guid": "1cd2737a-0507-4220-b4c0-841b684b9f39",
+            "id": "17",
+            "name": "",
+            "type": "url",
+            "url": "https://brandonsanderson.com/"
+         }, {
+            "date_added": "13223776500000000",
+            "guid": "c7ac30b7-5a9a-4077-a8db-fa541ec5c0cf",
+            "id": "18",
+            "name": "",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13286003512929630",
+            "guid": "45f6571c-9ccf-46d8-9256-661eebf38fb7",
+            "id": "505",
+            "name": "",
+            "type": "url",
+            "url": "https://byui.instructure.com/"
+         }, {
+            "date_added": "13285817789372118",
+            "guid": "7151286d-a396-4c4e-8df1-f948937b2813",
+            "id": "504",
+            "name": "",
+            "type": "url",
+            "url": "https://app.standardnotes.org/"
+         }, {
+            "date_added": "13200445755000000",
+            "guid": "a4743e6e-3eb7-4532-9f6b-13698f6f01d8",
+            "id": "217",
+            "name": "",
+            "type": "url",
+            "url": "https://my.byui.edu/ics"
+         }, {
+            "date_added": "13279677794020895",
+            "guid": "8cc2f245-fdf0-4576-b220-17bf02b953df",
+            "id": "491",
+            "name": "",
+            "type": "url",
+            "url": "https://www.desmos.com/calculator"
+         }, {
+            "date_added": "13254615516160760",
+            "guid": "3b0d16c9-a010-4837-85ed-d5641059b14f",
+            "id": "437",
+            "name": "",
+            "type": "url",
+            "url": "https://www.iccu.com/"
+         }, {
+            "date_added": "13267583508804274",
+            "guid": "d161b83f-1e63-446e-9b6c-a411feb8e527",
+            "id": "473",
+            "name": "pypi",
+            "type": "url",
+            "url": "https://pypi.org/"
+         }, {
+            "date_added": "13226113882000000",
+            "guid": "86ccdd77-4d45-48eb-af88-ad2a0f952b24",
+            "id": "19",
+            "name": "",
+            "type": "url",
+            "url": "https://www.xkcd.com/"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "children": [ {
+                     "children": [ {
+                        "date_added": "13156571654000000",
+                        "guid": "3f9fb100-a8f0-4a3d-b4aa-da2a617fa668",
+                        "id": "24",
+                        "name": "Language analysis - Wikipedia",
+                        "type": "url",
+                        "url": "https://en.wikipedia.org/wiki/Language_analysis"
+                     }, {
+                        "date_added": "13156571654000000",
+                        "guid": "d7508b16-ca5b-44d5-a50e-951be5bbcc24",
+                        "id": "25",
+                        "name": "Chinese room - Wikipedia",
+                        "type": "url",
+                        "url": "https://en.wikipedia.org/wiki/Chinese_room#Chinese_room_thought_experiment"
+                     }, {
+                        "date_added": "13156571654000000",
+                        "guid": "6b8669b9-aa8e-44c1-a932-116ca14dfd92",
+                        "id": "26",
+                        "name": "Turing test - Wikipedia",
+                        "type": "url",
+                        "url": "https://en.wikipedia.org/wiki/Turing_test"
+                     }, {
+                        "date_added": "13156571654000000",
+                        "guid": "f33b93ef-01d3-4396-a53b-f097a41f9bd6",
+                        "id": "27",
+                        "name": "Intentionality - Wikipedia",
+                        "type": "url",
+                        "url": "https://en.wikipedia.org/wiki/Intentionality"
+                     }, {
+                        "date_added": "13156571654000000",
+                        "guid": "68fc22fb-5dd5-471a-9ed0-b97c2b058496",
+                        "id": "28",
+                        "name": "Functionalism (philosophy of mind) - Wikipedia",
+                        "type": "url",
+                        "url": "https://en.wikipedia.org/wiki/Functionalism_(philosophy_of_mind)"
+                     }, {
+                        "date_added": "13156571654000000",
+                        "guid": "beaeb267-7ad0-4030-9be2-72c051949cd0",
+                        "id": "29",
+                        "name": "Computational theory of mind - Wikipedia",
+                        "type": "url",
+                        "url": "https://en.wikipedia.org/wiki/Computational_theory_of_mind"
+                     }, {
+                        "date_added": "13156571654000000",
+                        "guid": "5bd4c631-d4df-48b7-ae22-27eea7e1213a",
+                        "id": "30",
+                        "name": "Mind–body problem - Wikipedia",
+                        "type": "url",
+                        "url": "https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem"
+                     }, {
+                        "date_added": "13156571654000000",
+                        "guid": "c31d1c19-e255-4d98-a9d7-2dcb5f81746e",
+                        "id": "31",
+                        "name": "Problem of other minds - Wikipedia",
+                        "type": "url",
+                        "url": "https://en.wikipedia.org/wiki/Problem_of_other_minds"
+                     }, {
+                        "date_added": "13156571654000000",
+                        "guid": "a068197b-983b-4740-8558-f13ec272097d",
+                        "id": "32",
+                        "name": "Symbol grounding problem - Wikipedia",
+                        "type": "url",
+                        "url": "https://en.wikipedia.org/wiki/Symbol_grounding_problem"
+                     }, {
+                        "date_added": "13156571654000000",
+                        "guid": "a2dd2b56-b691-4ff7-bde0-92b3461f7e13",
+                        "id": "33",
+                        "name": "Hard problem of consciousness - Wikipedia",
+                        "type": "url",
+                        "url": "https://en.wikipedia.org/wiki/Hard_problem_of_consciousness"
+                     } ],
+                     "date_added": "13251503480547177",
+                     "date_modified": "0",
+                     "guid": "7f085cbc-f44c-4c29-8470-77fba7c5ccfe",
+                     "id": "23",
+                     "name": "New folder",
+                     "type": "folder"
+                  }, {
+                     "date_added": "13195261688000000",
+                     "guid": "bad60a0e-ba02-405f-a9e6-605b345f330d",
+                     "id": "34",
+                     "name": "Nicolas Malebranche (Stanford Encyclopedia of Philosophy)",
+                     "type": "url",
+                     "url": "https://plato.stanford.edu/entries/malebranche/#CarDua"
+                  } ],
+                  "date_added": "13251503480547013",
+                  "date_modified": "0",
+                  "guid": "192a3607-c741-430a-a37b-fe321e2edc88",
+                  "id": "22",
+                  "name": "philosophy",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13156630380000000",
+                     "guid": "227c1dee-e183-4a49-ab63-cb194ddd71c6",
+                     "id": "36",
+                     "name": "Magnetic flux - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/Magnetic_flux"
+                  }, {
+                     "date_added": "13190339666000000",
+                     "guid": "b9b3aac7-335b-4425-9cef-d26ddc5e8f3a",
+                     "id": "37",
+                     "name": "SQUID - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/SQUID"
+                  }, {
+                     "date_added": "13189928487000000",
+                     "guid": "7df8c138-d997-419d-8040-e6bdd193633a",
+                     "id": "38",
+                     "name": "D-Wave 2000Q Tech Collateral_0117F.pdf",
+                     "type": "url",
+                     "url": "https://www.dwavesys.com/sites/default/files/D-Wave%202000Q%20Tech%20Collateral_0117F.pdf"
+                  }, {
+                     "date_added": "13190339742000000",
+                     "guid": "94769222-50e6-4e72-a942-262d3351f5c5",
+                     "id": "39",
+                     "name": "Take the Leap | D-Wave Systems",
+                     "type": "url",
+                     "url": "https://www.dwavesys.com/take-leap"
+                  }, {
+                     "date_added": "13190339748000000",
+                     "guid": "9d66b7c0-9223-4747-9107-75e58ff9cfee",
+                     "id": "40",
+                     "name": "Software | D-Wave Systems",
+                     "type": "url",
+                     "url": "https://www.dwavesys.com/software"
+                  }, {
+                     "date_added": "13190339764000000",
+                     "guid": "f861a94a-e0f9-4f09-8b67-20422f00358e",
+                     "id": "41",
+                     "name": "Adiabatic theorem - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/Adiabatic_theorem"
+                  }, {
+                     "date_added": "13190339821000000",
+                     "guid": "4e66cdfb-3205-453f-b613-2cca5e76666e",
+                     "id": "42",
+                     "name": "Niobium–titanium - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/Niobium%E2%80%93titanium"
+                  }, {
+                     "date_added": "13190339878000000",
+                     "guid": "cf937050-3502-4ff5-a4ad-2e01eae970d7",
+                     "id": "43",
+                     "name": "Type-II superconductor - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/Type-II_superconductor"
+                  }, {
+                     "date_added": "13190339885000000",
+                     "guid": "e8a46a96-65a1-492a-997e-cf2f5a6870dd",
+                     "id": "44",
+                     "name": "Bose–Einstein condensate - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/Bose%E2%80%93Einstein_condensate"
+                  }, {
+                     "date_added": "13190339890000000",
+                     "guid": "2d9148d9-76c4-41d0-80c8-53d74a419373",
+                     "id": "45",
+                     "name": "Laser - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/Laser"
+                  }, {
+                     "date_added": "13190339898000000",
+                     "guid": "b7e39426-6f89-443c-93dd-ef4ac9940f5f",
+                     "id": "46",
+                     "name": "Superatom - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/Superatom#cite_note-16"
+                  }, {
+                     "date_added": "13190339905000000",
+                     "guid": "3f929532-9e35-49d7-aaa6-f9e8a6d1e841",
+                     "id": "47",
+                     "name": "Doping (semiconductor) - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/Doping_(semiconductor)"
+                  }, {
+                     "date_added": "13190339924000000",
+                     "guid": "973c6953-9a1e-486b-83cf-eb6b58515fef",
+                     "id": "48",
+                     "name": "Lennard-Jones potential - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/Lennard-Jones_potential"
+                  }, {
+                     "date_added": "13190339960000000",
+                     "guid": "63256658-bc42-40d6-a8f1-6a6fb669f137",
+                     "id": "49",
+                     "name": "Quantum dot - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/Quantum_dot"
+                  }, {
+                     "date_added": "13190339970000000",
+                     "guid": "4cb471b7-9435-4650-82e3-92a0b7694e2d",
+                     "id": "50",
+                     "name": "Researchers create first superatomic 2-D semiconductor",
+                     "type": "url",
+                     "url": "https://phys.org/news/2018-02-superatomic-d-semiconductor.html#jCp"
+                  }, {
+                     "date_added": "13191200139000000",
+                     "guid": "c67c6a2f-3242-4aa9-b1a1-c071b360564b",
+                     "id": "51",
+                     "name": "Harmonics (electrical power) - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/Harmonics_(electrical_power)"
+                  }, {
+                     "date_added": "13191200148000000",
+                     "guid": "0f291c74-245c-4728-b54b-b7f116682cf3",
+                     "id": "52",
+                     "name": "Fundamental frequency - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/Fundamental_frequency"
+                  }, {
+                     "date_added": "13157769142000000",
+                     "guid": "493b141e-9748-4d58-9bb0-945e7fc0fd85",
+                     "id": "53",
+                     "name": "High-temperature superconductivity - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/High-temperature_superconductivity"
+                  }, {
+                     "date_added": "13157769636000000",
+                     "guid": "b14113c8-a931-4ef7-b433-9dfdb2c3f706",
+                     "id": "54",
+                     "name": "BCS theory - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/BCS_theory#Successes_of_the_BCS_theory"
+                  }, {
+                     "date_added": "13157769636000000",
+                     "guid": "25535cea-a091-4979-89ac-2e5b4a0e399b",
+                     "id": "55",
+                     "name": "Superconductivity - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/Superconductivity#Superconducting_phase_transition"
+                  }, {
+                     "date_added": "13157769636000000",
+                     "guid": "96705865-e2d6-46c2-994c-66d2f6de0629",
+                     "id": "56",
+                     "name": "High-temperature superconductivity - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/High-temperature_superconductivity"
+                  }, {
+                     "date_added": "13157768973000000",
+                     "guid": "2830bdde-4cb5-4e6c-8bee-1ac68b5d753b",
+                     "id": "57",
+                     "name": "Cuprate superconductor - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/Cuprate_superconductor"
+                  }, {
+                     "date_added": "13195261664000000",
+                     "guid": "628f1a40-615f-43f5-a892-4630dc18a8c5",
+                     "id": "58",
+                     "name": "Eddy current - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/Eddy_current"
+                  }, {
+                     "date_added": "13195261677000000",
+                     "guid": "0475363c-4d6c-465e-9ebf-3960016d2391",
+                     "id": "59",
+                     "name": "Skin effect - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/Skin_effect"
+                  }, {
+                     "date_added": "13201308107000000",
+                     "guid": "51176aee-f774-42f4-983b-13a73802274b",
+                     "id": "60",
+                     "name": "Tetrachromacy - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/Tetrachromacy"
+                  } ],
+                  "date_added": "13251503480549995",
+                  "date_modified": "0",
+                  "guid": "4c1ea55c-093d-4d01-ba60-b5f180fb8a14",
+                  "id": "35",
+                  "name": "physics",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13157769142000000",
+                     "guid": "9e29dbe4-13a7-4a5a-a0e6-83daa7c8da59",
+                     "id": "62",
+                     "name": "Copper - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/Copper"
+                  }, {
+                     "date_added": "13157769142000000",
+                     "guid": "ccb5efae-9494-4613-b050-2c07f8514a9d",
+                     "id": "63",
+                     "name": "Transition metal oxo complex - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/Transition_metal_oxo_complex"
+                  }, {
+                     "date_added": "13157769142000000",
+                     "guid": "9789d982-f9f4-44eb-aea7-2de6be46ee44",
+                     "id": "64",
+                     "name": "Tetrapeptide - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/Tetrapeptide"
+                  }, {
+                     "date_added": "13157769142000000",
+                     "guid": "82c5cf41-2c8a-4087-b6bc-43b442a9bd67",
+                     "id": "65",
+                     "name": "Amide - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/Amide"
+                  }, {
+                     "date_added": "13157769142000000",
+                     "guid": "6686dd27-a65e-4b99-aa30-a7f7d2056d5e",
+                     "id": "66",
+                     "name": "Yttrium barium copper oxide - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/Yttrium_barium_copper_oxide"
+                  }, {
+                     "date_added": "13157769636000000",
+                     "guid": "7d07942d-4538-438c-bd85-c9dcf3389899",
+                     "id": "67",
+                     "name": "Oxypnictide - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/Oxypnictide"
+                  } ],
+                  "date_added": "13251503480555882",
+                  "date_modified": "0",
+                  "guid": "5778abbd-1691-44fd-b267-322f0ce3ae3e",
+                  "id": "61",
+                  "name": "Chemistry",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13195261623000000",
+                     "guid": "d3df74d3-6953-4b4b-9759-de5158927450",
+                     "id": "69",
+                     "name": "Sunrise problem - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/Sunrise_problem"
+                  }, {
+                     "date_added": "13217032268000000",
+                     "guid": "1698afdd-52e9-4e59-aa44-e78d93a3f11a",
+                     "id": "70",
+                     "name": "https://www.mathpages.com/home/kmath668/kmath668.htm",
+                     "type": "url",
+                     "url": "https://www.mathpages.com/home/kmath668/kmath668.htm"
+                  } ],
+                  "date_added": "13251503480556872",
+                  "date_modified": "0",
+                  "guid": "871786dd-ec50-4125-b395-d7baba3e68d7",
+                  "id": "68",
+                  "name": "Math",
+                  "type": "folder"
+               }, {
+                  "date_added": "13233709250000000",
+                  "guid": "ec4f556f-799c-4170-a712-fe10cc5642a1",
+                  "id": "71",
+                  "name": "addiction article to read",
+                  "type": "url",
+                  "url": "https://yourbrainrebalanced.com/forum/index.php?threads/my-thoughts-on-rebooting-extremely-long-post.15558/"
+               }, {
+                  "date_added": "13258350641558708",
+                  "guid": "d6f848db-13e0-42ff-ad78-75b84da0c0d2",
+                  "id": "446",
+                  "name": "ksp dev article",
+                  "type": "url",
+                  "url": "https://www.kerbalspaceprogram.com/dev-diaries/developer-insights-7-ksp-2-ux-architects/"
+               } ],
+               "date_added": "13251503480546835",
+               "date_modified": "13260165696210350",
+               "guid": "a122ab4e-99e2-41de-892e-a08f2c014be6",
+               "id": "21",
+               "name": "articles to read",
+               "type": "folder"
+            }, {
+               "date_added": "13195259223000000",
+               "guid": "322d2d50-6543-441c-ac1a-2dadd84534d9",
+               "id": "72",
+               "name": "DIAGNOSING AND TREATING",
+               "type": "url",
+               "url": "file:///Users/momlaptop/Downloads/eng106_document_opheliaSyndrome.pdf"
+            }, {
+               "date_added": "13034967749000000",
+               "guid": "7377b9dd-d2ab-440e-a8cb-517550bda6b5",
+               "id": "73",
+               "name": "Khan Academy",
+               "type": "url",
+               "url": "https://www.khanacademy.org/"
+            }, {
+               "date_added": "13056481689000000",
+               "guid": "7d615030-f405-4048-9bc9-0018109ab827",
+               "id": "74",
+               "name": "crash corse",
+               "type": "url",
+               "url": "http://www.youtube.com/watch?v=Yocja_N5s1I&list=PLBDA2E52FB1EF80C9&index=1"
+            }, {
+               "date_added": "13133419359000000",
+               "guid": "ca983358-85b8-498c-9a5a-b183005de5bb",
+               "id": "75",
+               "name": "richard feynman - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/results?q=richard+feynman"
+            }, {
+               "date_added": "13134197963000000",
+               "guid": "ea5dd123-f9d0-4183-99ec-f793b6c989cd",
+               "id": "76",
+               "name": "How to Self Care: The Ultimate Checklist - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=Ek-B_EZyoM8"
+            }, {
+               "date_added": "13192136110000000",
+               "guid": "eace79f6-7095-47ad-9480-5234f4c84d33",
+               "id": "77",
+               "name": "How to write with style",
+               "type": "url",
+               "url": "http://kmh-lanl.hansonhub.com/pc-24-66-vonnegut.pdf"
+            }, {
+               "date_added": "13192694052000000",
+               "guid": "0b2928f8-e87f-4639-af51-a67d8c2922c8",
+               "id": "78",
+               "name": "Aristotle's Six Golden Rules Of Screenwriting - ScreenCraft",
+               "type": "url",
+               "url": "https://screencraft.org/2017/10/18/aristotles-six-golden-rules-of-screenwriting/"
+            }, {
+               "date_added": "13195423062000000",
+               "guid": "d8e783e9-7538-4b96-9712-f1093232bf82",
+               "id": "79",
+               "name": "ProCon.org - Pros and Cons of Controversial Issues",
+               "type": "url",
+               "url": "https://www.procon.org/"
+            }, {
+               "date_added": "13201652392000000",
+               "guid": "bdccc5da-09b8-4b95-91d3-0e864a30bb5c",
+               "id": "80",
+               "name": "_C._S._-_Out_of_the_Silent_Planet_-_104_Pages.pdf",
+               "type": "url",
+               "url": "http://burgsbee.tripod.com/eTexts/_C._S._-_Out_of_the_Silent_Planet_-_104_Pages.pdf"
+            }, {
+               "date_added": "13202428056000000",
+               "guid": "5ff42949-fe49-4d73-80db-7e11d1a49f48",
+               "id": "81",
+               "name": "John Conway's Game of Life",
+               "type": "url",
+               "url": "https://bitstorm.org/gameoflife/"
+            }, {
+               "date_added": "13202461214000000",
+               "guid": "9102c7d3-246e-4a26-8446-4b7172dabcfb",
+               "id": "82",
+               "name": "earth :: a global map of wind, weather, and ocean conditions",
+               "type": "url",
+               "url": "https://earth.nullschool.net/#current/wind/isobaric/250hPa/orthographic=261.83,26.18,372"
+            }, {
+               "date_added": "13204066408000000",
+               "guid": "803433bc-0bf0-4363-9c02-682c186a9213",
+               "id": "83",
+               "name": "ASCII art generator for geeks! - Convert images/pictures to ASCII art online! (HTML/text)",
+               "type": "url",
+               "url": "https://manytools.org/hacker-tools/convert-images-to-ascii-art/"
+            }, {
+               "children": [ {
+                  "date_added": "13210222381000000",
+                  "guid": "acf6a995-68da-455c-b68c-0864516d2b2c",
+                  "id": "85",
+                  "name": "Understanding Time Shift Algorithms For Music Producers : macProVideo.com",
+                  "type": "url",
+                  "url": "https://www.macprovideo.com/article/mixing-and-mastering/understanding-time-shift-algorithms-for-music-producers"
+               }, {
+                  "date_added": "13210222414000000",
+                  "guid": "979f8f3f-3e63-4e8d-a8ec-4f2f631217c7",
+                  "id": "86",
+                  "name": "Time stretching algorithms and audio warping techniques used in modern music production",
+                  "type": "url",
+                  "url": "https://medium.com/@audiowaves/time-stretching-algorithms-and-audio-warping-techniques-used-in-modern-music-production-63f4d33804d2"
+               }, {
+                  "date_added": "13210222493000000",
+                  "guid": "dc81c37a-fb87-4b51-8ce5-da7b58b7e5e7",
+                  "id": "87",
+                  "name": "Time Stretching - SoundBridge",
+                  "type": "url",
+                  "url": "https://soundbridge.io/time-stretching/"
+               }, {
+                  "date_added": "13210222526000000",
+                  "guid": "d7d68eeb-ed5a-4fa0-8ffb-d3d6343aafcc",
+                  "id": "88",
+                  "name": "How to EQ: Fine Tune your listening experience - SoundGuys",
+                  "type": "url",
+                  "url": "https://www.soundguys.com/how-to-eq-fine-tune-your-listening-experience-16410/"
+               } ],
+               "date_added": "13251503480558823",
+               "date_modified": "0",
+               "guid": "d1709a3e-a2c8-49cc-b1c6-ef379facea75",
+               "id": "84",
+               "name": "Sound Research",
+               "type": "folder"
+            }, {
+               "date_added": "13225410880000000",
+               "guid": "7e2f92c1-252b-4146-b369-5e365e125c4d",
+               "id": "89",
+               "name": "C++ STL source code",
+               "type": "url",
+               "url": "http://www.rrsd.com/software_development/stl/stl/download.html"
+            }, {
+               "date_added": "13241326809000000",
+               "guid": "9c522d36-6b34-4504-a539-9470b198eafe",
+               "id": "90",
+               "name": "Quantum Computer Tutorial",
+               "type": "url",
+               "url": "https://pythonprogramming.net/quantum-computer-programming-tutorial/"
+            }, {
+               "date_added": "13250028752000000",
+               "guid": "2dad1c94-aa96-4d75-823b-e6eadc891eb6",
+               "id": "91",
+               "name": "Solar Textures",
+               "type": "url",
+               "url": "https://www.solarsystemscope.com/textures/"
+            }, {
+               "date_added": "13269047842806271",
+               "guid": "74db0c93-992b-4e3c-b2b1-37cf30c25499",
+               "id": "476",
+               "name": "rithmatist game",
+               "type": "url",
+               "url": "https://rithmatist.herokuapp.com/#/"
+            } ],
+            "date_added": "13251503480546107",
+            "date_modified": "13272318954509482",
+            "guid": "bb5f615d-cf5b-44a4-bb19-d36488186c67",
+            "id": "20",
+            "name": "Cool",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13007613171000000",
+               "guid": "ce7f76c7-4575-49f8-a009-688644779ed7",
+               "id": "93",
+               "name": "doodles",
+               "type": "url",
+               "url": "http://www.google.com/doodles/search?query=Interactive"
+            }, {
+               "date_added": "13027021080000000",
+               "guid": "9634051f-d304-4317-b9b6-b8a369a49d4c",
+               "id": "94",
+               "name": "pi",
+               "type": "url",
+               "url": "http://stuff.mit.edu/afs/sipb/contrib/pi/pi-billion.txt"
+            }, {
+               "date_added": "13029459415000000",
+               "guid": "7c172912-eb40-464f-9f7a-f8aafd0ed7c0",
+               "id": "95",
+               "name": "cool facts",
+               "type": "url",
+               "url": "http://www.enchantedlearning.com/inventors/us.shtml"
+            }, {
+               "date_added": "13029526842000000",
+               "guid": "bb005fe5-2f49-4ea6-98e0-a2cd43928b4f",
+               "id": "96",
+               "name": "Did you know?",
+               "type": "url",
+               "url": "http://didyouknow.org/"
+            }, {
+               "date_added": "13030391749000000",
+               "guid": "e8dffbda-bd52-4271-b730-af46f4c33f2c",
+               "id": "97",
+               "name": "easycalculation.com/404-error.php",
+               "type": "url",
+               "url": "http://easycalculation.com/404-error.php"
+            }, {
+               "date_added": "13035409195000000",
+               "guid": "0d15074b-249d-47da-b281-5bbcdbc478f0",
+               "id": "98",
+               "name": "Card Games Rules & Instructions",
+               "type": "url",
+               "url": "http://www.classicgamesandpuzzles.com/Card-Games.html"
+            }, {
+               "date_added": "13044044901000000",
+               "guid": "e7efb1b5-2f51-4736-9aa7-b41099b76535",
+               "id": "99",
+               "name": "Secret Paper Aeroplanes - How to make splendid paper airplanes",
+               "type": "url",
+               "url": "http://www.paperaeroplanes.com/"
+            }, {
+               "date_added": "13044488091000000",
+               "guid": "443052d4-c190-4fbc-b121-e2c13509e8d8",
+               "id": "100",
+               "name": "Explain that stuff!",
+               "type": "url",
+               "url": "http://www.explainthatstuff.com/"
+            }, {
+               "date_added": "13048358427000000",
+               "guid": "eb26d5f4-fada-43c4-ae7d-44b2e1105cf4",
+               "id": "101",
+               "name": "Nanotechnology: A simple and fun introduction!",
+               "type": "url",
+               "url": "http://www.explainthatstuff.com/nanotechnologyforkids.html"
+            }, {
+               "date_added": "13062549752000000",
+               "guid": "3a6f6a32-3d2b-40e5-84c8-a9a87a4f9131",
+               "id": "102",
+               "name": "70 Random Facts! | Computer Science | Khan Academy",
+               "type": "url",
+               "url": "https://www.khanacademy.org/computer-programming/70-random-facts/5433028146102272"
+            }, {
+               "date_added": "13182645268000000",
+               "guid": "cda9413c-927f-4711-91cf-0b7a9d5a38c5",
+               "id": "103",
+               "name": "List of nature deities - Wikipedia",
+               "type": "url",
+               "url": "https://en.wikipedia.org/wiki/List_of_nature_deities"
+            }, {
+               "date_added": "13188436149000000",
+               "guid": "e1928c3a-b90c-4d73-972b-1c47bd054d9b",
+               "id": "104",
+               "name": "C add9 GUITAR CHORDS",
+               "type": "url",
+               "url": "http://www.all-guitar-chords.com/index.php?ch=C&mm=add9&v=1"
+            }, {
+               "date_added": "13191456492000000",
+               "guid": "74f63b4c-4089-495f-aee4-e3d16f319097",
+               "id": "105",
+               "name": "pathway assignments list ",
+               "type": "url",
+               "url": "https://byui.instructure.com/courses/37910/quizzes/437555?module_item_id=2917942"
+            }, {
+               "date_added": "13191462936000000",
+               "guid": "8acf4069-656b-4e8b-b737-929cfc17f141",
+               "id": "106",
+               "name": "Syllabus for Basic Writing",
+               "type": "url",
+               "url": "https://byui.instructure.com/courses/37910/assignments/syllabus"
+            }, {
+               "date_added": "13192498087000000",
+               "guid": "eeb88d02-9166-45fa-a5bd-9a52c588ea95",
+               "id": "107",
+               "name": "National Student Clearinghouse Transcript Services",
+               "type": "url",
+               "url": "https://tsorder.studentclearinghouse.org/school/welcome"
+            }, {
+               "date_added": "13192499349000000",
+               "guid": "a024bf62-ce96-4d6b-a62a-15b6837899ec",
+               "id": "108",
+               "name": "https://prd.endorse.byu.edu/endorsement/status",
+               "type": "url",
+               "url": "https://prd.endorse.byu.edu/endorsement/status"
+            }, {
+               "date_added": "13192689158000000",
+               "guid": "7c5f27ce-f379-4e2d-9063-243033c964c8",
+               "id": "109",
+               "name": "where to send transcripts",
+               "type": "url",
+               "url": "http://www.byui.edu/my-transfer-credit/university-and-college-credit"
+            }, {
+               "date_added": "13149927815000000",
+               "guid": "ee809c57-feff-46bd-863e-e5e723700e5b",
+               "id": "110",
+               "name": "",
+               "type": "url",
+               "url": "https://open.spotify.com/browse"
+            }, {
+               "date_added": "13033590174000000",
+               "guid": "91b1bca9-30f1-4973-b28c-cd5e12d74d01",
+               "id": "111",
+               "name": "",
+               "type": "url",
+               "url": "http://web2.0calc.com/"
+            }, {
+               "date_added": "13249354489000000",
+               "guid": "f0891973-895e-43e8-a78b-34d8fdedf36b",
+               "id": "432",
+               "name": "latex tutorial",
+               "type": "url",
+               "url": "https://www.latex-tutorial.com/tutorials/"
+            }, {
+               "children": [ {
+                  "date_added": "13281307183482042",
+                  "guid": "544dfdc7-3f77-40b9-8628-9aaf8dbd878c",
+                  "id": "496",
+                  "name": "united",
+                  "type": "url",
+                  "url": "https://www.united.com/ual/en/us/fly/travel/what-to-expect.html"
+               }, {
+                  "date_added": "13281307271838138",
+                  "guid": "bbb2dc4f-1c41-47b3-b24e-2bf64b59fd2e",
+                  "id": "498",
+                  "name": "southwest",
+                  "type": "url",
+                  "url": "https://www.southwest.com/html/customer-service/unique-travel-needs/customers-with-disabilities-pol.html/?clk=PROMISE_FAQ#unique_travel_needs_allergies_disabilities_pol_tab_list_tab_14_scroll"
+               } ],
+               "date_added": "13281307213774014",
+               "date_modified": "13281770749935396",
+               "guid": "f1b936e1-5e1d-4ac4-b4e5-ca7482386a9c",
+               "id": "497",
+               "name": "Mask Exemptions",
+               "type": "folder"
+            } ],
+            "date_added": "13251503480559811",
+            "date_modified": "13260430544803928",
+            "guid": "b148dcd0-7da4-4462-8f5f-5a95c8b04382",
+            "id": "92",
+            "name": "Misc",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13195693520000000",
+               "guid": "bef39fb6-a898-4965-a62b-5ad4a3cd56be",
+               "id": "113",
+               "name": "Dictionary",
+               "type": "url",
+               "url": "https://www.merriam-webster.com/dictionary/dictionary"
+            }, {
+               "date_added": "13195691296000000",
+               "guid": "9f20fbf3-5b7f-4643-b81f-1861cd98c8a3",
+               "id": "114",
+               "name": "Thesaurus",
+               "type": "url",
+               "url": "https://www.merriam-webster.com/thesaurus"
+            }, {
+               "date_added": "13141882265000000",
+               "guid": "f4a2564f-4fdb-4fbb-ae2b-886307523158",
+               "id": "115",
+               "name": "Reverse Dictionary",
+               "type": "url",
+               "url": "https://www.onelook.com/reverse-dictionary.shtml"
+            }, {
+               "date_added": "13196926640000000",
+               "guid": "a5349cb2-10f2-4a69-b83a-e95d6b8630eb",
+               "id": "116",
+               "name": "Ultimate Guitar",
+               "type": "url",
+               "url": "https://www.ultimate-guitar.com/user/playlist"
+            }, {
+               "date_added": "13060594583000000",
+               "guid": "74397600-fd79-4cd9-b4c4-41c273579943",
+               "id": "117",
+               "name": "Wolfram|Alpha",
+               "type": "url",
+               "url": "http://www.wolframalpha.com/"
+            }, {
+               "date_added": "13203807477000000",
+               "guid": "39da0d9d-246a-4acf-bc26-52f6c7067e1e",
+               "id": "118",
+               "name": "The Months",
+               "type": "url",
+               "url": "https://www.datecalculator.org/which-months-have-31-days"
+            }, {
+               "date_added": "13057179845000000",
+               "guid": "4d68e822-f34f-4283-a3a7-6abacc2de17a",
+               "id": "119",
+               "name": "what if...",
+               "type": "url",
+               "url": "https://what-if.xkcd.com/archive/"
+            }, {
+               "date_added": "13196478649000000",
+               "guid": "95bef21c-a31e-432b-9868-d4e705cb4719",
+               "id": "120",
+               "name": "The Coppermind",
+               "type": "url",
+               "url": "https://www.coppermind.net/wiki/Coppermind:Welcome"
+            }, {
+               "date_added": "13172192165000000",
+               "guid": "37482523-26da-4532-932e-c0bfe863ccb0",
+               "id": "121",
+               "name": "Strand Lengths — Nick's Whip Shop",
+               "type": "url",
+               "url": "http://www.nickswhipshop.com/whip-making/"
+            }, {
+               "date_added": "13128548685000000",
+               "guid": "f1517366-ed72-4520-ac3c-830283a31fd5",
+               "id": "122",
+               "name": "ID List",
+               "type": "url",
+               "url": "http://minecraft-ids.grahamedgecombe.com/"
+            }, {
+               "date_added": "13149122705000000",
+               "guid": "f260ee83-0dcf-4f9a-8cf3-2b5b7865eaab",
+               "id": "123",
+               "name": "Common physics notations",
+               "type": "url",
+               "url": "https://en.wikipedia.org/wiki/List_of_common_physics_notations"
+            }, {
+               "date_added": "13136347169000000",
+               "guid": "5c25fe44-e4f1-4dfe-ab7b-6e8e410d1b20",
+               "id": "124",
+               "name": "Virtual Oscilloscope",
+               "type": "url",
+               "url": "https://academo.org/demos/virtual-oscilloscope/"
+            }, {
+               "date_added": "13135674161000000",
+               "guid": "fa29c230-7b16-4b7a-9d1a-5bd57618786b",
+               "id": "125",
+               "name": "List of unusual words beginning with B",
+               "type": "url",
+               "url": "http://phrontistery.info/b.html"
+            }, {
+               "date_added": "13142573227000000",
+               "guid": "05374d3c-8b32-47be-b8b8-bb630c1b7475",
+               "id": "126",
+               "name": "Lots of guitar chords",
+               "type": "url",
+               "url": "http://www.heartwoodguitar.com/chords/"
+            }, {
+               "date_added": "13149212755000000",
+               "guid": "2a1bd4a0-15e8-47fd-a69a-28e2ec489379",
+               "id": "127",
+               "name": "Common physics equations",
+               "type": "url",
+               "url": "https://physics.info/equations/"
+            }, {
+               "children": [ {
+                  "date_added": "13034967659000000",
+                  "guid": "057f8c31-75e2-4e12-97ca-12d1fa926685",
+                  "id": "129",
+                  "name": "HowStuffWorks",
+                  "type": "url",
+                  "url": "http://www.howstuffworks.com/"
+               }, {
+                  "date_added": "13034967659000000",
+                  "guid": "1b4a09ca-c6a3-4f27-9119-8eca15dae0ed",
+                  "id": "130",
+                  "name": "Smithsonian Institution",
+                  "type": "url",
+                  "url": "http://www.si.edu/"
+               }, {
+                  "date_added": "13034967659000000",
+                  "guid": "29157c12-1f6b-44a8-beaf-7d10f185b76a",
+                  "id": "131",
+                  "name": "National Geographic - Kids",
+                  "type": "url",
+                  "url": "http://www.nationalgeographic.com/kids/"
+               }, {
+                  "date_added": "13037130952000000",
+                  "guid": "c2cf5317-56b3-470a-94d8-357ac07486ff",
+                  "id": "132",
+                  "name": "phisics.org",
+                  "type": "url",
+                  "url": "http://www.physics.org/article-questions.asp?id=82"
+               }, {
+                  "date_added": "13169605985000000",
+                  "guid": "0081633e-f9ae-4c2e-b598-419574de62bf",
+                  "id": "133",
+                  "name": "Logic gate simulator - ScienceDemos.org.uk",
+                  "type": "url",
+                  "url": "https://sciencedemos.org.uk/logic_gates.php"
+               }, {
+                  "date_added": "13183585822000000",
+                  "guid": "4eee1a58-8799-4b60-829d-473c0b26d390",
+                  "id": "134",
+                  "name": "The Photographic Periodic Table of the Elements",
+                  "type": "url",
+                  "url": "http://periodictable.com/"
+               }, {
+                  "date_added": "13189928056000000",
+                  "guid": "dcaa7909-f2c9-4dda-b7ac-159fb9dcbb8e",
+                  "id": "135",
+                  "name": "Map Coloring WP2.pdf",
+                  "type": "url",
+                  "url": "https://www.dwavesys.com/sites/default/files/Map%20Coloring%20WP2.pdf"
+               } ],
+               "date_added": "13251503480564794",
+               "date_modified": "0",
+               "guid": "9c77f4ee-63b2-4189-806a-0d6866e57a39",
+               "id": "128",
+               "name": "science",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "children": [ {
+                        "date_added": "13058594535000000",
+                        "guid": "5bcb2fcc-7ec4-42a8-94ff-bcad7b6e0e9e",
+                        "id": "139",
+                        "name": "LEGO® MINDSTORMS® NXT Help and Support",
+                        "type": "url",
+                        "url": "file:///C:/Program%20Files%20(x86)/LEGO%20Software/LEGO%20MINDSTORMS%20NXT/engine/EditorVIs/Help%20Content/Full%20Help/start.htm?topic=file:///C:/Program%20Files%20(x86)/LEGO%20Software/LEGO%20MINDSTORMS%20NXT/engine/EditorVIs/Help%20Content/Full%20Help/topics/Help_Broken%20Data%20Wires.htm"
+                     }, {
+                        "date_added": "13058497596000000",
+                        "guid": "78582473-02d6-466f-86b3-146e3b95ead5",
+                        "id": "140",
+                        "name": "mindstorm instructions",
+                        "type": "url",
+                        "url": "https://education.lego.com/en-us/lesi/support/product-support/mindstorms-education-nxt/nxt-base-set-9797/building-instructions"
+                     }, {
+                        "date_added": "13061267889000000",
+                        "guid": "d016658c-9f1c-418a-9cad-493def9140cd",
+                        "id": "141",
+                        "name": "Mission Model Building Instructions | FIRST LEGO League",
+                        "type": "url",
+                        "url": "http://www.firstlegoleague.org/challenge/missionmodelbuildinginstructions"
+                     } ],
+                     "date_added": "13251503480565837",
+                     "date_modified": "0",
+                     "guid": "6ab6cfb4-7602-4640-96c9-97bb1ea07a2f",
+                     "id": "138",
+                     "name": "Mindstorms",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13141181787000000",
+                        "guid": "3c87c1e6-2510-4c1e-a479-013f376c753e",
+                        "id": "143",
+                        "name": "JavaFX Application",
+                        "type": "url",
+                        "url": "https://www.tutorialspoint.com/javafx/javafx_application.htm"
+                     }, {
+                        "date_added": "13139031446000000",
+                        "guid": "867fc882-c242-47b3-a780-c3c87a695c03",
+                        "id": "144",
+                        "name": "Minesweeper.java",
+                        "type": "url",
+                        "url": "http://introcs.cs.princeton.edu/java/14array/Minesweeper.java.html"
+                     }, {
+                        "date_added": "13133681563000000",
+                        "guid": "0ec0d541-ea55-4b10-8984-231a8e9f3675",
+                        "id": "145",
+                        "name": "Introduction to JavaFX for Game Development",
+                        "type": "url",
+                        "url": "https://gamedevelopment.tutsplus.com/tutorials/introduction-to-javafx-for-game-development--cms-23835"
+                     }, {
+                        "date_added": "13130740625000000",
+                        "guid": "4da0510f-0d2c-4fed-b89b-918366ee9613",
+                        "id": "146",
+                        "name": "Java Fundamentals: The Java Language",
+                        "type": "url",
+                        "url": "https://app.pluralsight.com/player?course=java-fundamentals-language&author=jim-wilson&name=java-fundamentals-language-m6&clip=6&mode=live"
+                     }, {
+                        "date_added": "13130555671000000",
+                        "guid": "8d829d6c-a092-4a24-9acb-dce7eb7826a3",
+                        "id": "147",
+                        "name": "Chapter 3. Lexical Structure",
+                        "type": "url",
+                        "url": "http://docs.oracle.com/javase/specs/jls/se8/html/jls-3.html"
+                     }, {
+                        "date_added": "13130731033000000",
+                        "guid": "b7a31185-da3e-4cfd-8d53-b52dce461f33",
+                        "id": "148",
+                        "name": "Java Basic Operators",
+                        "type": "url",
+                        "url": "https://www.tutorialspoint.com/java/java_basic_operators.htm"
+                     }, {
+                        "date_added": "13061440189000000",
+                        "guid": "0bbcccc6-ae32-4bc9-a566-18b4bced34a8",
+                        "id": "149",
+                        "name": "Thinking in Java, 3rd ed. Revision 4.0",
+                        "type": "url",
+                        "url": "file:///C:/Users/Lee/Downloads/TIJ-3rd-edition4.0/TIJ3.htm"
+                     } ],
+                     "date_added": "13251503480566426",
+                     "date_modified": "0",
+                     "guid": "f568277b-fa73-4069-b402-d9e47eb69011",
+                     "id": "142",
+                     "name": "Java",
+                     "type": "folder"
+                  }, {
+                     "date_added": "13065594602000000",
+                     "guid": "1f9016ff-5889-45d0-9b7a-cd2375809ba9",
+                     "id": "150",
+                     "name": "periodic table of the stacks",
+                     "type": "url",
+                     "url": "http://i.imgur.com/64NrPJU.png"
+                  }, {
+                     "date_added": "13127351573000000",
+                     "guid": "8b5036b9-2fa9-46f2-83b3-f9ccc226f804",
+                     "id": "151",
+                     "name": "robocode wiki",
+                     "type": "url",
+                     "url": "http://robowiki.net/wiki/Robocode"
+                  }, {
+                     "date_added": "13130564414000000",
+                     "guid": "c8424691-caeb-4aa2-bdea-072349235d72",
+                     "id": "152",
+                     "name": "Behind the Lines | Resource Library | FIRST",
+                     "type": "url",
+                     "url": "http://www.firstinspires.org/resource-library/frc/behind-the-lines"
+                  }, {
+                     "date_added": "13131171821000000",
+                     "guid": "20bb3589-561b-4853-b343-22c39abafed6",
+                     "id": "153",
+                     "name": "GC: Object - java.lang.Object (.java) - GrepCode Class Source",
+                     "type": "url",
+                     "url": "http://grepcode.com/file/repository.grepcode.com/java/root/jdk/openjdk/6-b27/java/lang/Object.java"
+                  }, {
+                     "date_added": "13134869607000000",
+                     "guid": "277d5296-03a9-4bd5-bc12-84ba11f8cecf",
+                     "id": "154",
+                     "name": "Arduino - MouseKeyboard",
+                     "type": "url",
+                     "url": "https://www.arduino.cc/en/Reference/MouseKeyboard"
+                  }, {
+                     "date_added": "13134953389000000",
+                     "guid": "60c66c93-7161-4ee0-978d-24156120ea96",
+                     "id": "155",
+                     "name": "Arduino - KeyboardModifiers",
+                     "type": "url",
+                     "url": "https://www.arduino.cc/en/Reference/KeyboardModifiers"
+                  }, {
+                     "date_added": "13135071475000000",
+                     "guid": "624b9452-0e4c-442a-b50d-a2ff189202a2",
+                     "id": "156",
+                     "name": "Pixel reference · FastLED/FastLED Wiki · GitHub",
+                     "type": "url",
+                     "url": "https://github.com/FastLED/FastLED/wiki/Pixel-reference"
+                  } ],
+                  "date_added": "13251503480565766",
+                  "date_modified": "0",
+                  "guid": "c62cef1b-bcb9-45ec-bbbf-29c187d4ff7c",
+                  "id": "137",
+                  "name": "FRC",
+                  "type": "folder"
+               }, {
+                  "date_added": "13193198516000000",
+                  "guid": "93742fe8-c4d7-492b-8447-f3ee6903d802",
+                  "id": "157",
+                  "name": "library test prep",
+                  "type": "url",
+                  "url": "https://www.learningexpresshub.com/productengine/LELIndex.html#/center/learningexpresslibrary/college-preparation-center/home/prepare-for-your-act-test"
+               }, {
+                  "date_added": "13193198528000000",
+                  "guid": "83d08d65-f6c0-4d7f-8ed0-3b8a6a9bb1fe",
+                  "id": "158",
+                  "name": "act prep",
+                  "type": "url",
+                  "url": "https://www.opened.com/act-portal/dashboard"
+               }, {
+                  "date_added": "13034967723000000",
+                  "guid": "3d655a67-abdc-4eb8-8735-c258dae6c552",
+                  "id": "159",
+                  "name": "useable wiki",
+                  "type": "url",
+                  "url": "http://www.newton.dep.anl.gov/"
+               }, {
+                  "date_added": "13034967697000000",
+                  "guid": "d2c3d20d-04ce-4bd2-9feb-bd4aa3a04759",
+                  "id": "160",
+                  "name": "Discovery Education",
+                  "type": "url",
+                  "url": "http://www.discoveryeducation.com/index.cfm?errMsg=Incorrect%20username%20or%20password."
+               }, {
+                  "date_added": "13034965605000000",
+                  "guid": "edb4de00-4add-404b-976d-2d81f4e08d1d",
+                  "id": "161",
+                  "name": "The American Revolution - (Home)",
+                  "type": "url",
+                  "url": "http://www.theamericanrevolution.org/"
+               }, {
+                  "date_added": "13201221224000000",
+                  "guid": "594892ac-009b-4c09-ac90-27a491cbeb18",
+                  "id": "162",
+                  "name": "MinGW | Minimalist GNU for Windows",
+                  "type": "url",
+                  "url": "http://www.mingw.org/"
+               }, {
+                  "date_added": "13202461446000000",
+                  "guid": "2e3cd847-99a9-42b6-8493-51bcfd93dc05",
+                  "id": "163",
+                  "name": "Bill Weaver SR-71 Blackbird Breakup",
+                  "type": "url",
+                  "url": "http://roadrunnersinternationale.com/weaver_sr71_bailout.html"
+               } ],
+               "date_added": "13251503480565690",
+               "date_modified": "0",
+               "guid": "b0a7db51-64d5-4973-b667-881010736c46",
+               "id": "136",
+               "name": "Old References I don't want to get rid of",
+               "type": "folder"
+            }, {
+               "date_added": "13204066413000000",
+               "guid": "25aacd5b-7638-4970-bdb2-6e6efa9d0881",
+               "id": "164",
+               "name": "We like to hear from you!",
+               "type": "url",
+               "url": "https://manytools.org/contact/"
+            }, {
+               "date_added": "13205013497000000",
+               "guid": "086ef783-12b4-4129-9c18-969951967d87",
+               "id": "165",
+               "name": "Ascii Table",
+               "type": "url",
+               "url": "http://www.asciitable.com/"
+            }, {
+               "date_added": "13200463463000000",
+               "guid": "26059ecd-45d6-48fe-a680-eb43f0b9c79f",
+               "id": "166",
+               "name": "Scholly - Editor",
+               "type": "url",
+               "url": "https://app.myscholly.com/editor"
+            }, {
+               "date_added": "13213411493000000",
+               "guid": "193635d8-5adb-4392-ad72-990e19214daa",
+               "id": "167",
+               "name": "Amazon",
+               "type": "url",
+               "url": "https://smile.amazon.com/"
+            }, {
+               "date_added": "13213411529000000",
+               "guid": "1e57a0ed-3175-4f65-8135-f671809247f3",
+               "id": "168",
+               "name": "eBay",
+               "type": "url",
+               "url": "https://www.ebay.com/"
+            }, {
+               "date_added": "13220868502000000",
+               "guid": "1cc85228-c927-4a62-8174-a9a127d016c5",
+               "id": "169",
+               "name": "Commands – Official Minecraft Wiki",
+               "type": "url",
+               "url": "https://minecraft.gamepedia.com/Commands"
+            }, {
+               "date_added": "13223611671000000",
+               "guid": "dc10be62-ef60-4b9a-be96-9d167aed9352",
+               "id": "170",
+               "name": "McKay Library - Swank",
+               "type": "url",
+               "url": "https://digitalcampus-swankmp-net.byui.idm.oclc.org/byuidatabase/#/digitalCampus/browse"
+            }, {
+               "date_added": "13230440395000000",
+               "guid": "f0a2133b-755c-448a-a75c-a15c1b79f2e3",
+               "id": "171",
+               "name": "Easy Filesharing",
+               "type": "url",
+               "url": "https://share.riseup.net/"
+            }, {
+               "date_added": "13230456888000000",
+               "guid": "e99d0afd-0540-405f-8999-655f0420d5b9",
+               "id": "172",
+               "name": "basic git tutorial",
+               "type": "url",
+               "url": "https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners"
+            }, {
+               "date_added": "13232485953000000",
+               "guid": "b5807fb0-9b15-45b8-a054-3748e58e8b3c",
+               "id": "173",
+               "name": "unit converter",
+               "type": "url",
+               "url": "https://duckduckgo.com/?q=unit+converter&ia=answer"
+            }, {
+               "date_added": "13232486685000000",
+               "guid": "06ebb3b0-3f09-4251-9a8b-a4d09080c266",
+               "id": "174",
+               "name": "Launch Meeting - Zoom",
+               "type": "url",
+               "url": "https://byui.zoom.us/j/96891726179"
+            }, {
+               "date_added": "13232651187000000",
+               "guid": "75257a60-9950-488e-aa6c-521c5f5f0793",
+               "id": "175",
+               "name": "Google Hangouts",
+               "type": "url",
+               "url": "https://hangouts.google.com/"
+            }, {
+               "date_added": "13233821459000000",
+               "guid": "df5bc8c8-3d6f-48d3-b799-e7f73b5ea8ee",
+               "id": "176",
+               "name": "Grade percentages",
+               "type": "url",
+               "url": "https://www.wikihow.com/images/thumb/a/aa/Convert-a-Percentage-into-a-4.0-Grade-Point-Average-Step-4-Version-2.jpg/aid593033-v4-728px-Convert-a-Percentage-into-a-4.0-Grade-Point-Average-Step-4-Version-2.jpg"
+            }, {
+               "date_added": "13234413175000000",
+               "guid": "5175cd79-312e-4ac2-865b-edcf2320d03d",
+               "id": "177",
+               "name": "Regex Syntax",
+               "type": "url",
+               "url": "https://duckduckgo.com/?q=regular+expression+cheat+sheet&ia=cheatsheet&iax=1"
+            }, {
+               "date_added": "13246669669000000",
+               "guid": "4c8c9f3b-d093-4c16-ad72-4cbbd8c739cc",
+               "id": "178",
+               "name": "unicode table",
+               "type": "url",
+               "url": "https://unicode-table.com/en/2713/"
+            }, {
+               "date_added": "13260230214824113",
+               "guid": "b5170357-7d18-448b-b0be-7a065999fecc",
+               "id": "454",
+               "name": "Sign up for Institute",
+               "type": "url",
+               "url": "https://icl.churchofjesuschrist.org/"
+            }, {
+               "date_added": "13230089787000000",
+               "guid": "0ca1d52a-98e1-4881-b2dc-1743ca12da45",
+               "id": "419",
+               "name": "Brigham Keys · GitGud",
+               "type": "url",
+               "url": "https://gitgud.io/bkeys"
+            }, {
+               "date_added": "13249616240000000",
+               "guid": "6b139db7-8bc6-4ce2-9d80-b2d876cdf4b2",
+               "id": "434",
+               "name": "My Resumé 5.0 - Google Docs",
+               "type": "url",
+               "url": "https://docs.google.com/document/d/1IUdI9n9-bxavftKY7j_SXHQL0X2RED2RrMI7qQgCoh0/edit"
+            }, {
+               "date_added": "13249593056000000",
+               "guid": "e63950c3-13a1-4ce1-bb89-1e9214c8f43f",
+               "id": "433",
+               "name": "dictionary",
+               "type": "url",
+               "url": "https://www.oxfordlearnersdictionaries.com/"
+            }, {
+               "date_added": "13261635052431681",
+               "guid": "4152408c-fe1f-45c6-bf7a-01a950b06d66",
+               "id": "460",
+               "name": "better file transfer",
+               "type": "url",
+               "url": "https://wetransfer.com/"
+            }, {
+               "date_added": "13263353007559069",
+               "guid": "a1989413-326f-4955-892b-072fb1ca3d36",
+               "id": "462",
+               "name": "Maintenance",
+               "type": "url",
+               "url": "https://rexburg.starrezhousing.com/StarRezPortal/350C7C2C/13/90/Maintenance_Request-Maintenance?UrlToken=1D661F49"
+            }, {
+               "date_added": "13263611622398893",
+               "guid": "6e356e01-0516-4763-8ea7-db50c010ef79",
+               "id": "464",
+               "name": "Stuff to do on campus",
+               "type": "url",
+               "url": "https://ibelong.byui.edu/events"
+            }, {
+               "date_added": "13276045903821845",
+               "guid": "e909f895-5e7f-4e0a-8c20-96473c3fd5a2",
+               "id": "480",
+               "name": "Regex tutorial",
+               "type": "url",
+               "url": "https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285"
+            }, {
+               "date_added": "13276136739665425",
+               "guid": "6be4fdbf-e7d6-4d44-8ee2-005cfd58398c",
+               "id": "483",
+               "name": "Python Magic Methods",
+               "type": "url",
+               "url": "https://rszalski.github.io/magicmethods/"
+            } ],
+            "date_added": "13251503480562941",
+            "date_modified": "13281307189312598",
+            "guid": "ec9efefd-3593-4e86-90ec-6aed25d67314",
+            "id": "112",
+            "name": "Quick",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13195423307000000",
+                  "guid": "f5cd2433-f9de-4a43-b0fb-88ec2b73af92",
+                  "id": "181",
+                  "name": "Teachings and Doctrine of the Book of Mormon Student Readings",
+                  "type": "url",
+                  "url": "https://www.lds.org/study/manual/teachings-and-doctrine-of-the-book-of-mormon-student-readings/student-readings?lang=eng&_r=1"
+               }, {
+                  "date_added": "13195423339000000",
+                  "guid": "7aac7f8e-4743-4b40-a066-81f9d812b9ec",
+                  "id": "182",
+                  "name": "Foundations of the Restoration Student Readings",
+                  "type": "url",
+                  "url": "https://www.lds.org/study/manual/foundations-of-the-restoration-student-readings/student-readings?lang=eng&_r=1"
+               } ],
+               "date_added": "13251503480571072",
+               "date_modified": "0",
+               "guid": "79d2e5d7-66c0-4f61-9c03-6faf6e81aeb1",
+               "id": "180",
+               "name": "Homework to do",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13213129687000000",
+                  "guid": "2c403b5b-50e7-4d77-9bd5-d9b25b8e2a4d",
+                  "id": "184",
+                  "name": "CS 165 Textbook",
+                  "type": "url",
+                  "url": "https://content.byui.edu/file/2315e65e-a34a-48d3-814d-4175a2b74ed5/1/textbooks/CS165_Textbook.pdf"
+               }, {
+                  "date_added": "13200529007000000",
+                  "guid": "993efc55-3c56-42d5-aabd-dadc5626af79",
+                  "id": "185",
+                  "name": "Procedural Programming in C++",
+                  "type": "url",
+                  "url": "https://content.byui.edu/file/66227afd-b800-4ba3-b6b3-18db4db6c440/1/ProceduralProgramming.pdf"
+               }, {
+                  "date_added": "13200522330000000",
+                  "guid": "0a2dbb6c-c12f-4525-a7cd-7817f50fbda0",
+                  "id": "186",
+                  "name": "cppreference.com",
+                  "type": "url",
+                  "url": "https://en.cppreference.com/w/"
+               }, {
+                  "date_added": "13208324686000000",
+                  "guid": "7709763e-e4e3-4f89-b268-f4f02a45c886",
+                  "id": "187",
+                  "name": "Quick Gdb Guide",
+                  "type": "url",
+                  "url": "http://condor.depaul.edu/glancast/373class/docs/gdb.html"
+               }, {
+                  "date_added": "13216772855000000",
+                  "guid": "afb8560a-0e13-4463-b2c8-69fbab59e572",
+                  "id": "188",
+                  "name": "WaveDrom Editor",
+                  "type": "url",
+                  "url": "https://wavedrom.com/editor.html"
+               } ],
+               "date_added": "13251503480571467",
+               "date_modified": "0",
+               "guid": "8bc53ef8-24af-4937-9f6d-cb9f34eddc32",
+               "id": "183",
+               "name": "CS",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13200448837000000",
+                  "guid": "6bf5041e-af57-4e04-8cc3-3aa17e6903c1",
+                  "id": "190",
+                  "name": "Syllabus for Jesus Christ Everlasting Gospel",
+                  "type": "url",
+                  "url": "https://byui.instructure.com/courses/44614/assignments/syllabus"
+               }, {
+                  "date_added": "13200448883000000",
+                  "guid": "7d9bf84f-9556-430b-84ff-462a6d315b5c",
+                  "id": "191",
+                  "name": "Syllabus for CS 124",
+                  "type": "url",
+                  "url": "https://byui.instructure.com/courses/43344/assignments/syllabus"
+               }, {
+                  "date_added": "13200448919000000",
+                  "guid": "3d945c85-e4a8-4044-8e65-087b9fba6a4d",
+                  "id": "192",
+                  "name": "Syllabus for Intermediate Algebra",
+                  "type": "url",
+                  "url": "https://byui.instructure.com/courses/49178/assignments/syllabus"
+               }, {
+                  "date_added": "13200448935000000",
+                  "guid": "bd6a6d78-6a61-4455-b873-07329ce0ae5d",
+                  "id": "193",
+                  "name": "Syllabus for General Psychology",
+                  "type": "url",
+                  "url": "https://byui.instructure.com/courses/45930/assignments/syllabus"
+               }, {
+                  "date_added": "13200448953000000",
+                  "guid": "f5dfc026-cd71-4fe1-acae-7d8f6c47e0fe",
+                  "id": "194",
+                  "name": "Syllabus for Intro to ECEN",
+                  "type": "url",
+                  "url": "https://byui.instructure.com/courses/45030/assignments/syllabus"
+               } ],
+               "date_added": "13251503480572167",
+               "date_modified": "0",
+               "guid": "71ef932e-b955-4972-9ad8-aa255bc67d34",
+               "id": "189",
+               "name": "Syllabi",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13223164919000000",
+                  "guid": "ff2b3a50-ddff-4951-ad4a-5cc6737eadfd",
+                  "id": "196",
+                  "name": "yenrabEd / cs_235_course_material / weeklies — Bitbucket",
+                  "type": "url",
+                  "url": "https://bitbucket.org/yenrabEd/cs_235_course_material/src/master/weeklies/"
+               }, {
+                  "date_added": "13223164962000000",
+                  "guid": "4010ffbd-b8b7-4430-a561-378ae98d7f90",
+                  "id": "197",
+                  "name": "Syllabus-portfolio.pdf",
+                  "type": "url",
+                  "url": "file:///home/Robert/College/CS%20235/Syllabus-portfolio.pdf"
+               }, {
+                  "date_added": "13223164967000000",
+                  "guid": "a7c06836-3020-40b6-bd8d-08fbfb43804a",
+                  "id": "198",
+                  "name": "yenrabEd / cs_235_unit_tests — Bitbucket",
+                  "type": "url",
+                  "url": "https://bitbucket.org/yenrabEd/cs_235_unit_tests/src/master/"
+               }, {
+                  "date_added": "13223587480000000",
+                  "guid": "43cb65f2-fa5f-44ea-9ac5-b3a18185603d",
+                  "id": "199",
+                  "name": "CS 235 Textbook",
+                  "type": "url",
+                  "url": "https://content.byui.edu/file/fcfa0eb8-c04e-4270-b79d-9134ffc9c2e5/1/DataStructures.pdf"
+               } ],
+               "date_added": "13251503480572852",
+               "date_modified": "0",
+               "guid": "e2318269-d36e-4bcb-8930-9501e6be7bb5",
+               "id": "195",
+               "name": "CS 235",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13223496370000000",
+                  "guid": "53203a68-5751-4bf1-a1e2-1d28371b69d0",
+                  "id": "201",
+                  "name": "Activities",
+                  "type": "url",
+                  "url": "https://app.kritik.io/course/5e0ba6ade7db554462f5eb6c/assignments"
+               }, {
+                  "date_added": "13223496402000000",
+                  "guid": "2a8c28d5-f8e7-401b-af58-eea9b8798f5c",
+                  "id": "202",
+                  "name": "Metaphors Be With You",
+                  "type": "url",
+                  "url": "https://rickneff.github.io/metaphors-be-with-you.html"
+               }, {
+                  "date_added": "13223496409000000",
+                  "guid": "77580c9d-613c-49d6-8759-bceb3fb4d665",
+                  "id": "203",
+                  "name": "Emacs Commands List",
+                  "type": "url",
+                  "url": "https://people.ast.cam.ac.uk/~vasily/idl/emacs_commands_list.html"
+               }, {
+                  "date_added": "13223496412000000",
+                  "guid": "2c85f7f3-7058-48a0-9efc-0cead7e47b44",
+                  "id": "204",
+                  "name": "Simple Tutorials",
+                  "type": "url",
+                  "url": "https://simpletutorials.com/c/3036/Spacemacs+%28Vim+mode%29+Cheatsheet"
+               }, {
+                  "date_added": "13223496415000000",
+                  "guid": "2cb4603f-c8bc-440f-903c-3c64a64fff15",
+                  "id": "205",
+                  "name": "Spacemacs_Cheat_Sheet_Compact_1.3.",
+                  "type": "url",
+                  "url": "https://ontologicalblog.files.wordpress.com/2016/12/spacemacs_cheat_sheet_1-22.pdf"
+               }, {
+                  "date_added": "13223497592000000",
+                  "guid": "68bc241c-15fd-4d11-b0e6-d24ae2215668",
+                  "id": "206",
+                  "name": "Home",
+                  "type": "url",
+                  "url": "https://rickneff.github.io/"
+               }, {
+                  "date_added": "13223497640000000",
+                  "guid": "ad8eca54-6ea8-4aab-a61a-cd03b4c0ec90",
+                  "id": "207",
+                  "name": "CS 237 Syllabus and Portfolio Winter 2020",
+                  "type": "url",
+                  "url": "https://rickneff.github.io/syllabus-portfolio.pdf"
+               }, {
+                  "date_added": "13223670337000000",
+                  "guid": "774f68a3-503e-40ba-83f5-53f43b6e41cd",
+                  "id": "208",
+                  "name": "CS 237 02 W20 | Quizlet",
+                  "type": "url",
+                  "url": "https://quizlet.com/class/13359085/"
+               } ],
+               "date_added": "13251503480573429",
+               "date_modified": "0",
+               "guid": "4a44afd5-a7ec-4910-9970-813f0b8bd61c",
+               "id": "200",
+               "name": "Discrete Math",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13233090130000000",
+                  "guid": "b14cc5bc-fc7e-4b84-a78d-220a9a4c6eb3",
+                  "id": "210",
+                  "name": "Periodic table",
+                  "type": "url",
+                  "url": "file:///home/Robert/College/chemistry/periodic%20table.pdf"
+               }, {
+                  "date_added": "13233090176000000",
+                  "guid": "ceaa6aac-c614-4e6b-b25e-4a4ab1e379b4",
+                  "id": "211",
+                  "name": "Common compounds",
+                  "type": "url",
+                  "url": "file:///home/Robert/College/chemistry/memorize%20these%20compounds!.png"
+               }, {
+                  "date_added": "13233090197000000",
+                  "guid": "898355d6-b517-4479-b735-ae6ac415085a",
+                  "id": "212",
+                  "name": "charges of the periodic table",
+                  "type": "url",
+                  "url": "file:///home/Robert/College/chemistry/memorize%20these%20charges.png"
+               }, {
+                  "date_added": "13232579660000000",
+                  "guid": "94c65a84-bb22-4fc4-bfac-b1aba871f197",
+                  "id": "213",
+                  "name": "chem textbook",
+                  "type": "url",
+                  "url": "file:///home/Robert/College/chemistry/chem%20textbook.pdf"
+               }, {
+                  "date_added": "13233090292000000",
+                  "guid": "fc9f0322-e697-4187-91ff-77e4c2ade920",
+                  "id": "214",
+                  "name": "Searchable list of elements",
+                  "type": "url",
+                  "url": "https://simple.wikipedia.org/wiki/List_of_elements_by_symbol"
+               }, {
+                  "date_added": "13235864679000000",
+                  "guid": "940b5786-2df8-413f-8877-30c0154f5730",
+                  "id": "215",
+                  "name": "JSmol molecule viewer",
+                  "type": "url",
+                  "url": "http://lampx.tugraz.at/~hadley/ss1/molecules/moleculeviewer/viewer.php"
+               } ],
+               "date_added": "13251503480574481",
+               "date_modified": "0",
+               "guid": "07deb082-4473-4ff6-8025-24bc714aef45",
+               "id": "209",
+               "name": "Chemistry",
+               "type": "folder"
+            }, {
+               "date_added": "13278294780280422",
+               "guid": "6fee6663-5a8c-4c4a-b8f6-898705a55653",
+               "id": "485",
+               "name": "ROLLERSKATING!",
+               "type": "url",
+               "url": "https://ibelong.byui.edu/events?topic_tags=4189473"
+            }, {
+               "date_added": "13222897082000000",
+               "guid": "af06351b-64e5-4d63-88ec-732d578bea42",
+               "id": "216",
+               "name": "Semester Schedule",
+               "type": "url",
+               "url": "https://web.byui.edu/Directory/student/schedule"
+            }, {
+               "date_added": "13195422944000000",
+               "guid": "3ff9d52e-cf30-4638-810c-ebfc5d5188a7",
+               "id": "219",
+               "name": "Music",
+               "type": "url",
+               "url": "http://www.byui.edu/catalog#/programs/N1egHmW2sb?bc=true&bcCurrent=Music&bcItemType=programs"
+            }, {
+               "date_added": "13194382630000000",
+               "guid": "d37e74f2-cd27-4d92-8491-a270b05bcc9c",
+               "id": "220",
+               "name": "Dating Ideas - RexburgFun",
+               "type": "url",
+               "url": "https://rexburgfun.com/dating-ideas/"
+            }, {
+               "date_added": "13199919515000000",
+               "guid": "48149c6d-09cb-4f03-8ac8-42029aae42cf",
+               "id": "221",
+               "name": "Cheep College Stuff!",
+               "type": "url",
+               "url": "https://www.academicperks.org/?gclid=Cj0KCQjw-tXlBRDWARIsAGYQAmeT89vxitzNicStx12CwYJ8RUs5EO6kKY4vSK1mqnVHgQI6vYsAw9AaAlrzEALw_wcB"
+            }, {
+               "date_added": "13201055357000000",
+               "guid": "55ec31c6-5f30-4239-99a3-4ea64b29f01d",
+               "id": "222",
+               "name": "Map of Campus",
+               "type": "url",
+               "url": "file:///C:/Users/Owner/Downloads/BYUI-Points-Of-Interest-Map.pdf"
+            }, {
+               "date_added": "13202514791000000",
+               "guid": "12246895-4c22-4456-8975-6c5578d64483",
+               "id": "223",
+               "name": "Email",
+               "type": "url",
+               "url": "https://outlook.office.com/mail/inbox"
+            }, {
+               "date_added": "13208327816000000",
+               "guid": "2c49d850-b803-4655-9d0b-73261a943c42",
+               "id": "224",
+               "name": "xkcd: Laundry",
+               "type": "url",
+               "url": "https://xkcd.com/1066/"
+            }, {
+               "date_added": "13213291903000000",
+               "guid": "d26626ad-0126-4efe-bd33-aa33cb3a507d",
+               "id": "226",
+               "name": "Database I Tutorials",
+               "type": "url",
+               "url": "https://content.byui.edu/file/d13e0ee0-369f-4e61-809e-f70989ee1add/1/db1/index.html"
+            }, {
+               "date_added": "13213293339000000",
+               "guid": "6ee125a0-7320-4938-816a-aca68c52fa68",
+               "id": "227",
+               "name": "Math Homework",
+               "type": "url",
+               "url": "https://www.mathxl.com/Student/DoAssignments.aspx?course_start_date=Sep+16%2c+2019&channel_partner_name=vitalsource&appproductid=3&course_end_date=Dec+22%2c+2019&material_id=26098&dda=true&course_name=Precalculus&view=all&opt_state=optin&course_description=MATH+109"
+            }, {
+               "date_added": "13213304093000000",
+               "guid": "3cb2deae-c80c-42fd-bbe9-0330554b9c01",
+               "id": "228",
+               "name": "Schedule",
+               "type": "url",
+               "url": "https://content.byui.edu/file/e5b18223-d56c-40c7-b575-eb204048e0bf/2/_mypages/387dde1d-f546-4df1-ad02-8e6a7d83b039/page.html"
+            }, {
+               "date_added": "13213397949000000",
+               "guid": "4c7f219f-17ec-4c1f-82e2-25fcf76827cd",
+               "id": "229",
+               "name": "math homework 2",
+               "type": "url",
+               "url": "https://courses.vitalsource.com/"
+            }, {
+               "date_added": "13213485645000000",
+               "guid": "88ef7dbf-e53b-4de8-872f-cb248a37c789",
+               "id": "230",
+               "name": "math homework 3",
+               "type": "url",
+               "url": "https://tpi.bb.pearsoncmg.com/highlander/api/o/lti/tools/dda"
+            }, {
+               "date_added": "13213989610000000",
+               "guid": "7c79414b-50e7-4181-b073-0ff2ea17341e",
+               "id": "231",
+               "name": "Calculator Programs!",
+               "type": "url",
+               "url": "https://www.ticalc.org/pub/83plus/basic/math/"
+            }, {
+               "date_added": "13214459973000000",
+               "guid": "58b092f4-3e5f-41f1-bf21-e504f7ceaa7e",
+               "id": "232",
+               "name": "Request help CIT lab",
+               "type": "url",
+               "url": "http://school-queue.herokuapp.com/dashboard"
+            }, {
+               "date_added": "13215901436000000",
+               "guid": "e68a70db-e328-401e-933a-f54c13489771",
+               "id": "233",
+               "name": "Database Tutorial",
+               "type": "url",
+               "url": "http://michaelmclaughlin.info/db1/"
+            }, {
+               "date_added": "13218567479000000",
+               "guid": "1614d234-8e49-4f7f-a631-f556187fbfba",
+               "id": "234",
+               "name": "Grad Plan",
+               "type": "url",
+               "url": "https://iplan.byui.edu/grad_plannerOld/index.html#/graduationplanner"
+            }, {
+               "date_added": "13220398915000000",
+               "guid": "72b3dacf-366d-4a78-940f-ff53a5d5425f",
+               "id": "235",
+               "name": "Testing Center Hours",
+               "type": "url",
+               "url": "http://www.byui.edu/testing-center"
+            }, {
+               "date_added": "13224296119000000",
+               "guid": "198176ce-b911-444d-9c2f-7d2ebbd86cc1",
+               "id": "236",
+               "name": "PRINT STUFF HERE",
+               "type": "url",
+               "url": "https://webprint.byui.edu/myprintcenter/"
+            }, {
+               "children": [ {
+                  "date_added": "13227822355000000",
+                  "guid": "60882476-3551-42b1-b723-f81810a186a1",
+                  "id": "238",
+                  "name": "What Is Open Source Software, and Why Does It Matter?",
+                  "type": "url",
+                  "url": "https://www.howtogeek.com/129967/htg-explains-what-is-open-source-software-and-why-you-should-care/"
+               }, {
+                  "date_added": "13227822389000000",
+                  "guid": "9da0c670-c750-41ca-b937-d4c23d7b40af",
+                  "id": "239",
+                  "name": "The Open Source Definition | Open Source Initiative",
+                  "type": "url",
+                  "url": "https://opensource.org/osd"
+               }, {
+                  "date_added": "13227822392000000",
+                  "guid": "d87103f5-ab5a-41d5-839b-fa273854ea2e",
+                  "id": "240",
+                  "name": "10 Reasons Open Source Is Good for Business | PCWorld",
+                  "type": "url",
+                  "url": "https://www.pcworld.com/article/209891/10_reasons_open_source_is_good_for_business.html"
+               }, {
+                  "date_added": "13227822393000000",
+                  "guid": "ae3b2c2e-1ba2-4ff5-a10d-6fd29378454c",
+                  "id": "241",
+                  "name": "Why \"open source\" is bad - Grumpycoder",
+                  "type": "url",
+                  "url": "http://blog.grumpycoder.net/index.php/post/2011/01/17/Why-open-source-is-bad"
+               }, {
+                  "date_added": "13227822396000000",
+                  "guid": "91f5b909-0cc3-4904-9acb-832f29a37b4b",
+                  "id": "242",
+                  "name": "7 Reasons Not to Use Open Source Software | CIO",
+                  "type": "url",
+                  "url": "https://www.cio.com/article/2378859/7-reasons-not-to-use-open-source-software.html"
+               } ],
+               "date_added": "13251503480577927",
+               "date_modified": "0",
+               "guid": "103fe384-87f5-41fe-a252-981c2b34ab63",
+               "id": "237",
+               "name": "Writing sources",
+               "type": "folder"
+            }, {
+               "date_added": "13230267469000000",
+               "guid": "a9e25a1d-067a-4d90-acfa-5cd177fbdf88",
+               "id": "243",
+               "name": "Bulletin Board",
+               "type": "url",
+               "url": "https://web.byui.edu/BulletinBoard/"
+            }, {
+               "date_added": "13226024930000000",
+               "guid": "8a6a5ed2-0290-48a7-84ab-c9eedc8b3f7f",
+               "id": "244",
+               "name": "Things to do on Campus",
+               "type": "url",
+               "url": "http://www.byui.edu/activities/social/social-events"
+            }, {
+               "date_added": "13232672882000000",
+               "guid": "4cf90119-00e0-47c8-98ca-72e57543d452",
+               "id": "245",
+               "name": "astronomy textbook",
+               "type": "url",
+               "url": "file:///home/Robert/Music/Audiobooks/OCR-Espeak/127Cosmic%20Perspective%208th%20Edition%20Chapters%201-3.pdf"
+            }, {
+               "date_added": "13243139298000000",
+               "guid": "8bbe573f-dcab-4700-bb14-d92f281595af",
+               "id": "246",
+               "name": "Computer Engineering Reqs.",
+               "type": "url",
+               "url": "https://www.byui.edu/catalog#/programs/VJBGQZ2s-?bc=true&bcCurrent=Computer%20Engineering&bcItemType=programs"
+            }, {
+               "date_added": "13244840623000000",
+               "guid": "7b5346ec-6233-4201-9328-9a6b96b1a0c3",
+               "id": "247",
+               "name": "ECEN 260 textbook",
+               "type": "url",
+               "url": "https://www-accessengineeringlibrary-com.byui.idm.oclc.org/content/book/9781259836190"
+            }, {
+               "date_added": "13244841144000000",
+               "guid": "0c3f3ae4-01be-47f7-8299-7597b6c31873",
+               "id": "248",
+               "name": "ECEN 260 zoom link",
+               "type": "url",
+               "url": "https://byui.zoom.us/wc/join/2083135603"
+            }, {
+               "date_added": "13254969343919966",
+               "guid": "86ad637a-76e2-47f2-be60-9016dbdc58d1",
+               "id": "442",
+               "name": "Handshake",
+               "type": "url",
+               "url": "https://byui.joinhandshake.com/"
+            }, {
+               "date_added": "13258093050718131",
+               "guid": "f28830b9-3495-4381-b3e0-22901dd7206d",
+               "id": "444",
+               "name": "tithing",
+               "type": "url",
+               "url": "https://donations.churchofjesuschrist.org/donations/#/donation/step1"
+            }, {
+               "date_added": "13249680187000000",
+               "guid": "0075fb5e-0c2d-44e3-a1ea-c679dde22a81",
+               "id": "435",
+               "name": "Inbox",
+               "type": "url",
+               "url": "https://byui.instructure.com/conversations#filter=type=inbox"
+            } ],
+            "date_added": "13251503480571006",
+            "date_modified": "13278984944464380",
+            "guid": "d89b5068-f6db-4ed4-a191-853de3c9ac30",
+            "id": "179",
+            "name": "College",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13149803604000000",
+               "guid": "e4bfe969-fd60-4bf0-a6e8-8793492f5cfd",
+               "id": "250",
+               "name": "Seven Lies Satan Wants You to Believe - New Era January 2017 - new-era",
+               "type": "url",
+               "url": "https://www.lds.org/new-era/2017/01/seven-lies-satan-wants-you-to-believe?lang=eng"
+            }, {
+               "date_added": "13149803728000000",
+               "guid": "cc15b9c7-1d07-4e1b-99c2-f184ca9992cf",
+               "id": "251",
+               "name": "Donations for the LDS Church",
+               "type": "url",
+               "url": "https://www.lds.org/donations/#/donation/step1"
+            }, {
+               "date_added": "13192909804000000",
+               "guid": "3ea04c43-969d-4a6f-a95f-d7cd7e92a9d3",
+               "id": "252",
+               "name": "Bible Search and Study Tools - Blue Letter Bible",
+               "type": "url",
+               "url": "https://www.blueletterbible.org/"
+            }, {
+               "date_added": "13165887590000000",
+               "guid": "c9ae19d5-d941-4570-9860-fad5bc1cd66d",
+               "id": "253",
+               "name": "Citations Simplified - RecordSeek",
+               "type": "url",
+               "url": "https://recordseek.com/"
+            }, {
+               "date_added": "13142400295000000",
+               "guid": "8210a836-9988-4372-a812-2a713352f08c",
+               "id": "254",
+               "name": "Gospel Topics - Home",
+               "type": "url",
+               "url": "https://www.lds.org/topics?lang=eng"
+            } ],
+            "date_added": "13251503480579451",
+            "date_modified": "0",
+            "guid": "f4277e8c-72d0-4312-bace-46c405bc7fd0",
+            "id": "249",
+            "name": "Church",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13033246760000000",
+                  "guid": "ccb42453-da14-440f-a3d9-925c62d9c01c",
+                  "id": "257",
+                  "name": "How to Make a Robot - Lesson 4: Understanding Microcontrollers - RobotShop Blog",
+                  "type": "url",
+                  "url": "http://www.robotshop.com/blog/en/how-to-make-a-robot-lesson-4-understanding-microcontrollers-2-3700"
+               }, {
+                  "date_added": "13033248748000000",
+                  "guid": "6e7e8401-a62c-4c66-825c-8d100882fa08",
+                  "id": "258",
+                  "name": "robot 2",
+                  "type": "url",
+                  "url": "http://www.robotroom.com/LatheCoupler.html"
+               }, {
+                  "date_added": "13033249036000000",
+                  "guid": "c9d99d28-31fc-4735-89e7-efee40be244a",
+                  "id": "259",
+                  "name": "legohacks",
+                  "type": "url",
+                  "url": "http://legohacks.blogspot.com/2009/05/make-cheap-lego-motors.html"
+               }, {
+                  "date_added": "13034377512000000",
+                  "guid": "0011820c-42c3-4c49-b9cb-d87c26afedbd",
+                  "id": "260",
+                  "name": "robot youtube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=DjC2Y9suWSI&list=PLt8ii1leIBTEWQNaVjLd2KKGnDtRWS-6D"
+               }, {
+                  "date_added": "13035503306000000",
+                  "guid": "830a8c78-ea7a-4730-a5c7-9d71c67eabe2",
+                  "id": "261",
+                  "name": "videos",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=js4TK0U848I&list=SPA567CE235D39FA84"
+               }, {
+                  "date_added": "13056742399000000",
+                  "guid": "0a4bfe8d-c193-4f7f-a558-6d71b0f74080",
+                  "id": "262",
+                  "name": "RadioShack – Do It Together",
+                  "type": "url",
+                  "url": "http://www.radioshack.com/home/index.jsp?utm_source=google&utm_medium=ppc&utm_campaign=RSO_SRC_EN_RLSA_TM_E_Core_Brand&CID=ip:SEM:RSO:Google:radio-shack&gclid=CjwKEAjw77OhBRCJ7Onfp_HNtwYSJACZqHAWB0Ba6pzTsUoYo6JpJjAHzvE8jlYVWWsKSE--d5IPcRoChNrw_wcB&gclsrc=aw.ds"
+               }, {
+                  "date_added": "13056749234000000",
+                  "guid": "28ec44d5-cb99-45f5-acaa-f336403e9520",
+                  "id": "263",
+                  "name": "Adafruit Industries, Unique & fun DIY electronics and kits",
+                  "type": "url",
+                  "url": "http://www.adafruit.com/"
+               }, {
+                  "date_added": "13057813718000000",
+                  "guid": "fca04ffd-bf40-493c-adca-c311df05ede8",
+                  "id": "264",
+                  "name": "Make: LEGO and Arduino Projects Available for Preorder « adafruit industries blog",
+                  "type": "url",
+                  "url": "http://www.adafruit.com/blog/2012/10/08/make-lego-and-arduino-projects-available-for-preorder/"
+               }, {
+                  "date_added": "13059624031000000",
+                  "guid": "982f8528-98b6-42fd-8d87-ba03a4ede02a",
+                  "id": "265",
+                  "name": "555 Timer Circuits",
+                  "type": "url",
+                  "url": "http://www.555-timer-circuits.com/"
+               }, {
+                  "date_added": "13060816015000000",
+                  "guid": "6141039c-18e5-4e53-985b-db93840b0801",
+                  "id": "266",
+                  "name": "Instructables - DIY How To Make Instructions",
+                  "type": "url",
+                  "url": "http://www.instructables.com/"
+               }, {
+                  "date_added": "13059781279000000",
+                  "guid": "ac938d6c-eea4-4978-9f6e-baeaa081662a",
+                  "id": "267",
+                  "name": "5 Reasons Why You Are Not Able To Program A Microcontroller",
+                  "type": "url",
+                  "url": "http://www.instructables.com/id/5-Reasons-Why-You-Are-Not-Able-To-Program-A-Microc/"
+               }, {
+                  "date_added": "13060988544000000",
+                  "guid": "ed80a13f-4c90-4ac5-ae36-23b064bad5a6",
+                  "id": "268",
+                  "name": "Connect Arduino to Open Frameworks via Bluetooth",
+                  "type": "url",
+                  "url": "http://www.instructables.com/id/Wirelessly-Connect-Arduino-to-OpenFrameworks-via-B/"
+               }, {
+                  "date_added": "13060219709000000",
+                  "guid": "e26daca8-a489-4baf-a3ef-e45c0090c8ca",
+                  "id": "269",
+                  "name": "Arduino - ArduinoUSBHostShield",
+                  "type": "url",
+                  "url": "http://arduino.cc/en/Main/ArduinoUSBHostShield"
+               }, {
+                  "date_added": "13062485761000000",
+                  "guid": "a033e3ba-2622-40f6-b510-e2262edca281",
+                  "id": "270",
+                  "name": "arduino on RPI",
+                  "type": "url",
+                  "url": "http://razzpisampler.oreilly.com/ch10.html"
+               }, {
+                  "date_added": "13065067267000000",
+                  "guid": "08d0009c-257b-4c79-9706-20cd72f46cbe",
+                  "id": "271",
+                  "name": "laser diode info",
+                  "type": "url",
+                  "url": "http://www.qsl.net/w/wb9ajz//laser/data/lasersam.txt"
+               }, {
+                  "date_added": "13065068517000000",
+                  "guid": "4ac70238-9f4e-4723-8390-4cb2d02ddf3a",
+                  "id": "272",
+                  "name": "www.talkingelectronics.com/pay/BEC-3/Page53.html",
+                  "type": "url",
+                  "url": "http://www.talkingelectronics.com/pay/BEC-3/Page53.html"
+               }, {
+                  "date_added": "13060986466000000",
+                  "guid": "ccd4d196-16aa-4cef-acc8-f99610105b0f",
+                  "id": "273",
+                  "name": "4 Band Resistor Color Code Calculator and Chart – Online Conversion Calculators | DigiKey Electronics",
+                  "type": "url",
+                  "url": "http://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band"
+               }, {
+                  "date_added": "13065150526000000",
+                  "guid": "5e361689-e66f-4989-8fed-dff9198cdbb9",
+                  "id": "274",
+                  "name": "Your Image on an Arduino! - TFT LCD Screen Guide",
+                  "type": "url",
+                  "url": "http://www.instructables.com/id/Your-Image-on-an-Arduino-TFT-LCD-Screen-Guide/"
+               }, {
+                  "date_added": "13065851169000000",
+                  "guid": "0dc9feaf-7035-4d22-ac17-5f97b2fb5341",
+                  "id": "275",
+                  "name": "Amazon.com: Neewer® RC Accessories Set 680g 1000KV Outrunner Brushless Motor + 30A Electric Speed Controller ESC for RC Quadcopter/Multi-copter (4 Sets): Toys & Games",
+                  "type": "url",
+                  "url": "http://www.amazon.com/gp/product/B00OK6BRFM/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1"
+               }, {
+                  "date_added": "13065851176000000",
+                  "guid": "f453350e-0bb3-49d8-8183-d4179353eede",
+                  "id": "276",
+                  "name": "Amazon.com: Neewer® 30A FIRMWARE Brushless ESC Set with 3A/5V BEC for RC Quadcopter Multi-copter APM2(4 PCS): Toys & Games",
+                  "type": "url",
+                  "url": "http://www.amazon.com/Neewer%C2%AE-FIRMWARE-Brushless-Quadcopter-Multi-copter/dp/B00KWZ5P8U/ref=sr_1_2?ie=UTF8&qid=1421377346&sr=8-2&keywords=esc&pebp=1421377574249&peasin=B00KWZ5P8U"
+               }, {
+                  "date_added": "13065851516000000",
+                  "guid": "1faa1f27-91d3-4e50-8d5e-8feba849817c",
+                  "id": "277",
+                  "name": "Amazon.com: Hobbypower 30a Brushless Speed Controller Esc Multicopter Kk Quadrotor(pack of 4pcs): Toys & Games",
+                  "type": "url",
+                  "url": "http://www.amazon.com/Hobbypower-Brushless-Controller-Multicopter-Quadrotor/dp/B00E95VG2I/ref=sr_1_79?s=toys-and-games&ie=UTF8&qid=1421377901&sr=1-79"
+               }, {
+                  "date_added": "13065150457000000",
+                  "guid": "1f8270a9-397f-474b-b096-2ba2d5f6c28e",
+                  "id": "278",
+                  "name": "Arduino LCD Screen [A000096] - $22.64 : Arduino Store - community and electronics",
+                  "type": "url",
+                  "url": "http://store.arduino.cc/index.php?main_page=product_info&cPath=11_15&products_id=288"
+               }, {
+                  "date_added": "13200529268000000",
+                  "guid": "bea83d70-8d9e-43ea-a394-0c52ccf1b886",
+                  "id": "279",
+                  "name": "Emulator",
+                  "type": "url",
+                  "url": "https://content.byui.edu/file/66227afd-b800-4ba3-b6b3-18db4db6c440/1/Emulator/EmulatorContent.html"
+               }, {
+                  "date_added": "13202587980000000",
+                  "guid": "79059849-2833-4b02-b568-73621eb52f75",
+                  "id": "280",
+                  "name": "Binary Adder and Binary Addition using Ex-OR GatesBasic Electronics Tutorials",
+                  "type": "url",
+                  "url": "https://www.electronics-tutorials.ws/combination/comb_7.html"
+               }, {
+                  "children": [ {
+                     "date_added": "13217220932000000",
+                     "guid": "5825acf5-4ed6-4dc3-b9ee-3890bbba923f",
+                     "id": "282",
+                     "name": "Cemetech | Tools | SourceCoder 3",
+                     "type": "url",
+                     "url": "https://www.cemetech.net/sc/"
+                  }, {
+                     "date_added": "13234314194000000",
+                     "guid": "14260e88-731b-48e2-a6a6-07db19f6b7d4",
+                     "id": "283",
+                     "name": "Compiling C Code for the TI-83+/TI-84+ (not the TI-84+CE) - Cemetech | Forum | [TI] C and C++ [Topic]",
+                     "type": "url",
+                     "url": "https://www.cemetech.net/forum/viewtopic.php?t=14061&start=0"
+                  } ],
+                  "date_added": "13251503480583611",
+                  "date_modified": "0",
+                  "guid": "b3a84c8a-1022-4b47-85da-972210434ca5",
+                  "id": "281",
+                  "name": "python to graphing calc",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13225249550000000",
+                     "guid": "dd57773c-4664-4f43-9f4c-3f48746b388b",
+                     "id": "285",
+                     "name": "File:Serial-connection.jpeg - Radxa Wiki",
+                     "type": "url",
+                     "url": "https://wiki.radxa.com/File:Serial-connection.jpeg"
+                  }, {
+                     "date_added": "13226710058000000",
+                     "guid": "e24c106e-c623-4548-9040-20fec443fdf5",
+                     "id": "286",
+                     "name": "Rock/Booting Linux - Radxa Wiki",
+                     "type": "url",
+                     "url": "https://wiki.radxa.com/Rock/Booting_Linux"
+                  }, {
+                     "date_added": "13226710159000000",
+                     "guid": "82d3e351-18a4-4244-9f3f-7d099e668502",
+                     "id": "287",
+                     "name": "Rock/Linux Mainline - Radxa Wiki",
+                     "type": "url",
+                     "url": "https://wiki.radxa.com/Rock/Linux_Mainline"
+                  }, {
+                     "date_added": "13226714180000000",
+                     "guid": "f504eed1-b926-450b-a9f6-d6b7aab7808f",
+                     "id": "288",
+                     "name": "led meanings",
+                     "type": "url",
+                     "url": "https://wiki.radxa.com/Rockpi4/hardware/led"
+                  }, {
+                     "date_added": "13227821735000000",
+                     "guid": "c41df708-323b-4866-9704-c42e2b2f0643",
+                     "id": "289",
+                     "name": "aircrack-ng/rtl8812au at 7ea21010ec87e8a6fb4041e05f9c23a4ec36fff0",
+                     "type": "url",
+                     "url": "https://github.com/aircrack-ng/rtl8812au/tree/7ea21010ec87e8a6fb4041e05f9c23a4ec36fff0"
+                  }, {
+                     "date_added": "13227821739000000",
+                     "guid": "9c0adef8-9c74-41f7-806a-df21a1778340",
+                     "id": "290",
+                     "name": "GitHub - andreiw/rk3399-edk2: Uefi Rockchip Rk3399Pkg",
+                     "type": "url",
+                     "url": "https://github.com/andreiw/rk3399-edk2"
+                  } ],
+                  "date_added": "13251503480583988",
+                  "date_modified": "0",
+                  "guid": "8d288874-33d2-4a2d-85cf-66546bb2deac",
+                  "id": "284",
+                  "name": "Rock PI",
+                  "type": "folder"
+               } ],
+               "date_added": "13251503480580236",
+               "date_modified": "0",
+               "guid": "8d729e76-694f-4e8f-ac38-a6d62ff6445c",
+               "id": "256",
+               "name": "Electronics",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13227822408000000",
+                     "guid": "68289fcc-c718-4677-9521-7847150bd819",
+                     "id": "293",
+                     "name": "GDScript basics — Godot Engine latest documentation",
+                     "type": "url",
+                     "url": "https://docs.godotengine.org/en/3.2/getting_started/scripting/gdscript/gdscript_basics.html#doc-gdscript"
+                  }, {
+                     "date_added": "13227822434000000",
+                     "guid": "4172aba3-2542-4e5c-a686-cdba1609c94a",
+                     "id": "294",
+                     "name": "Vector math — Godot Engine latest documentation",
+                     "type": "url",
+                     "url": "https://docs.godotengine.org/en/3.2/tutorials/math/vector_math.html#doc-vector-math"
+                  }, {
+                     "date_added": "13227822439000000",
+                     "guid": "b3ffe1d7-c1e6-4729-841e-2ba699db7f83",
+                     "id": "295",
+                     "name": "GDScript style guide — Godot Engine latest documentation",
+                     "type": "url",
+                     "url": "https://docs.godotengine.org/en/3.2/getting_started/scripting/gdscript/gdscript_styleguide.html#doc-gdscript-styleguide"
+                  }, {
+                     "date_added": "13265177693846147",
+                     "guid": "930a1fe6-53a4-4409-9f3f-e50b0726c262",
+                     "id": "469",
+                     "name": "do this in godot - planets",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=KfphtLRoUB0"
+                  } ],
+                  "date_added": "13251503480584894",
+                  "date_modified": "13266467998892606",
+                  "guid": "cd4890a0-5953-408c-8c5a-65234de76a02",
+                  "id": "292",
+                  "name": "Godot Tutorials",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13229133302000000",
+                     "guid": "fafd4759-fd47-4bc0-8c95-27e39358b7c7",
+                     "id": "297",
+                     "name": "7.9 glutSpecialFunc",
+                     "type": "url",
+                     "url": "https://www.opengl.org/resources/libraries/glut/spec3/node54.html"
+                  }, {
+                     "date_added": "13229576027000000",
+                     "guid": "7603942d-a47c-4735-91fc-7fe53e1e9f35",
+                     "id": "298",
+                     "name": "9.1 glutGet",
+                     "type": "url",
+                     "url": "https://www.opengl.org/resources/libraries/glut/spec3/node70.html"
+                  }, {
+                     "date_added": "13229580343000000",
+                     "guid": "2679118e-17e9-4ab7-992c-abce73a52309",
+                     "id": "299",
+                     "name": "JSON in C++",
+                     "type": "url",
+                     "url": "https://github.com/nlohmann/json#arbitrary-types-conversions"
+                  }, {
+                     "date_added": "13230699724000000",
+                     "guid": "7c728ef1-98b6-4f0c-9fed-eb8e66c1e50d",
+                     "id": "300",
+                     "name": "libpng_example/test-libpng.c at master · abzico/libpng_example",
+                     "type": "url",
+                     "url": "https://github.com/abzico/libpng_example/blob/master/test-libpng.c"
+                  }, {
+                     "date_added": "13231108314000000",
+                     "guid": "bd930663-94d4-4e2a-93ed-225cbd2de4cd",
+                     "id": "301",
+                     "name": "geometry formatting (look into this!)",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry"
+                  }, {
+                     "date_added": "13231108606000000",
+                     "guid": "4333fab2-6ba2-47c1-a536-fbe3d01f6dc4",
+                     "id": "302",
+                     "name": "OpenGL - Examples",
+                     "type": "url",
+                     "url": "https://www.opengl.org/archives/resources/code/samples/glut_examples/examples/examples.html"
+                  }, {
+                     "date_added": "13232054461000000",
+                     "guid": "b9946a37-bcef-4bc7-b4b0-19f7f550ddc8",
+                     "id": "303",
+                     "name": "Launch Meeting - Zoom",
+                     "type": "url",
+                     "url": "https://byui.zoom.us/j/99811451852"
+                  } ],
+                  "date_added": "13251503480585402",
+                  "date_modified": "0",
+                  "guid": "8f0bec75-e463-4f63-89a3-a8026ec36da0",
+                  "id": "296",
+                  "name": "GeoDoodle",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13232672825000000",
+                     "guid": "418a1feb-4f31-43b4-95b5-272d82ab48e2",
+                     "id": "305",
+                     "name": "dear imgui",
+                     "type": "url",
+                     "url": "https://github.com/ocornut/imgui#integration"
+                  }, {
+                     "date_added": "13232672852000000",
+                     "guid": "baa0756a-1660-4747-b984-b0308e486774",
+                     "id": "306",
+                     "name": "ImageMagick",
+                     "type": "url",
+                     "url": "https://imagemagick.org/script/magick++.php"
+                  }, {
+                     "date_added": "13232672864000000",
+                     "guid": "20522b5d-2087-46c1-966e-fb243c33e3f9",
+                     "id": "307",
+                     "name": "ImageMagick github",
+                     "type": "url",
+                     "url": "https://github.com/ImageMagick/ImageMagick/tree/master/Magick%2B%2B"
+                  }, {
+                     "date_added": "13130731099000000",
+                     "guid": "591cf1ac-1719-4ef3-a82e-6d09be0daa76",
+                     "id": "308",
+                     "name": "API Documentation  |  TensorFlow",
+                     "type": "url",
+                     "url": "https://www.tensorflow.org/api_docs/"
+                  }, {
+                     "date_added": "13203726073000000",
+                     "guid": "8480b711-7050-4461-b8d8-50c3bd9f7ecc",
+                     "id": "309",
+                     "name": "OpenCV: OpenCV Tutorials",
+                     "type": "url",
+                     "url": "https://docs.opencv.org/master/d9/df8/tutorial_root.html"
+                  }, {
+                     "date_added": "13203725443000000",
+                     "guid": "0a1f780c-93f6-4897-ba5a-8f2c7d45dbae",
+                     "id": "310",
+                     "name": "OpenCV - facial recognition",
+                     "type": "url",
+                     "url": "https://opencv.org/"
+                  }, {
+                     "date_added": "13202263693000000",
+                     "guid": "e715e19e-1021-4948-8c9b-0435a7e0cc47",
+                     "id": "311",
+                     "name": "Ncurses programming guide",
+                     "type": "url",
+                     "url": "http://hughm.cs.ukzn.ac.za/~murrellh/os/notes/ncurses.html#cursor"
+                  }, {
+                     "date_added": "13203725439000000",
+                     "guid": "eac0c071-df6c-49ef-800f-13fad1d94edb",
+                     "id": "312",
+                     "name": "PocketSphinx - Speech Recognition",
+                     "type": "url",
+                     "url": "https://github.com/cmusphinx/pocketsphinx"
+                  }, {
+                     "date_added": "13203725372000000",
+                     "guid": "dfee7f09-c15b-4830-8cbe-7ae32e3ef0c9",
+                     "id": "313",
+                     "name": "eSpeak: Speech Synthesizer",
+                     "type": "url",
+                     "url": "http://espeak.sourceforge.net/"
+                  }, {
+                     "date_added": "13199923277000000",
+                     "guid": "75406f6c-db89-45c1-ad86-1213afdae94c",
+                     "id": "314",
+                     "name": "TkDocs - Tk Tutorial - A First (Real) Example",
+                     "type": "url",
+                     "url": "https://tkdocs.com/tutorial/firstexample.html"
+                  }, {
+                     "date_added": "13235264542000000",
+                     "guid": "48678f97-91eb-455e-a8f3-7f7730f7a77f",
+                     "id": "316",
+                     "name": "Awesome Python",
+                     "type": "url",
+                     "url": "https://awesome-python.com/"
+                  }, {
+                     "date_added": "13235991324000000",
+                     "guid": "c2df1efb-6d4e-4665-a28d-0500785a6b6a",
+                     "id": "317",
+                     "name": "Search results · PyPI",
+                     "type": "url",
+                     "url": "https://pypi.org/search/"
+                  }, {
+                     "children": [ {
+                        "date_added": "13240522826000000",
+                        "guid": "964f71c4-36cd-401f-8df6-4d1e0a5642ae",
+                        "id": "319",
+                        "name": "OpenGL - Drawing polygons",
+                        "type": "url",
+                        "url": "https://open.gl/drawing"
+                     }, {
+                        "date_added": "13240522930000000",
+                        "guid": "8cfccc40-a047-4dd0-9af5-17284353fc65",
+                        "id": "320",
+                        "name": "OpenGL docs",
+                        "type": "url",
+                        "url": "http://docs.gl/gl3/glDrawArrays"
+                     } ],
+                     "date_added": "13251503480588208",
+                     "date_modified": "0",
+                     "guid": "56598319-44f2-4500-bfeb-4d010d1b6536",
+                     "id": "318",
+                     "name": "OpenGL",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13243241434000000",
+                        "guid": "060f4687-4226-4ddd-991f-56ce06655956",
+                        "id": "322",
+                        "name": "Nuklear Docs",
+                        "type": "url",
+                        "url": "https://immediate-mode-ui.github.io/Nuklear/doc/nuklear.html#nuklear/usage/flags"
+                     } ],
+                     "date_added": "13251503480588545",
+                     "date_modified": "0",
+                     "guid": "547e906d-cf3f-47ee-8da1-930275a39ac0",
+                     "id": "321",
+                     "name": "Nuklear",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13254817951127878",
+                        "guid": "9fb50d0f-f730-40d5-8c12-4aa88b0c1b51",
+                        "id": "439",
+                        "name": "python - List of All Tkinter Events - Stack Overflow",
+                        "type": "url",
+                        "url": "https://stackoverflow.com/questions/32289175/list-of-all-tkinter-events"
+                     } ],
+                     "date_added": "13254817970097291",
+                     "date_modified": "13254969343919966",
+                     "guid": "dbd43d5d-bac6-49e9-bfa2-d565d604b896",
+                     "id": "440",
+                     "name": "Tkinter",
+                     "type": "folder"
+                  } ],
+                  "date_added": "13251503480586535",
+                  "date_modified": "0",
+                  "guid": "5f8de7b9-2ae3-45c5-a717-a28a2d56ae37",
+                  "id": "304",
+                  "name": "APIs",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13235981526000000",
+                     "guid": "132169d4-20d2-43aa-bbd2-b675b80af2b5",
+                     "id": "324",
+                     "name": "kelciour/playphrase: Search and play phrases from movies and audiobooks",
+                     "type": "url",
+                     "url": "https://github.com/kelciour/playphrase"
+                  }, {
+                     "date_added": "13235981698000000",
+                     "guid": "b772c3bc-e165-4922-ac7d-1cfaf64262c7",
+                     "id": "325",
+                     "name": "audio-convert-mod - Overview | Diffingo Solutions Inc.",
+                     "type": "url",
+                     "url": "http://www.diffingo.com/oss/audio-convert-mod/"
+                  }, {
+                     "date_added": "13235984125000000",
+                     "guid": "6611ad6b-3d7d-4c1a-a514-33806eacb051",
+                     "id": "326",
+                     "name": "What is the best text-to-speech software to create an audiobook? - Quora",
+                     "type": "url",
+                     "url": "https://www.quora.com/What-is-the-best-text-to-speech-software-to-create-an-audiobook?share=1"
+                  }, {
+                     "date_added": "13235991886000000",
+                     "guid": "798219e9-b643-4779-86cc-82db117f180d",
+                     "id": "327",
+                     "name": "danthelion/doc2audiobook: Convert text documents to high fidelity audio(books).",
+                     "type": "url",
+                     "url": "https://github.com/danthelion/doc2audiobook"
+                  }, {
+                     "date_added": "13235992098000000",
+                     "guid": "b1cb758c-140c-4a89-82e2-0551f814b3fa",
+                     "id": "328",
+                     "name": "dongqianwei/Potter: ⚡Harry Potter books and audiobooks",
+                     "type": "url",
+                     "url": "https://github.com/dongqianwei/Potter"
+                  }, {
+                     "date_added": "13235992302000000",
+                     "guid": "cbbe9f38-8610-4093-82ae-5e40e74a16cf",
+                     "id": "329",
+                     "name": "izderadicka/split_audiobook: Python program to split a bit audiobook into smaller parts (chapters if available)",
+                     "type": "url",
+                     "url": "https://github.com/izderadicka/split_audiobook"
+                  }, {
+                     "date_added": "13235992457000000",
+                     "guid": "faefa163-03d1-4e4f-9b32-70f6e8485686",
+                     "id": "330",
+                     "name": "GenuineGiraffes/GenuineGiraffes: Public domain book and audiobook search",
+                     "type": "url",
+                     "url": "https://github.com/GenuineGiraffes/GenuineGiraffes"
+                  }, {
+                     "date_added": "13235996270000000",
+                     "guid": "5753427e-b0bb-451f-ab39-b50045e5c301",
+                     "id": "331",
+                     "name": "ArchiveLabs/audiobooks: Listen to millions of free books, read aloud by robot voices",
+                     "type": "url",
+                     "url": "https://github.com/ArchiveLabs/audiobooks"
+                  }, {
+                     "date_added": "13235264464000000",
+                     "guid": "ca9d6e29-77c9-4a5c-b60c-8f30da97bb39",
+                     "id": "332",
+                     "name": "GitHub - lmmentel/awesome-python-chemistry: A curated list of Python packages related to chemistry",
+                     "type": "url",
+                     "url": "https://github.com/lmmentel/awesome-python-chemistry"
+                  }, {
+                     "date_added": "13236119448000000",
+                     "guid": "2e691a6d-3e2c-457a-834b-2f2397967ea8",
+                     "id": "333",
+                     "name": "GitHub - bjodah/chempy: ⚗ A package useful for chemistry written in Python",
+                     "type": "url",
+                     "url": "https://github.com/bjodah/chempy"
+                  }, {
+                     "date_added": "13236154635000000",
+                     "guid": "66986978-1841-4202-b229-b91503a72b33",
+                     "id": "334",
+                     "name": "movfuscator compiler",
+                     "type": "url",
+                     "url": "https://github.com/xoreaxeaxeax/movfuscator"
+                  }, {
+                     "date_added": "13246258578000000",
+                     "guid": "6c3a7246-81f6-481e-bba6-6b563f5702a2",
+                     "id": "335",
+                     "name": "Python image recognition",
+                     "type": "url",
+                     "url": "https://pypi.org/project/cv2-tools/"
+                  } ],
+                  "date_added": "13251503480588789",
+                  "date_modified": "0",
+                  "guid": "e033c7e0-7120-4806-8e64-2008eab3d60d",
+                  "id": "323",
+                  "name": "Cool Programs to Explore",
+                  "type": "folder"
+               }, {
+                  "date_added": "13241414359000000",
+                  "guid": "a9f391d7-faaa-4423-856d-fcda0353efae",
+                  "id": "336",
+                  "name": "IOCCC",
+                  "type": "url",
+                  "url": "http://ioccc.org/winners.html"
+               }, {
+                  "date_added": "13281770749935396",
+                  "guid": "8e736b35-0db8-4304-8a4c-0eb9b89a4f32",
+                  "id": "499",
+                  "name": "procedural planet generator in godot",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/godot/comments/gz29i4/a_procedural_planet_generator_ive_been_working_on/?utm_source=share&utm_medium=web2x"
+               } ],
+               "date_added": "13251503480584807",
+               "date_modified": "13282897508751104",
+               "guid": "a6214edf-130a-486f-bf9c-98ea4f04d104",
+               "id": "291",
+               "name": "Programs",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13206256330000000",
+                  "guid": "ece18b10-b682-4e87-85b6-a4868ee1016f",
+                  "id": "338",
+                  "name": "The Piano Guys \"Michael Meets Mozart\" Sheet Music (Piano Solo) in A Minor - Download & Print - SKU: MN0122528",
+                  "type": "url",
+                  "url": "https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0122528"
+               }, {
+                  "date_added": "13206256353000000",
+                  "guid": "f6b6b9fb-0afc-43e3-b1ad-f4d3d5e437b8",
+                  "id": "339",
+                  "name": "Letter notation - Wikipedia",
+                  "type": "url",
+                  "url": "https://en.wikipedia.org/wiki/Letter_notation"
+               }, {
+                  "date_added": "13206256362000000",
+                  "guid": "fe0a5502-76da-488f-b811-27a4e3de6bc7",
+                  "id": "340",
+                  "name": "Scientific pitch notation - Wikipedia",
+                  "type": "url",
+                  "url": "https://en.wikipedia.org/wiki/Scientific_pitch_notation"
+               }, {
+                  "children": [ {
+                     "children": [  ],
+                     "date_added": "13251503480591133",
+                     "date_modified": "13254615516160760",
+                     "guid": "23e2e2b0-5290-44e9-98f1-8b213f00dc6f",
+                     "id": "342",
+                     "name": "New folder",
+                     "type": "folder"
+                  }, {
+                     "date_added": "13220389370000000",
+                     "guid": "4ac7e637-f2c8-4e18-9393-10ec08628aaa",
+                     "id": "343",
+                     "name": "Bluetooth card subwoofer pinout",
+                     "type": "url",
+                     "url": "https://fccid.io/BEJ9QK-DMRS4/External-Photos/EUT-External-Photo-2300745.pdf"
+                  }, {
+                     "date_added": "13220389434000000",
+                     "guid": "b04445aa-a86f-4671-9261-70a127057e23",
+                     "id": "344",
+                     "name": "9QK-DMRS4 WIRELESS Adapter Card User Manual LG Electronics USA",
+                     "type": "url",
+                     "url": "https://fccid.io/BEJ9QK-DMRS4/Users-Manual/User-Manual-Rev-01-140619-2300751"
+                  } ],
+                  "date_added": "13251503480591050",
+                  "date_modified": "0",
+                  "guid": "64550c8a-e619-4a48-8dbe-49e41a4eec8c",
+                  "id": "341",
+                  "name": "Speakers",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13226025180000000",
+                     "guid": "0a889c8e-9844-41d2-a0b6-897459c03cdf",
+                     "id": "346",
+                     "name": "grame-cncm/libmusicxml: A C/C++ library to support the MusicXML format.",
+                     "type": "url",
+                     "url": "https://github.com/grame-cncm/libmusicxml"
+                  }, {
+                     "date_added": "13226025207000000",
+                     "guid": "1db7fcc0-4ddc-4027-96e9-5e6f41e384ee",
+                     "id": "347",
+                     "name": "MusicXML Library",
+                     "type": "url",
+                     "url": "http://libmusicxml.sourceforge.net/"
+                  }, {
+                     "date_added": "13226025212000000",
+                     "guid": "9df6bf59-49f1-4ae4-9ef7-58f92d5266f5",
+                     "id": "348",
+                     "name": "MusicXML",
+                     "type": "url",
+                     "url": "https://www.w3.org/2017/12/musicxml31/"
+                  }, {
+                     "date_added": "13226025219000000",
+                     "guid": "998e44d6-cb86-48a3-bbbe-a723a628300d",
+                     "id": "349",
+                     "name": "Support",
+                     "type": "url",
+                     "url": "https://www.lunaverus.com/documentation#cpuLoad"
+                  } ],
+                  "date_added": "13251503480591496",
+                  "date_modified": "0",
+                  "guid": "d9916a26-deba-438d-b1a3-19b7f58a51ad",
+                  "id": "345",
+                  "name": "Music transcriber",
+                  "type": "folder"
+               } ],
+               "date_added": "13251503480590564",
+               "date_modified": "0",
+               "guid": "5c20b8c6-153d-4e15-a9f6-b7d50a3dd40c",
+               "id": "337",
+               "name": "Music",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13211071782000000",
+                  "guid": "d7c58d07-81fa-419b-9fa8-39e08277f27d",
+                  "id": "351",
+                  "name": "650 Coreless Paracord 1/5 inch - paracordgalaxy.com",
+                  "type": "url",
+                  "url": "https://paracordgalaxy.com/22-650-coreless-paracord-15-inch"
+               } ],
+               "date_added": "13251503480592052",
+               "date_modified": "0",
+               "guid": "67595a16-7c37-4742-a01d-808894fcd959",
+               "id": "350",
+               "name": "Whips",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13230699672000000",
+                  "guid": "d51f7e58-cee5-48c0-998d-ef704f1ceb82",
+                  "id": "353",
+                  "name": "Quick Start | Hugo",
+                  "type": "url",
+                  "url": "https://gohugo.io/getting-started/quick-start/"
+               }, {
+                  "date_added": "13230699695000000",
+                  "guid": "4e905a55-9148-41f4-8f63-31171820d9b8",
+                  "id": "354",
+                  "name": "dark | Hugo Themes",
+                  "type": "url",
+                  "url": "https://themes.gohugo.io/tags/dark/"
+               } ],
+               "date_added": "13251503480592271",
+               "date_modified": "0",
+               "guid": "0205758e-11a0-42f6-b3d4-42ae1b0b7fd3",
+               "id": "352",
+               "name": "Blog",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13230699709000000",
+                  "guid": "b7eece49-b979-4085-90f2-fd54790a26cc",
+                  "id": "356",
+                  "name": "Your first game — Godot Engine latest documentation",
+                  "type": "url",
+                  "url": "https://docs.godotengine.org/en/3.2/getting_started/step_by_step/your_first_game.html"
+               } ],
+               "date_added": "13251503480592596",
+               "date_modified": "0",
+               "guid": "b8059211-3f4e-4346-bd8b-6e1bd9effb97",
+               "id": "355",
+               "name": "Make a game",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13232672782000000",
+                  "guid": "b348d646-7c4d-4255-a521-310e427210ca",
+                  "id": "358",
+                  "name": "wacom Tablet drivers",
+                  "type": "url",
+                  "url": "https://linuxwacom.github.io/"
+               }, {
+                  "date_added": "13232672806000000",
+                  "guid": "cbc98d4a-6837-4448-9dd9-5300b39466ec",
+                  "id": "359",
+                  "name": "Pinebook pro fedora image",
+                  "type": "url",
+                  "url": "https://wiki.pine64.org/index.php/Pinebook_Pro_Software_Release#Fedora"
+               } ],
+               "date_added": "13251503480592812",
+               "date_modified": "0",
+               "guid": "e880e6ee-d6fc-403e-8fcc-cde06e28fdd0",
+               "id": "357",
+               "name": "Fedora",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13236297966000000",
+                  "guid": "3a3ed937-4480-434b-8f7a-e761721eeda5",
+                  "id": "361",
+                  "name": "home - h-node.org",
+                  "type": "url",
+                  "url": "https://h-node.org/home/index/en"
+               }, {
+                  "date_added": "13244087706000000",
+                  "guid": "726c705f-5fcf-438a-ac5c-0371d601cc9e",
+                  "id": "362",
+                  "name": "LinkIt Smart 7688 - mips cpu",
+                  "type": "url",
+                  "url": "https://www.seeedstudio.com/LinkIt-Smart-7688.html"
+               } ],
+               "date_added": "13251503480593142",
+               "date_modified": "0",
+               "guid": "d16056ca-78f6-4f2e-9c76-414bc2a70123",
+               "id": "360",
+               "name": "Open Source Stuff",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13239669917000000",
+                  "guid": "4dc5b8ea-f10a-49ed-b442-0be4e6d5a71d",
+                  "id": "364",
+                  "name": "$...",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/5163144/what-are-the-special-dollar-sign-shell-variables"
+               } ],
+               "date_added": "13251503480593468",
+               "date_modified": "0",
+               "guid": "e42a856e-7a2f-4cfc-9e55-dae82e760034",
+               "id": "363",
+               "name": "Bash",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13243237183000000",
+                  "guid": "c6bf3e38-f22a-40e0-ba79-88b59cf19390",
+                  "id": "366",
+                  "name": "Math2Code",
+                  "type": "url",
+                  "url": "http://math2code.com/home"
+               } ],
+               "date_added": "13251503480593681",
+               "date_modified": "0",
+               "guid": "cc10fea7-b242-411f-b2d9-341b4d037014",
+               "id": "365",
+               "name": "Make Math Easier",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13244537914000000",
+                  "guid": "ff7406b6-c25f-4e1b-abe3-c29028391fd1",
+                  "id": "368",
+                  "name": "Joy Bonnet Pack for Raspberry Pi Zero - Includes Pi Zero W ID: 3205 - $32.50 : Adafruit Industries, Unique & fun DIY electronics and kits",
+                  "type": "url",
+                  "url": "https://www.adafruit.com/product/3205"
+               }, {
+                  "date_added": "13244537935000000",
+                  "guid": "904d3baa-8ced-475e-b42d-b007509c2038",
+                  "id": "369",
+                  "name": "Raspberry Pi Zero - Version 1.3 ID: 2885 - $5.00 : Adafruit Industries, Unique & fun DIY electronics and kits",
+                  "type": "url",
+                  "url": "https://www.adafruit.com/product/2885"
+               }, {
+                  "date_added": "13244537979000000",
+                  "guid": "9f0157b5-052b-48cf-a41a-c5bd3ee6c37a",
+                  "id": "370",
+                  "name": "hall effect sensor",
+                  "type": "url",
+                  "url": "https://www.adafruit.com/?q=hall+effect+sensor&main_page=category&cPath=813&sort=BestMatch"
+               }, {
+                  "date_added": "13244538084000000",
+                  "guid": "8b190b12-0626-438c-a361-2cb022ea342e",
+                  "id": "371",
+                  "name": "cheap speakers",
+                  "type": "url",
+                  "url": "https://www.adafruit.com/?q=speaker&main_page=category&cPath=813&sort=BestMatch"
+               }, {
+                  "date_added": "13244538511000000",
+                  "guid": "09acab78-44ea-49dc-b67c-da830fa550e0",
+                  "id": "372",
+                  "name": "cheap accelerometer",
+                  "type": "url",
+                  "url": "https://www.adafruit.com/?q=accelerometer&p=2&main_page=category&cPath=813&sort=BestMatch"
+               } ],
+               "date_added": "13251503480593871",
+               "date_modified": "0",
+               "guid": "4ea8757d-007b-4dc6-9bb5-2b359fc0291a",
+               "id": "367",
+               "name": "I want this",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13251273755000000",
+                  "guid": "e58768c7-fb4e-4070-a1f5-79b17928a5f1",
+                  "id": "374",
+                  "name": "Create Wi-Fi Hotspot on Ubuntu / Debian / Fedora / CentOS / Arch | ComputingForGeeks",
+                  "type": "url",
+                  "url": "https://computingforgeeks.com/create-wi-fi-hotspot-on-ubuntu-debian-fedora-centos-arch/"
+               }, {
+                  "date_added": "13251273798000000",
+                  "guid": "fa736c4c-af89-4942-a262-429882a77674",
+                  "id": "375",
+                  "name": "Create an SFTP server",
+                  "type": "url",
+                  "url": "https://itsfoss.com/set-ftp-server-linux/"
+               }, {
+                  "date_added": "13251273816000000",
+                  "guid": "0310a4ae-3128-4bb7-86f9-91a968b329e3",
+                  "id": "376",
+                  "name": "create an SFTP server - good one",
+                  "type": "url",
+                  "url": "https://www.techrepublic.com/article/how-to-set-up-an-sftp-server-on-linux/"
+               } ],
+               "date_added": "13251503480594625",
+               "date_modified": "0",
+               "guid": "cc918fe9-7b0f-4c45-8605-34e9478ea3eb",
+               "id": "373",
+               "name": "This is how...",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13260232544369527",
+                  "guid": "d56133e2-37c9-4425-b7b0-4ae39e3af6ab",
+                  "id": "456",
+                  "name": "Godot infinite scrolling background how to",
+                  "type": "url",
+                  "url": "https://generalistprogrammer.com/godot/godot-infinite-scrolling-background-how-to/"
+               } ],
+               "date_added": "13260232563778912",
+               "date_modified": "13260234853922137",
+               "guid": "c4c6b86e-bfc5-432f-87cc-8c94d2001fff",
+               "id": "457",
+               "name": "Godot",
+               "type": "folder"
+            }, {
+               "date_added": "13266467998892606",
+               "guid": "ddb4610d-b7e3-4ad6-87b3-783bea05eeb8",
+               "id": "471",
+               "name": "android sdk, ndk, jdk",
+               "type": "url",
+               "url": "https://github.com/Lzhiyong/termux-ndk/releases"
+            } ],
+            "date_added": "13251503480580161",
+            "date_modified": "13267583508804274",
+            "guid": "ec614ff9-0d3a-4bcc-b3c3-7eb9ab093ecf",
+            "id": "255",
+            "name": "Projects",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13060752990000000",
+                  "guid": "2e730d30-623a-4bde-aeae-02bbdf6ed799",
+                  "id": "379",
+                  "name": "xkcd: RuBisCO",
+                  "type": "url",
+                  "url": "http://xkcd.com/1039/"
+               }, {
+                  "date_added": "13060843268000000",
+                  "guid": "6a0df3a1-134d-422d-8f5f-d2cfdb86f952",
+                  "id": "380",
+                  "name": "xkcd: Click and Drag",
+                  "type": "url",
+                  "url": "http://xkcd.com/1110/"
+               }, {
+                  "date_added": "13061268415000000",
+                  "guid": "db8f3a1f-1803-4109-a35c-9a6bbec6bf20",
+                  "id": "381",
+                  "name": "xkcd: Frequency",
+                  "type": "url",
+                  "url": "http://xkcd.com/1331/"
+               }, {
+                  "date_added": "13061273530000000",
+                  "guid": "4cd6c678-e2b0-4fe3-ac0f-27cb9c2ba3cf",
+                  "id": "382",
+                  "name": "xkcd: Now",
+                  "type": "url",
+                  "url": "http://xkcd.com/1335/"
+               }, {
+                  "date_added": "13061274851000000",
+                  "guid": "f5a65473-22d4-4905-858d-5de3e711a7f7",
+                  "id": "383",
+                  "name": "xkcd: Lorenz",
+                  "type": "url",
+                  "url": "http://xkcd.com/1350/"
+               }, {
+                  "date_added": "13061279898000000",
+                  "guid": "50f88069-78b4-4cb1-9817-8118d10eb0c1",
+                  "id": "384",
+                  "name": "xkcd: Universal Converter Box",
+                  "type": "url",
+                  "url": "http://xkcd.com/1406/"
+               }, {
+                  "date_added": "13061281106000000",
+                  "guid": "f85325eb-6f89-4baa-b964-2d06db94565a",
+                  "id": "385",
+                  "name": "xkcd: Pixels",
+                  "type": "url",
+                  "url": "http://xkcd.com/1416/"
+               }, {
+                  "date_added": "13061437634000000",
+                  "guid": "3b03339f-31c7-4af0-8244-45148868c62b",
+                  "id": "386",
+                  "name": "xkcd: Lightsaber",
+                  "type": "url",
+                  "url": "http://xkcd.com/1433/"
+               }, {
+                  "date_added": "13065580377000000",
+                  "guid": "afd9ea1e-7dce-4b0f-965c-7bf3a287cbc3",
+                  "id": "387",
+                  "name": "xkcd: Share Buttons",
+                  "type": "url",
+                  "url": "http://xkcd.com/1034/"
+               }, {
+                  "date_added": "13065593888000000",
+                  "guid": "654e537f-9d75-4582-8851-a0cd34095c37",
+                  "id": "388",
+                  "name": "xkcd: Map Projections",
+                  "type": "url",
+                  "url": "http://xkcd.com/977/"
+               }, {
+                  "date_added": "13065670161000000",
+                  "guid": "7350bffa-7f3a-458a-8cc1-450bf4fad8ed",
+                  "id": "389",
+                  "name": "xkcd: Elements",
+                  "type": "url",
+                  "url": "http://xkcd.com/965/"
+               }, {
+                  "date_added": "13065834788000000",
+                  "guid": "96bd5154-f3e8-453d-8432-222eb7f76722",
+                  "id": "390",
+                  "name": "xkcd: Teaching Physics",
+                  "type": "url",
+                  "url": "http://xkcd.com/895/"
+               }, {
+                  "date_added": "13065853484000000",
+                  "guid": "ac1fae66-f343-4a17-8a6b-03f1b4412d6b",
+                  "id": "391",
+                  "name": "xkcd: Guest Week: Zach Weiner (SMBC)",
+                  "type": "url",
+                  "url": "http://xkcd.com/826/"
+               }, {
+                  "date_added": "13066454188000000",
+                  "guid": "a1b50c61-9218-4915-9d32-efa7c1f8e4e3",
+                  "id": "392",
+                  "name": "xkcd: Online Communities 2",
+                  "type": "url",
+                  "url": "http://xkcd.com/802/"
+               }, {
+                  "date_added": "13066697342000000",
+                  "guid": "7caa6366-822e-47de-87b9-2bfb65d379c2",
+                  "id": "393",
+                  "name": "xkcd: Geeks and Nerds",
+                  "type": "url",
+                  "url": "http://xkcd.com/747/"
+               }, {
+                  "date_added": "13067059177000000",
+                  "guid": "1200ffd4-35b3-4238-bc3e-ea5cfc49b6a4",
+                  "id": "394",
+                  "name": "xkcd: Snow Tracking",
+                  "type": "url",
+                  "url": "http://xkcd.com/702/"
+               }, {
+                  "date_added": "13067486625000000",
+                  "guid": "0417920f-f815-4e8f-8c1c-5887ec505703",
+                  "id": "395",
+                  "name": "xkcd: Movie Narrative Charts",
+                  "type": "url",
+                  "url": "http://xkcd.com/657/"
+               }, {
+                  "date_added": "13067920828000000",
+                  "guid": "9637a351-c493-4139-a3f4-cafbed127334",
+                  "id": "396",
+                  "name": "xkcd: Payloads",
+                  "type": "url",
+                  "url": "http://xkcd.com/1461/"
+               }, {
+                  "date_added": "13065835266000000",
+                  "guid": "ff1e117a-104b-4bbf-99ac-0926fe1f78d4",
+                  "id": "397",
+                  "name": "xkcd: Turtles",
+                  "type": "url",
+                  "url": "http://xkcd.com/889/"
+               }, {
+                  "date_added": "13065835489000000",
+                  "guid": "f38f6fff-a60a-4bd9-8423-41ddd9667a02",
+                  "id": "398",
+                  "name": "xkcd: Future Timeline",
+                  "type": "url",
+                  "url": "http://xkcd.com/887/"
+               }, {
+                  "date_added": "13065844260000000",
+                  "guid": "b09ab7b5-3f3e-4d39-8fc2-ed8d0c612c10",
+                  "id": "399",
+                  "name": "xkcd: Wisdom Teeth",
+                  "type": "url",
+                  "url": "http://xkcd.com/861/"
+               }, {
+                  "date_added": "13065852990000000",
+                  "guid": "762ea24e-80ac-4d6c-bb9e-b9437df83f96",
+                  "id": "400",
+                  "name": "xkcd: Positive Attitude",
+                  "type": "url",
+                  "url": "http://xkcd.com/828/"
+               }, {
+                  "date_added": "13202801573000000",
+                  "guid": "531455ac-87bb-4b42-8665-283816c3bf6b",
+                  "id": "401",
+                  "name": "xkcd: Geeks and Nerds",
+                  "type": "url",
+                  "url": "https://xkcd.com/747/"
+               }, {
+                  "date_added": "13202804903000000",
+                  "guid": "706aa853-b5cc-4ef5-b004-5e08e674fd21",
+                  "id": "402",
+                  "name": "xkcd: Commented",
+                  "type": "url",
+                  "url": "https://xkcd.com/156/"
+               }, {
+                  "date_added": "13202805388000000",
+                  "guid": "30179a8d-302f-44ed-b675-b441867a6ca4",
+                  "id": "403",
+                  "name": "xkcd: Movie Seating",
+                  "type": "url",
+                  "url": "https://xkcd.com/173/"
+               }, {
+                  "date_added": "13205031158000000",
+                  "guid": "12af018c-4f16-4836-afdb-fa20b7022f62",
+                  "id": "404",
+                  "name": "xkcd: The Pace of Modern Life",
+                  "type": "url",
+                  "url": "https://xkcd.com/1227/"
+               }, {
+                  "date_added": "13206232289000000",
+                  "guid": "b0ebd518-3533-4cf6-9a42-0e181117fb07",
+                  "id": "405",
+                  "name": "xkcd: Tic-Tac-Toe",
+                  "type": "url",
+                  "url": "https://xkcd.com/832/"
+               }, {
+                  "date_added": "13226114996000000",
+                  "guid": "e8cd2d6c-4923-4bfe-b23d-8393de5e28d7",
+                  "id": "406",
+                  "name": "xkcd: A Bunch of Rocks",
+                  "type": "url",
+                  "url": "https://xkcd.com/505/"
+               }, {
+                  "date_added": "13226115110000000",
+                  "guid": "1cc9d7ad-c458-4feb-934c-3bb6ee673fef",
+                  "id": "407",
+                  "name": "xkcd: Flag Interpretation",
+                  "type": "url",
+                  "url": "https://xkcd.com/2175/"
+               }, {
+                  "date_added": "13226115754000000",
+                  "guid": "9906a580-f251-41f7-9d7d-f3f66a30fa8e",
+                  "id": "408",
+                  "name": "xkcd: Review",
+                  "type": "url",
+                  "url": "https://xkcd.com/2192/"
+               }, {
+                  "date_added": "13226115947000000",
+                  "guid": "5d266eae-f3ad-48f0-869f-ffe5b053b616",
+                  "id": "409",
+                  "name": "xkcd: Forgetting",
+                  "type": "url",
+                  "url": "https://xkcd.com/379/"
+               }, {
+                  "date_added": "13226117238000000",
+                  "guid": "cc0d4078-bdfc-4803-94da-fc90f9ddfa64",
+                  "id": "410",
+                  "name": "xkcd: Purity",
+                  "type": "url",
+                  "url": "https://xkcd.com/435/"
+               } ],
+               "date_added": "13251503480595195",
+               "date_modified": "0",
+               "guid": "f4ddcbfb-18cd-43c9-b3d1-bc958101d68a",
+               "id": "378",
+               "name": "XKCD",
+               "type": "folder"
+            }, {
+               "date_added": "13131508700000000",
+               "guid": "e0b4bcbd-b42e-422a-a29f-b6b26556e158",
+               "id": "411",
+               "name": "The Mormon Zone™ - Mormon Jokes",
+               "type": "url",
+               "url": "http://mormonzone.com/Jokes.aspx"
+            }, {
+               "date_added": "13201203298000000",
+               "guid": "7beb7563-6ce7-44c7-8c6a-c61a28793542",
+               "id": "412",
+               "name": "Hawai`i Pidgin Bible",
+               "type": "url",
+               "url": "http://www.pidginbible.org/Concindex.html"
+            }, {
+               "date_added": "13220061482000000",
+               "guid": "b7ac2575-860a-4dce-9e60-6934935ecc60",
+               "id": "413",
+               "name": "Monty Python and the Holy Grail",
+               "type": "url",
+               "url": "https://sacred-texts.com/neu/mphg/mphg.htm"
+            }, {
+               "date_added": "13223069541000000",
+               "guid": "d1729576-5491-41ee-90e9-9a31f6258de0",
+               "id": "414",
+               "name": "E.W. Dijkstra Archive: How do we tell truths that might hurt? (EWD498)",
+               "type": "url",
+               "url": "https://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD498.html"
+            }, {
+               "date_added": "13237103712000000",
+               "guid": "22878eb7-95ab-411e-9927-93ccb1680d42",
+               "id": "415",
+               "name": "xkcd: Interesting Life",
+               "type": "url",
+               "url": "https://xkcd.com/308/"
+            }, {
+               "date_added": "13243059243000000",
+               "guid": "a8f2be22-d69e-4afa-bf99-5ae5d508b285",
+               "id": "416",
+               "name": "Custom Rick Roll",
+               "type": "url",
+               "url": "https://www.secretrickroll.com/"
+            } ],
+            "date_added": "13251503480595108",
+            "date_modified": "0",
+            "guid": "941e4ded-f4dd-42a2-bf16-1521508b64d4",
+            "id": "377",
+            "name": "Funny",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13260165696210350",
+                  "guid": "156f084d-9571-40f3-b311-2e21ae000b15",
+                  "id": "448",
+                  "name": "Sci-fi models",
+                  "type": "url",
+                  "url": "https://www.solcommand.com/p/links.html"
+               }, {
+                  "date_added": "13260165748463369",
+                  "guid": "f233d069-1a17-4623-beba-0ec13d870baf",
+                  "id": "451",
+                  "name": "Scifi-Meshes.com",
+                  "type": "url",
+                  "url": "https://forums.scifi-meshes.com/"
+               }, {
+                  "date_added": "13260165906694635",
+                  "guid": "002bca85-a5e2-4f5d-b52c-fd05e2f04a59",
+                  "id": "452",
+                  "name": "Asteroid Database - Asterank",
+                  "type": "url",
+                  "url": "http://www.asterank.com/"
+               }, {
+                  "date_added": "13260234853922137",
+                  "guid": "93bc4917-1098-4f71-9c77-dc8d0fcd6ecd",
+                  "id": "458",
+                  "name": "Space Fonts",
+                  "type": "url",
+                  "url": "https://www.fontspace.com/category/space"
+               } ],
+               "date_added": "13260165726590189",
+               "date_modified": "13260420451925140",
+               "guid": "59aadef3-0b84-4699-ac0b-5aa3a807f014",
+               "id": "450",
+               "name": "Sci-fi",
+               "type": "folder"
+            }, {
+               "date_added": "13263694937349301",
+               "guid": "e84857f7-a1d0-4428-9be2-aa9ebbe17ce6",
+               "id": "466",
+               "name": "3D Models Free Download - Open3dModel.com",
+               "type": "url",
+               "url": "https://open3dmodel.com/"
+            }, {
+               "date_added": "13264739957041963",
+               "guid": "66d630ee-55b3-4850-af66-274e8ac59e85",
+               "id": "468",
+               "name": "OpenGameArt.org",
+               "type": "url",
+               "url": "https://opengameart.org/"
+            }, {
+               "children": [ {
+                  "date_added": "13279675774678556",
+                  "guid": "321701cc-5134-4b04-b2e0-5d2e5b1b1e8f",
+                  "id": "489",
+                  "name": "Quite Magical Fonts",
+                  "type": "url",
+                  "url": "https://mistifonts.com/quite-magical/"
+               } ],
+               "date_added": "13279675789080813",
+               "date_modified": "13279677794020895",
+               "guid": "1fbc820d-96cd-4c3c-89ec-e6214458b4b4",
+               "id": "490",
+               "name": "Fonts",
+               "type": "folder"
+            } ],
+            "date_added": "13260165726589583",
+            "date_modified": "13265177693846147",
+            "guid": "5e810c24-82d1-4d37-b5bc-291d203b108e",
+            "id": "449",
+            "name": "Assets",
+            "type": "folder"
+         }, {
+            "date_added": "13076099746000000",
+            "guid": "7b7da5ef-7f17-4c9e-ae64-4b166d1144d2",
+            "id": "418",
+            "name": "Bookmarks",
+            "type": "url",
+            "url": "chrome://bookmarks/"
+         }, {
+            "children": [ {
+               "date_added": "13236908795000000",
+               "guid": "09fa880d-c8bf-4764-a0a2-5ea499e4cbb0",
+               "id": "421",
+               "name": "the eye",
+               "type": "url",
+               "url": "https://the-eye.eu/public/AudioBooks/"
+            }, {
+               "date_added": "13223776534000000",
+               "guid": "7f1c24bd-13cb-4348-89c7-2c4bde982fbe",
+               "id": "422",
+               "name": "",
+               "type": "url",
+               "url": "https://www.audible.com/"
+            }, {
+               "date_added": "13236908838000000",
+               "guid": "012ec102-c443-4aa9-bb2c-7340bc64919b",
+               "id": "423",
+               "name": "Pirate Bay",
+               "type": "url",
+               "url": "https://thepiratebay.org/search.php?q=category:102"
+            }, {
+               "date_added": "13236908868000000",
+               "guid": "dc551eda-415c-402f-91a5-80be3f03b153",
+               "id": "424",
+               "name": "list of links",
+               "type": "url",
+               "url": "https://github.com/CHEF-KOCH/Warez#audiobooks"
+            }, {
+               "date_added": "13236908981000000",
+               "guid": "6103d837-5d0c-40b0-b59d-72f2acd8f31f",
+               "id": "425",
+               "name": "LibriVox",
+               "type": "url",
+               "url": "https://librivox.org/"
+            }, {
+               "date_added": "13236926487000000",
+               "guid": "0cfc2cf7-0d56-4414-a0d5-a11100d30e35",
+               "id": "426",
+               "name": "Torrent Galaxy",
+               "type": "url",
+               "url": "https://torrentgalaxy.to/torrents.php?cat=13"
+            } ],
+            "date_added": "13251503480600166",
+            "date_modified": "0",
+            "guid": "f5a09a50-e843-4477-aab6-41feaa0d2bdc",
+            "id": "420",
+            "name": "Audiobooks",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13204157105000000",
+               "guid": "d7a5c224-8469-4b76-b079-f3ed68c4e91c",
+               "id": "428",
+               "name": "https://djox3levv7u3o.cloudfront.net/6008/0240e32d-dc38-4e26-8214-36ac82239c22/S-102_Complete_Guitar_Chord_Poster_from_www.RoedyBlack.com_MOBILE_2_Larger_File_Slower.pdf?response-content-type=application/pdf&response-content-disposition=attachment&Expires",
+               "type": "url",
+               "url": "https://djox3levv7u3o.cloudfront.net/6008/0240e32d-dc38-4e26-8214-36ac82239c22/S-102_Complete_Guitar_Chord_Poster_from_www.RoedyBlack.com_MOBILE_2_Larger_File_Slower.pdf?response-content-type=application/pdf&response-content-disposition=attachment&Expires=1559683612&Signature=SLRvneff4e5oayCtyqGvN4GZGR95knAKWk3DIWugoUljqqxKVu3nCqZD2w8qtYCkeF2tDrEK2MqXaRHVS0gImBAAV3A1KQAcNOUQvx8orUNlPpQDzhxuqaNkhCqgVN7w-U6ISoCsV7ab7MeLbQFIKrcqjIZUlHHULinr3HIlAR9v3v0n7TwwWUT22EajTY-aDXd0SVaSYJOnpGat3mTB0ciK38UA8HfHc8vjc9Cona-R24BKcQ2m-tjYU1dj72epocS35cC1pvwWfAkdkNAQY4KO7D2ahl1Wm-9VF4vnA5Cn61JOTrIiCskrimw26wmshDRB4~NlCEl~C74XYSCx4g__&Key-Pair-Id=APKAJO6D4YCMUHCYEOSQ"
+            }, {
+               "date_added": "13211666648000000",
+               "guid": "7de83863-e5fe-488c-9a10-9594fe6ca070",
+               "id": "429",
+               "name": "https://djox3levv7u3o.cloudfront.net/6008/6560197a-b0f6-4ba5-9ad7-c72b689ec3df/S-102_Complete_Guitar_Chord_Poster_from_www.RoedyBlack.com_MOBILE_1_Smaller_File_Faster.pdf?response-content-type=application/pdf&response-content-disposition=attachment&Expire",
+               "type": "url",
+               "url": "https://djox3levv7u3o.cloudfront.net/6008/6560197a-b0f6-4ba5-9ad7-c72b689ec3df/S-102_Complete_Guitar_Chord_Poster_from_www.RoedyBlack.com_MOBILE_1_Smaller_File_Faster.pdf?response-content-type=application/pdf&response-content-disposition=attachment&Expires=1567193161&Signature=hMHNIDuG9rHtp7K1iLA-NVtRNkClndO8yapJSS4CrNfOHimYC0T5AzA4gSmWseSQ~Bo4OIBwGUy6HD~a0Yob0D~yMsu~tghhBlaQOwYCi3N~UErQoqTFHDBF28KxKhAMcYubfVM~GLlY9Q~MrG-XqNxJlxk3B6d87YqtdE1EENiWf3sRvqRawpxYcYSRCnbEKk9DQQPiSBkE8pKj2fKW13WFqXSBm8rLC1jJXzXWmRTfYM8XxQ9ncURXRAFqefY3tuwWcZ~Z6nTayqXFEpOSnfD2T3E7cPLPPR0UGND1WTBVNhbfEb~Ml1Fjxz4wdz1aNZqbk0H7loCAGYVvZPkhAg__&Key-Pair-Id=APKAJO6D4YCMUHCYEOSQ"
+            }, {
+               "date_added": "13212822614000000",
+               "guid": "b78117fd-28b2-43c9-8c28-c6a867486d30",
+               "id": "430",
+               "name": "HP PC Hardware Diagnostics | HP® Official Site",
+               "type": "url",
+               "url": "https://www8.hp.com/us/en/campaigns/hpsupportassistant/pc-diags.html"
+            }, {
+               "date_added": "13215479511000000",
+               "guid": "1265def3-ab82-44d0-96e0-3d648ce60773",
+               "id": "431",
+               "name": "Sorting Algorithms Animations | Toptal®",
+               "type": "url",
+               "url": "https://www.toptal.com/developers/sorting-algorithms"
+            } ],
+            "date_added": "13251503480600947",
+            "date_modified": "0",
+            "guid": "99052a29-178d-4526-a0c0-c173c2db3406",
+            "id": "427",
+            "name": "Imported",
+            "type": "folder"
+         }, {
+            "date_added": "13272318954509482",
+            "guid": "b7a2126f-6c48-4e72-9a3b-8c4915c62902",
+            "id": "478",
+            "name": "Amazon.com: youyeetoo Rock PI E Rockchip RK3328 Single Board Computer for IOT NAS Smart Home Gateway: Computers & Accessories",
+            "type": "url",
+            "url": "https://www.amazon.com/youyeetoo-Rockchip-RK3328-Computer-Gateway/dp/B08D6PKRP2/ref=sr_1_2?dchild=1&keywords=rock+pi+e&qid=1627845290&sr=8-2"
+         }, {
+            "date_added": "13280732137785196",
+            "guid": "e3ee57a8-2554-40de-8ca7-c970c6fe180b",
+            "id": "494",
+            "name": "My Degree",
+            "type": "url",
+            "url": "https://www.byui.edu/catalog#/programs/VJBGQZ2s-?bc=true&bcCurrent=Computer%20Engineering%20(Major%3A%20Bachelor-Level)&bcItemType=programs"
+         }, {
+            "date_added": "13280732210243695",
+            "guid": "f6882e24-f9dd-40ee-ac22-94c9b27f359b",
+            "id": "495",
+            "name": "My Generals",
+            "type": "url",
+            "url": "https://www.byui.edu/catalog#/programs/view/5b47a695e978de2e00f04b59"
+         }, {
+            "date_added": "13282897508751104",
+            "guid": "dde05359-b4fd-4c20-9faf-1ffecf7fdcbc",
+            "id": "501",
+            "name": "Download Android Studio and SDK tools  |  Android Developers",
+            "type": "url",
+            "url": "https://developer.android.com/studio#command-tools"
+         }, {
+            "date_added": "13283733516620715",
+            "guid": "65683c21-e64b-437a-abec-828e960ad7ab",
+            "id": "502",
+            "name": "BYUI Deadlines",
+            "type": "url",
+            "url": "https://www.byui.edu/student-records/academic-deadlines"
+         } ],
+         "date_added": "13251515918909933",
+         "date_modified": "13286003520135357",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13251515918909935",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13251515918909937",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

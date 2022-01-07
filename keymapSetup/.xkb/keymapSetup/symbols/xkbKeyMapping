@@ -1,0 +1,5 @@
+partial modifier_keys
+xkb_symbols "rctrl_is_home" {
+    replace key <RCTL>  { [ Home ] };
+    replace key <KP0>   { [ End ] };
+};
