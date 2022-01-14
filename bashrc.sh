@@ -15,8 +15,9 @@
     export PYTHON_NIFTY_DIR="$HELLO_DIR/python/Nifty-Python-Programs"
 
     export PATH=$PATH:~/.local/bin
-    
+
 #     CD_LS_BIND=1
+
 
 
 #* --Functions--
@@ -24,7 +25,11 @@
         sudo dnf remove $1 -y
         sudo dnf install $1 -y
     }
-    
+
+#     matlab(){
+#         /usr/local/bin/matlabraw -nodisplay -nosplash -nodesktop -r "run('$1');exit;" | tail -n +11
+#     }
+
 #     alias cd="_cd"
 #     _cd(){
 #         if [ CD_LS_BIND ]; then
@@ -45,14 +50,14 @@
         eval alias $name=\'$value\'
         alias $name
     }
-    
+
     addalias(){
         local name=$1 value="$2"
         echo alias $name=\'$value\' >>~/bashrc.sh
         eval alias $name=\'$value\'
         alias $name
     }
-    
+
     resetusb(){
         echo $(lsusb | grep $1)
         device=$( lsusb | grep $1 | perl -nE "/\D+(\d+)\D+(\d+).+/; print qq(\$1/\$2)")
@@ -68,7 +73,7 @@
             eval "$@";
         done
     }
-    
+
     file="_file_"
     loopFiles(){
         local path="$1" file recmd;
@@ -124,17 +129,17 @@
         find -name "$2"
         cd "$cwd"
     }
-    
+
     sudosearch(){
         local cwd=$(pwd)
         cd "$1"
         sudo find -name "$2"
         cd "$cwd"
     }
-    
+
     run(){
         cd build
-        if [ $? -eq 0 ]; then 
+        if [ $? -eq 0 ]; then
             make -j$(expr $(nproc) + 1)
             if [ $? -eq 0 ]; then
                 cd ..
@@ -146,7 +151,7 @@
             fi
         fi
     }
-    
+
     build(){
         cd build
         if [ $? -eq 0 ]; then
@@ -154,14 +159,14 @@
             cd ..
         fi
     }
-    
+
     clean(){
         rm -rf ./build/*
         cd build
         cmake .. $@
         cd ..
     }
-    
+
     alias searchall="sudosearch /"
 
 
@@ -209,7 +214,8 @@
     alias usbreset="sudo /home/marvin/hello/C/usbreset"
     alias sl=ls
     alias cd..="cd .."
-
+    alias sync="~/sync.sh"
+#     alias matlabrun="/usr/local/bin/matlab"
     # These are used to get the name of the device you just plugged in.
     # Run wodev with the device unpluged
     # Run wdev with the device plugged in
@@ -220,7 +226,7 @@
 
     # Delete this whenever the GTK corruption patch ever reaches the mainline kernel
     alias patch="cd ~/Downloads/tmp/; sudo dnf install ./* -y"
-    alias update="sudo dnf update -y; cd ~/Downloads/tmp/; sudo dnf install ./* -y"
+#     alias update="sudo dnf update -y; cd ~/Downloads/tmp/; sudo dnf install ./* -y"
 
     # alias texclean='rm -f *.toc *.aux *.log *.cp *.fn *.tp *.vr *.pg *.ky'
     # alias clean='echo -n "Really clean this directory?";
@@ -532,7 +538,13 @@
 
 
 #* --Things to actually do--
-    # xmodmap -e "keycode 105 = Home"
-    # xmodmap -e "keycode 90 = End"
     randomquote
-    xmodmap ~/.xmodmapKeys
+    mapkeys
+
+
+
+    # matlab(){
+    #     /usr/local/bin/matlab -nodisplay -nosplash -nodesktop -r "run('$1');exit;" | tail -n +11
+    # }
+
+    . ~/hello/Libs/installLibs.sh
