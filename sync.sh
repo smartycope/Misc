@@ -177,7 +177,9 @@ if [ "${COMMIT}" ]; then
             # echo commit: $COMMIT
             # echo quiet: $quiet
 
+            log adding...
             git add .
+            log committing...
             git commit -m "${COMMIT}" ${quiet}
 
             drophttps=${repo:8}
@@ -185,6 +187,7 @@ if [ "${COMMIT}" ]; then
             echo url: $url
 
             # Most use master, a couple use main
+            log pushing...
             git push $url master
             if [ $? -ne 0 ]; then
                 git push url main
