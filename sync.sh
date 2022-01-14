@@ -147,7 +147,7 @@ done
 # Make sure we're working from the right place
 cd ~/
 
-githubToken=$(cat .githubToken)
+gitToken=$(cat .githubToken)
 
 if [ "${COMMIT}" ]; then
     log Copying all the files back to their repos...
