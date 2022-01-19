@@ -1,5 +1,5 @@
 {
-   "checksum": "5ec0f69957ff7a2164cfefe196fcba0f",
+   "checksum": "d4046e23fec68f2ca791d4490257ca7f",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1629,6 +1629,13 @@
                "name": "Chemistry",
                "type": "folder"
             }, {
+               "date_added": "13287093918788454",
+               "guid": "842d64bd-502b-403b-8549-6c5c3de4429f",
+               "id": "507",
+               "name": "ECEN 150 Textbook",
+               "type": "url",
+               "url": "https://online.vitalsource.com/reader/books/9781260477597/epubcfi/6/24[%3Bvnd.vst.idref%3Dc02]!/4"
+            }, {
                "date_added": "13278294780280422",
                "guid": "6fee6663-5a8c-4c4a-b8f6-898705a55653",
                "id": "485",
@@ -1869,7 +1876,7 @@
                "url": "https://byui.instructure.com/conversations#filter=type=inbox"
             } ],
             "date_added": "13251503480571006",
-            "date_modified": "13278984944464380",
+            "date_modified": "13287093942608284",
             "guid": "d89b5068-f6db-4ed4-a191-853de3c9ac30",
             "id": "179",
             "name": "College",
@@ -3324,8 +3331,8 @@
             "url": "https://www.byui.edu/student-records/academic-deadlines"
          } ],
          "date_added": "13251515918909933",
-         "date_modified": "13286003520135357",
-         "guid": "00000000-0000-4000-a000-000000000002",
+         "date_modified": "13287093918788454",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
          "type": "folder"
@@ -3334,7 +3341,7 @@
          "children": [  ],
          "date_added": "13251515918909935",
          "date_modified": "0",
-         "guid": "00000000-0000-4000-a000-000000000003",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
          "name": "Other bookmarks",
          "type": "folder"
@@ -3343,7 +3350,7 @@
          "children": [  ],
          "date_added": "13251515918909937",
          "date_modified": "0",
-         "guid": "00000000-0000-4000-a000-000000000004",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
          "id": "3",
          "name": "Mobile bookmarks",
          "type": "folder"
