@@ -91,6 +91,7 @@ syncfiles["$misc/bashrc.sh"]="${HOME}/bashrc.sh"
 syncfiles["$misc/sync.sh"]="${HOME}/sync.sh"
 syncfiles["$misc/startup.sh"]="${HOME}/startup.sh"
 syncfiles["$misc/globalGitignore"]="${HOME}/.globalGitignore"
+syncfiles["$misc/shared"]="${HOME}/Documents/shared"
 
 
 
