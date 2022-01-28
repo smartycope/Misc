@@ -138,5 +138,6 @@
     "clangd.onConfigChanged": "ignore",
     "cmake.configureOnEdit": false,
     "explorer.confirmDragAndDrop": false,
-    "security.workspace.trust.untrustedFiles": "open"
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.zoomLevel": -1
 }
