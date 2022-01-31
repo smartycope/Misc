@@ -119,5 +119,9 @@
         "key": "shift+numpad0",
         "command": "cursorEndSelect",
         "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+shift+,",
+        "command": "macros.commaEndLine"
     }
 ]

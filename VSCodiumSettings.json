@@ -130,6 +130,10 @@
             "cursorEnd",
             {"command": "type", "args": {"text": ")\n"}},
         ],
+        "commaEndLine": [
+            "cursorEnd",
+            {"command": "type", "args": {"text": ",\n"}},
+        ]
     },
     "explorer.confirmDelete": false,
     "terminal.integrated.scrollback": 1000000,
