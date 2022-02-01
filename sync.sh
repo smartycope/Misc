@@ -92,6 +92,7 @@ syncfiles["$misc/sync.sh"]="${HOME}/sync.sh"
 syncfiles["$misc/startup.sh"]="${HOME}/startup.sh"
 syncfiles["$misc/globalGitignore"]="${HOME}/.globalGitignore"
 syncfiles["$misc/shared"]="${HOME}/Documents/shared"
+syncfiles["$misc/shutdown.sh"]="${HOME}/shutdown.sh"
 
 
 
