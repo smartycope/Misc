@@ -1,5 +1,5 @@
 {
-   "checksum": "d4046e23fec68f2ca791d4490257ca7f",
+   "checksum": "b5fc2c4be5232adf5951b2e06ebddf43",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -94,19 +94,19 @@
             "type": "url",
             "url": "https://byui.instructure.com/"
          }, {
-            "date_added": "13285817789372118",
-            "guid": "7151286d-a396-4c4e-8df1-f948937b2813",
-            "id": "504",
-            "name": "",
-            "type": "url",
-            "url": "https://app.standardnotes.org/"
-         }, {
             "date_added": "13200445755000000",
             "guid": "a4743e6e-3eb7-4532-9f6b-13698f6f01d8",
             "id": "217",
             "name": "",
             "type": "url",
             "url": "https://my.byui.edu/ics"
+         }, {
+            "date_added": "13285817789372118",
+            "guid": "7151286d-a396-4c4e-8df1-f948937b2813",
+            "id": "504",
+            "name": "",
+            "type": "url",
+            "url": "https://app.standardnotes.org/"
          }, {
             "date_added": "13279677794020895",
             "guid": "8cc2f245-fdf0-4576-b220-17bf02b953df",
@@ -1716,7 +1716,7 @@
                "date_added": "13213397949000000",
                "guid": "4c7f219f-17ec-4c1f-82e2-25fcf76827cd",
                "id": "229",
-               "name": "math homework 2",
+               "name": "ECEN textbook",
                "type": "url",
                "url": "https://courses.vitalsource.com/"
             }, {
@@ -3331,7 +3331,7 @@
             "url": "https://www.byui.edu/student-records/academic-deadlines"
          } ],
          "date_added": "13251515918909933",
-         "date_modified": "13287093918788454",
+         "date_modified": "13288236472647003",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",

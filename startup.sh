@@ -1,6 +1,6 @@
 #!/bin/bash
 
-qterminal -d
+qterminal --drop
 sync
 # xscreensaver-systemd
 # xscreensaver
