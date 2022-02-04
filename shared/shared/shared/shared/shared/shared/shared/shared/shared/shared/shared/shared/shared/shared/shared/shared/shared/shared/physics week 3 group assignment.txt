@@ -1,0 +1,63 @@
+Copeland Carter - Week 3 "Vector Addition Simulation" homework
+I did this assignment myself (I have no group)
+Last week I just typed my work out and I got full marks for it, so I assume you're okay with it. Writing is the worst (I'm a computer major).
+
+1. 200 km / 3 hr ⋍ b. 67.0 km/hr (speed doesn't care what direction you're going)
+ANSWER: B
+
+2. displacement(via pythagorean theorem) = 100*√2 km / 3 hr ⋍ a. 47.0 km/hr
+ANSWER: A
+
+3. E. None of the above. Because the answer is 0 km/hr, cause your displacement is 0.
+ANSWER: E
+
+4. 100 + (r*cos(theta)) = 200 km.
+ANSWER: C
+
+5. r*sin(theta) = 100*√3 km ⋍ c, it's only 3ish off.
+ANSWER: C
+
+6. sqrt(200^2 + (100*√3)^2) = 100*√7 ⋍ c, only 4 ish off
+ANSWER: C
+
+7. atan((√3)/2) ⋍ 40.9° = I have no idea. Uhhh... e. none of the above?? 
+ANSWER: E?
+
+
+not 8. If I'm understanding these instructions right... 35 + 25*√2 km ⋍ d. 70.4 km
+Just kidding, I realized I didn't understand the instructions right. It's displacement, not distance.
+So... 
+
+not 9. sqrt(70^2 + 50^2) km = 10*√74 km ⋍ 86.0 km??
+
+At about here, I spent about 4 hours banging my head against the problem and getting different answers, so I gave up and wrote a program to do it (I understand programming way better than I understand math).
+
+8. Here's what I did to get the answer:
+    a = Vector(70, 60, radians=False)
+    b = Vector(50, 180 + 45, radians=False)
+    ans = addHeadToTail(a, b)
+    ans
+        -> Vector(r=10*sqrt(74), θ=asin(-5*sqrt(37)/74 + 7*sqrt(222)/148), θ°=17.0805824370233)
+    ans.toxy()[0].evalf()
+        -> 82.2289915411259
+    The total westward displacement is equal to the x component of the vector resulting from adding the 2 vectors together
+    So... e, I guess? I tested my class, and I'm reasonably confident in it, it's pretty simple... And I *think* I'm interpretting the angle of "southwest" right... So I'm gonna go with e, cause I don't want to think about this anymore.
+ANSWER: E
+
+9. Same thing as the last problem, but with the y value instead of the x value
+    (assuming the last question's input)
+    ans.toxy()[1].evalf()
+        -> 25.2664392055833
+ANSWER: B
+
+10. Just get the added value's θ value.
+    (assuming the last question's input)
+    ans.degθ.evalf()
+        -> 17.0805824370233
+    And now I'm suddenly less confident in my program.
+    But I'm also reeeeeally sick of working on this assignment, so 
+
+
+
+
+
