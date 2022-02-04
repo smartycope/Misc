@@ -64,14 +64,12 @@ commitmsg="Standard Sync at $(date) from $USER"
 # repos[<git link>]=<where it should be stored>
 declare -A repos
 repos["https://github.com/smartycope/Libs.git"]="$libsPath"
-# This is broken at the moment
-# repos["https://github.com/smartycope/Boilerplate.git"]="$projectsdir"
-repos["https://github.com/smartycope/Nifty-Python-Programs.git"]="$projectsdir/python"
+repos["https://github.com/smartycope/Boilerplate.git"]="$projectsdir"
 repos["https://github.com/smartycope/Misc.git"]="$miscPath"
 repos["https://github.com/smartycope/MathTranspiler.git"]="$projectsdir/python"
 # repos["https://github.com/smartycope/MindustryCompiler.git"]="$projectsdir/python"
 # repos["https://github.com/smartycope/2DKSP.git"]="$projectsdir/GDScript"
-# repos["https://github.com/smartycope/Nexcludesfileifty-Python-Programs.git"]="$projectsdir/python"
+# repos["https://github.com/smartycope/Nifty-Python-Programs.git"]="$projectsdir/python"
 # repos["https://github.com/smartycope/Sonix.git"]="$projectsdir/C++"
 # repos["https://github.com/smartycope/Oneko2.0.git"]="$projectsdir/python"
 # repos["https://github.com/smartycope/Blinkus-and-Boopus.git"]="$projectsdir/python"
