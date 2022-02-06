@@ -143,5 +143,6 @@
     "cmake.configureOnEdit": false,
     "explorer.confirmDragAndDrop": false,
     "security.workspace.trust.untrustedFiles": "open",
-    "window.zoomLevel": -1
+    "window.zoomLevel": -1,
+    "workbench.colorTheme": "Visual Studio Dark"
 }
