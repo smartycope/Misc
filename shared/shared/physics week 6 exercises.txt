@@ -1,0 +1,30 @@
+Week 6 Exercises
+Copeland Carter
+
+1. OH!! SPACE!! I LIKE SPACE!!
+Much more than the Command Module. Because it's changing 105 m/s VERY quickly, because it has a lot less mass.
+Though, I suppose the *magnitude* of acceleration is the same, because Newton's 3rd law and all that, it just affects the Command Module much less because it has less mass. So actually c.
+ANSWER: c
+
+2. Ahh, I get it now. It's not a typo. Smart.
+So same answer. The velocities are irrelevant, they're hitting, which means they have an equal force.
+ANSWER: c
+
+3. Well seeing as how I STILL HAVE NO IDEA WHAT b IS...
+*grumble grumble namespace grumble single letter variables grumble math grumble grumble*
+well lets see...
+newtonsLaw(m=3*(1/1000), a=9.8)
+    -> 0.0294
+and that's force in Newtons, so then...
+Nope, still don't actually now how to solve this problem. Do I know R?
+[solve(Eq(var('R'), -b*2), R) for b in (.1, 1, 1.5, 2.3, 4.5)]
+    -> [-0.200000000000000, -2, -3.00000000000000, -4.60000000000000, -9.00000000000000]
+So R is one of those... a almost makes sense, if you squint....
+is R Newtons / something?
+I don't know. I'll come back to this questions.
+ANSWER: COME BACK TO ME
+
+4. ummmm....
+M=2
+newtonsLaw(m=2*M, f=12)
+    -> 3.0

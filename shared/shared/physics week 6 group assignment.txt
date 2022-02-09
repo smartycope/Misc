@@ -1,0 +1,14 @@
+Copeland Carter
+week 6 group problems
+I did these myself
+
+1. The raft is pushed down (and hopefully to the side) into the water opposite the direction the diver jumped. The diver is pushed (by their legs) up and out. The diver exerts a force on the raft, the raft accelerates down and back, the diver accelerates up and out, and how much in both cases depends on their masses (jumping off of a raft lighter than you tends to lead to the raft shooting out and you looking like an idiot)
+
+2. The racquet actually does feel a recoil, but it doesn't swing back because the ball is not significantly heaver than the racquet. Hitting a wall protrusion with a racquet does do exactly that (and is quite fun). When the racquet hits the ball, the racquet feels a force oppsite it's velocity, as it's imparting it's inertia to the ball. The ball just feels a big force forwards (and up? I don't play tennis).
+
+3. SPACE!! YAY!! WELL,
+A rocket in space is imparting force on it's exhaust. Only air-breathing engines require atmosphere to run in, and that's just because they use fans and the oxygen in the air for combustion. In rocket fuel, you have to bring your own oxidizer for combustion because there is no air (or no appreciable air, anyway). That's why you can't have "rechargable" (as opposed to refuelable) rockets, because they need something to push off of to get 𝚫V, and in space you loose whatever you're pushing off of (because if you collect it, it imparts that same force back on you again)
+That's also why ion engines are so efficient, because you're moving a little bit of mass REALLY fast, so you're getting more use out of your fuel.
+I like space stuff.
+
+4.

@@ -143,6 +143,7 @@
     "cmake.configureOnEdit": false,
     "explorer.confirmDragAndDrop": false,
     "security.workspace.trust.untrustedFiles": "open",
-    "window.zoomLevel": -1,
-    "workbench.colorTheme": "Visual Studio Dark"
+    "workbench.colorTheme": "Visual Studio Dark",
+    "clangd.path": "/home/leonard/.config/VSCodium/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/13.0.0/clangd_13.0.0/bin/clangd",
+    "window.zoomLevel": -1
 }
