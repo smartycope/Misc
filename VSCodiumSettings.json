@@ -145,5 +145,6 @@
     "security.workspace.trust.untrustedFiles": "open",
     "workbench.colorTheme": "Visual Studio Dark",
     "clangd.path": "/home/leonard/.config/VSCodium/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/13.0.0/clangd_13.0.0/bin/clangd",
-    "window.zoomLevel": -1
+    "window.zoomLevel": -1,
+    "debug.allowBreakpointsEverywhere": true
 }

@@ -11,4 +11,17 @@ A rocket in space is imparting force on it's exhaust. Only air-breathing engines
 That's also why ion engines are so efficient, because you're moving a little bit of mass REALLY fast, so you're getting more use out of your fuel.
 I like space stuff.
 
-4.
+4. There's gravity pulling the book down, and the normal force pushing the book up. Yes, I would thing this is an action-reaction pair. No reason I can think of why it wouldn't be.
+
+5. They both (since their each pushing) exert a force off of each other, and they both go away from each other. The way I see it, there are 4 forces here. Person A's force away, and Person B's normal force of their push, which are going in the same direction, and Person B's push force, and Person A's normal force from their push, which are going in the same direction.
+
+6. The fatter person would move less, and because of that the skinnier person would move more. Because the fatter person has more inertia.
+
+7. This is essentially the same situation as #5 and #6, except instead of pushing a person, you're pushing the earth (cause the wall is grounded), and it has more mass than you (insert yo mama joke here). Also, the wall isn't pushing back, so theres just 2 forces instead of 4 now (and gravity, I suppose, but it's balanced out).
+
+8. Alright. So you have gravity (downwards), anti-gravity (upwards), your legs pushing your foot against the ground (backwards), and the friction of the person's shoe against the ground (forwards, I think).
+
+9. Same principal as the rocket in #3. The shotgun shell and pellets are like the exhaust, less mass than the thing it's grounded to (the person firing), but high velocity, which means high thrust. Or decent thrust. However you want to define "high". Noticeable thrust, at least.
+
+10. .22 rounds have less mass than a .45 round. Exactly the same as all the other questions. Force = mass * acceleration. More mass, more force.
+

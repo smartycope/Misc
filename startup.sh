@@ -1,6 +1,8 @@
 #!/bin/bash
 
 qterminal --drop
+sudo pkill -9 qterminal
+qterminal --drop
 sync
 # xscreensaver-systemd
 # xscreensaver

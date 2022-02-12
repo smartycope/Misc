@@ -28,3 +28,11 @@ ANSWER: COME BACK TO ME
 M=2
 newtonsLaw(m=2*M, f=12)
     -> 3.0
+SHOW WORK LATER
+ANSWER: b
+
+
+5. SHOW WORK LATER
+ANSWER: c
+
+6.
