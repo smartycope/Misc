@@ -15,6 +15,12 @@ CYAN="\033[0;36m"         # Cyan
 WHITE="\033[0;37m"        # White
 
 
+
+# Yeah, yeah, do all that stuff. But also auto-update vscodium
+# I don't think this works... yet
+# wget -q -O /tmp/vscodium.rpm $(wget -O- -q https://api.github.com/repos/VSCodium/vscodium/releases/latest | grep browser_download_url | cut -d '"' -f 4 | grep "$(uname -m).rpm") && sudo dnf install /tmp/vscodium.rpm && rm /tmp/vscodium.rpm
+
+
 # Functions
 
 usage() { echo "Usage: $0 use -c for commiting, -q for quiet" 1>&2; exit 1; }
@@ -93,7 +99,6 @@ syncfiles["$misc/startup.sh"]="${HOME}/startup.sh"
 syncfiles["$misc/globalGitignore"]="${HOME}/.globalGitignore"
 syncfiles["$misc/shared"]="${HOME}/Documents/shared"
 syncfiles["$misc/shutdown.sh"]="${HOME}/shutdown.sh"
-
 
 
 

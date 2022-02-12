@@ -1,5 +1,5 @@
 {
-   "checksum": "b5fc2c4be5232adf5951b2e06ebddf43",
+   "checksum": "b61a62a2bbdfb7148f926874ebeb71ae",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1362,9 +1362,16 @@
                "name": "Python Magic Methods",
                "type": "url",
                "url": "https://rszalski.github.io/magicmethods/"
+            }, {
+               "date_added": "13288774147015778",
+               "guid": "d808702f-53b6-4e0a-acc1-196c8379295f",
+               "id": "509",
+               "name": "connect to wifi via cmd",
+               "type": "url",
+               "url": "http://codefoster.com/pi-wifi/"
             } ],
             "date_added": "13251503480562941",
-            "date_modified": "13281307189312598",
+            "date_modified": "13288774183387880",
             "guid": "ec9efefd-3593-4e86-90ec-6aed25d67314",
             "id": "112",
             "name": "Quick",
@@ -3331,7 +3338,7 @@
             "url": "https://www.byui.edu/student-records/academic-deadlines"
          } ],
          "date_added": "13251515918909933",
-         "date_modified": "13288236472647003",
+         "date_modified": "13288774147015778",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
