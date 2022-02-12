@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 # Reset
 RESET="\033[0m"       # Text Reset
 

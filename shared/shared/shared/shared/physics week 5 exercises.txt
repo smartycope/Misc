@@ -1,0 +1,84 @@
+Copeland Carter
+week 5 physics exercises
+
+Note: 
+
+
+
+
+1. newtonsLaw(f=1, a=8)
+    -> 0.125
+    that's in kilograms, cause f is in newtons (kilograms/(meters/second^2))
+ANSWER: d is pretty close
+
+2. well drag = - whateverTheHeckBIs * velocity, so... I have no idea cause no said what b ever was, and nothing that I can thing of starts with a b. Barycenter???
+*insert rant about single letter variables*
+Oh wait, I don't need that. I can just subtract.
+newtonsLaw(f=3651, m=1250) - 2.60
+    -> 0.32079999999999975
+    That's in m/s^2, so...
+newtonsLaw(a=0.32, m=1250)
+    -> 400.9999999999997
+ANSWER: d
+
+
+3. well I could put this into vectors and do it that way, but it's just 78 - 26, and pointing up because the up vector is bigger
+ANSWER: c
+
+4. I'm assuming this is in space, because space in my mind is the default for all physics questions (space is cool)
+I'm gonna say a, because b is not true, unless it's in atmosphere and it keeds a force to keep it going, a is true, and c is equal to a, and never practially applicable.
+ANSWER: a
+
+5. well not a or b, cause it's AFTER contact
+so c assuming atmosphere, and d assuming no atmosphere
+ANSWER: c or d (c?)
+
+6. Given the data provided, I got a value of 31.0 for the tension on string 2 (honestly, I just put it into an all-purpose trig solve program I wrote a while ago, and assume that's correct, cause I forgot how to do it by hand, gotta love programming) and so I'm assuming that the total tension equals the force required to hold it up, so assuming earth gravity....
+newtonsLaw(f=23 + 31, a=9.8)
+    -> 5.5102040816326525
+which is not an answer, so I don't know. I mostly trust my trig solver, and my total tension logic seems reasonable, and 9.8 for gravity seems reasonable...
+ANSWER: e???
+
+7. well, 
+newtonsLaw(m=3, a=3)
+    -> 9
+Which means... something.
+
+8. newtonsLaw(m=2, a=2.5)
+    -> 5.0
+I can't see any reason this *isn't* right, because we're ignoring friction because we're not given any value for the coefficient of either friction. So sure.
+
+9. newtonsLaw(m=2, f=Vector2D(4, 40, False).x)
+    -> 1.53208888623796
+    newtonsLaw(m=2, f=4)
+    -> 2.0
+so... add them together maybe?
+ANSWER: c
+
+10. newtonsLaw(m=5, f=Vector2D(14, 35, False).x)
+    -> 2.29362572400918
+and then if I want to assume I did the previous question right, then I need to add
+    newtonsLaw(m=5, f=14)
+    -> 2.8
+and you get 5.09N * x = 0m/s^2?
+wait, constant speed? 
+umm... how would you do this then?...
+NO! It's unsolvable without knowing the value of the constant speed, because if it's going faster, then it... has the same *coefficient* of friction, dang it.
+hmmmmmmmm
+I'm running out of time. Oh well. I'll figure it out eventually.
+
+    
+
+
+The python function:
+
+def newtonsLaw(f=None, m=None, a=None) -> 'The one not specified':
+    # F = ma
+    if have(f, m) and need(a):
+        return f/m
+    elif have(m, a) and need(f):
+        return m*a
+    elif have(f, a) and need(m):
+        return f/a
+    else:
+        raise TypeError(f"Wrong number of parameters, bub")
