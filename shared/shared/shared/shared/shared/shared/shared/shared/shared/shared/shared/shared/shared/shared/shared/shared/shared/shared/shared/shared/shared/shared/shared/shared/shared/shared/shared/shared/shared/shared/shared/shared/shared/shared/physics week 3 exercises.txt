@@ -1,0 +1,65 @@
+Copeland Carter
+Week 3 Exercises
+
+1. I wrote a program from scratch to do vector math for me, and I inputted the vector into that, and got this answer. (Cause I hate doing math by hand over and over again)
+I can show you the code, if you'd like.
+ANSWER: b
+
+2. From here on out, I'll just show you what I did in code to get the answer
+a = Vector(6, 0)
+b = Vector(13, 90, radians=False)
+ans = addHeadToTail(a, b)
+ans
+    -> Vector(r=sqrt(205), θ=asin(13*sqrt(205)/205), θ°=65.2248594311681)
+ans.evalf()
+    -> Vector(r=14.3178210632764, θ=1.13838855122436, θ°=65.2248594311681)
+ANSWER: d
+
+3. 
+Vector(50, 120, radians=False).asxy(evaluate=True)
+    -> [-25.0000000000000, 43.3012701892219]
+ANSWER: c
+
+4. I'm a little bit confused... does the little arrow over the top mean r or θ? Both kinda make sense... or does it just say that the variable is of type Vector?
+I'm going with that it just denotes it as a Vector. I think that's what the book has.
+A = Vector.fromxy(-8.7, 15.0)
+B = Vector.fromxy(13.2, -6.6)
+This doesn't help me past this point....
+I'm done thinking for today...
+I shouldn't have procrastinated doing this homework...
+b. random guess.
+ANSWER: b
+
+5. b looks about right. I'm visualizing it in my head, and that seems about right, just invert and multiply all the parameters.
+It seems almost too easy though...
+ANSWER: b
+
+A = Vector(3, 30, False)
+B = Vector(3, 0)
+6. A.asxy(evaluate=True)
+    -> [2.59807621135332, 1.50000000000000]
+ANSWER: a
+
+7. B.asxy(evaluate=True)
+    -> [3.00000000000000, 0]
+ANSWER: b
+
+Right about here I realized it would be easier to store i, j, and k and calculate for r, θ, and 𝜙 instead of the other way around, so I wrote another Vector class
+And then I realized adding a 3rd dimention is *hard*
+
+8. And now I am confused, because it's obviously 5.6i + 1.5j, based on the last 2 answers, (of which I thought I was confident in), except that's not an option.
+*bangs head against computer*
+e. None of the above. None of them even look vaugely correct. a and b have an x smaller than 3, which doesn't make sense, c is too big to make sense, and it's not d, because that would be the answer if the first vector had a 90° instead of 30°. So I have no clue.
+ANSWER: a???
+
+
+9. a. Because it's a small sideways force and a big y axis force, which looks about right. I've given up on trying to add vectors for tonight.
+ANSWER: a
+
+10. Vector(3.10, 25, radians=False).evalf().asxy()
+        -> [2.80955413981361, 1.31011661139617]
+ANSWER: d
+
+
+
+
