@@ -1,5 +1,5 @@
 {
-   "checksum": "b61a62a2bbdfb7148f926874ebeb71ae",
+   "checksum": "480f4da21e6d1c9f94d7552bdcf9dba4",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1369,9 +1369,16 @@
                "name": "connect to wifi via cmd",
                "type": "url",
                "url": "http://codefoster.com/pi-wifi/"
+            }, {
+               "date_added": "13289694988782995",
+               "guid": "67ab1aed-0758-4b6b-9a7d-87e05d4c632c",
+               "id": "511",
+               "name": "python fstring specs",
+               "type": "url",
+               "url": "https://docs.python.org/3/library/string.html#formatspec"
             } ],
             "date_added": "13251503480562941",
-            "date_modified": "13288774183387880",
+            "date_modified": "13289694988782995",
             "guid": "ec9efefd-3593-4e86-90ec-6aed25d67314",
             "id": "112",
             "name": "Quick",

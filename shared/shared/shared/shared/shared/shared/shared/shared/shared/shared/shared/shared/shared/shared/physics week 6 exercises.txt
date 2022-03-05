@@ -35,19 +35,4 @@ ANSWER: b
 5. SHOW WORK LATER
 ANSWER: c
 
-6. This is as far as I got... I think I maybe need to add matricies?
-A = Particle2D(var('m'))
-B = Particle2D(2*m, includeNormal=False)
-
-A.addForce(Vector2D(var('T'), 40, False), 'Tension')
-A.addForce(Vector2D(9.8, 40+90, False), 'Normal')
-A.addForce(Vector2D(var('a') * .4, 40, False), "Friction")
-
-B.addForce(Vector2D(T, UP), "Tension")
-
-AccelInTermsOfTension = solve(Eq(A.netForce().r, A.mass * a), a)[0]
-TensionInTermsOfAccel = solve(Eq(B.netForce().r, B.mass * a), a)[0]
-# AccelInTermsOfTension.subs(a, TensionInTermsOfAccel)
-A.diagram()
-
-
+6.

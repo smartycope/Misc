@@ -1,0 +1,76 @@
+Week 7 Group Exercises
+Copeland Carter
+I did these myself
+
+1. A. Because the directly of acceleration is always pointing inward. I don't remember why...
+Um, lets see. The velocity wants to move in a straight line, and because direction is part of velocity, the acceleration is constantly pulling it off course, which in this case is in a circle, so inwards. Ya, that makes sense.
+So does that mean if the record was accelerating as well, the direction would be inwards and slightly forwards (relative to the bug)?
+ANSWER: A
+
+2. I want to say Big Ben's, because...
+Actually, I'm torn.
+It's not a, that's for sure.
+What do we mean by "tangential velocity", exactly?
+I want to say Big Ben, because it's a bigger radius.
+But I want to say the same, because the middles are moving at the same speed
+ANSWER: B?
+
+3. Same on both. Because angularSpeed = deltaAngle/deltaTime, and the angle and time are the same on both
+ANSWER: c
+
+4. d. Same reason as #1
+ANSWER: D
+
+5. "Hint: it's a trick question?" I see we've introduced game theory...
+um, ya its a trick question. You're not specifying whether the car is going CW or CCW, so "from 1 to 2" is completely ambiguous.
+I'm not even sure how to answer this question... a and b are totally meaningless, I'm not even sure what the intuitive interpretation is supposed to be...
+that means d is meaningless as well...
+so I guess c?
+ANSWER: c
+
+6. they're equal, because of what we established in #3
+Actually, just kidding, the big wheel is going to take more time to turn than the small wheel. Which means...
+uh... what does that mean?
+angularSpeed = deltaAngle/deltaTime
+so if time goes down... 1/5 < 1/4... speed goes up... ya that makes sense... so....
+ANSWER: b
+
+7. ummm, actually, I think they're equal. Cause they're connected by a belt. So they're both going to equal the belt's velocity.
+ANSWER: a
+
+8. well I have
+           dangs
+angAccel = ─────
+             dt
+and
+     2
+    v
+a = ──
+    r
+but v is the tangential velocity, not angular velocity (I'm pretty sure), and I don't know deltaTime, so... I don't think this is solvable...
+Wait! I can use
+       dang
+angs = ────
+        dt
+To find dt, so 1, then put it into the angular acceleration equation to get... no that's not right. That's a different dt, isn't it?
+And that's a different acceleration...
+And I can only find a place to put in angular speed in the simulation, and nothing else relevant to this problem. It also doesn't show any numbers? It's either a rather useless simulation, or I'm missing something VERY obvious.
+I came back, and looked it up, its just
+linearVelocity = radius⋅angularVelocity
+I wrote a couple functions, and...
+centripitalMotion(r=2, v=swapAngLinearSpeed(r=2, vang=rps2angV(.5))).evalf()
+    -> 19.7392088021787
+
+swapAngLinearSpeed just implements linearVelocity = radius⋅angularVelocity, and rps2angV just multiplies whatever by 2*pi. Cause thinking in terms of revolutions makes more sense in my head
+ANSWER: d
+
+9.
+newtonsLaw(a=centripitalMotion(r=2, v=swapAngLinearSpeed(r=2, vang=rps2angV(.5))), m=.2).evalf()
+    -> 3.94784176043574
+ANSWER: c
+
+10. Well mass isn't involved in finding the centripital acceleration, and the answer I got for 8 isn't an option, so I'm assuming the edge of the wheel (the radius of the ladybug) is 4 m, cause that's the max of the slider I found
+centripitalMotion(r=4, v=swapAngLinearSpeed(r=4, vang=rps2angV(.5))).evalf()
+    -> 3.94784176043574
+ANSWER: a
+

@@ -42,7 +42,7 @@
     "window.customMenuBarAltFocus": false,
     "window.menuBarVisibility": "visible",
     "window.titleBarStyle": "custom",
-    "window.title": "${activeEditorShort}${separator}${rootName}",
+    "window.title": "${rootName}",
     "window.newWindowDimensions": "inherit",
     "editor.cursorBlinking": "solid",
     "workbench.settings.enableNaturalLanguageSearch": false,
@@ -132,7 +132,7 @@
         ],
         "commaEndLine": [
             "cursorEnd",
-            {"command": "type", "args": {"text": ",\n"}},
+            {"command": "type", "args": {"text": ","}},
         ]
     },
     "explorer.confirmDelete": false,
@@ -145,8 +145,8 @@
     "security.workspace.trust.untrustedFiles": "open",
     "workbench.colorTheme": "Visual Studio Dark",
     "clangd.path": "/home/leonard/.config/VSCodium/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/13.0.0/clangd_13.0.0/bin/clangd",
-    "window.zoomLevel": -1,
     "debug.allowBreakpointsEverywhere": true,
     "jupyter.askForKernelRestart": false,
-    "notebook.experimental.useMarkdownRenderer": true
+    "notebook.experimental.useMarkdownRenderer": true,
+    "window.zoomLevel": -1
 }

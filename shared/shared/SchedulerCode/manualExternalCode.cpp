@@ -5,51 +5,51 @@
 #define true  1
 #define false 0
 // #define print Serial.println
-//#define print(string) printf(string "\n")
+#define print(string) printf(string "\n")
 #define nullptr NULL
 #define null nullptr
-//#define byte unsigned char
-//#define bool char
+#define byte unsigned char
+#define bool byte
 
 #define HIGH 1
 #define LOW  0
 
-//#define digitalWrite(pin, value) printf("Setting " #pin " to %d\n", value)
+#define digitalWrite(pin, value) printf("Setting " #pin " to %d\n", value)
 
 // #include <cope.h>
-//#define  debug(var) printf("%d: " #var " = %d\n", __LINE__, var);
+#define  debug(var) printf("%d: " #var " = %d\n", __LINE__, var);
 
-//#include <stdio.h>
-//#include <inttypes.h>
-//#include <time.h>
-//#include <errno.h>
-//int64_t millis(){
-//    struct timespec now;
-//    timespec_get(&now, TIME_UTC);
-//    return ((int64_t) now.tv_sec) * 1000 + ((int64_t) now.tv_nsec) / 1000000;
-//}
-//
-///* msleep(): Sleep for the requested number of milliseconds. */
-//int msleep(long msec){
-//    struct timespec ts;
-//    int res;
-//
-//    if (msec < 0){
-//        errno = EINVAL;
-//        return -1;
-//    }
-//
-//    ts.tv_sec = msec / 1000;
-//    ts.tv_nsec = (msec % 1000) * 1000000;
-//
-//    do {
-//        res = nanosleep(&ts, &ts);
-//    } while (res && errno == EINTR);
-//
-//    return res;
-//}
-//
-//#define pinMode(ignored, params)
+#include <stdio.h>
+#include <inttypes.h>
+#include <time.h>
+#include <errno.h>
+int64_t millis(){
+    struct timespec now;
+    timespec_get(&now, TIME_UTC);
+    return ((int64_t) now.tv_sec) * 1000 + ((int64_t) now.tv_nsec) / 1000000;
+}
+
+/* msleep(): Sleep for the requested number of milliseconds. */
+int msleep(long msec){
+    struct timespec ts;
+    int res;
+
+    if (msec < 0){
+        errno = EINVAL;
+        return -1;
+    }
+
+    ts.tv_sec = msec / 1000;
+    ts.tv_nsec = (msec % 1000) * 1000000;
+
+    do {
+        res = nanosleep(&ts, &ts);
+    } while (res && errno == EINTR);
+
+    return res;
+}
+
+#define pinMode(ignored, params)
 
 
 // Actual Code
@@ -203,12 +203,12 @@ void setup(){
 void loop(){
     Scheduler_Dispatch();
 }
-//
-//int main(){
-//    setup();
-//    while (true){
-//        loop();
-////        msleep(250);
-//    }
-//    return 0;
-//}
+
+int main(){
+    setup();
+    while (true){
+        loop();
+        msleep(250);
+    }
+    return 0;
+}
