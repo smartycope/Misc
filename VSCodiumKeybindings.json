@@ -78,10 +78,6 @@
         "command": "macros.runMain"
     },
     {
-        "key": "ctrl+k ctrl+.",
-        "command": "workbench.action.openGlobalKeybindingsFile"
-    },
-    {
         "key": "ctrl+shift+`",
         "command": "macros.leaveTerminal"
     },
@@ -121,7 +117,31 @@
         "when": "textInputFocus"
     },
     {
-        "key": "ctrl+shift+,",
+        "key": "ctrl+,",
         "command": "macros.commaEndLine"
+    },
+    {
+        "key": "ctrl+k ctrl+shift+s",
+        "command": "workbench.action.openGlobalKeybindings"
+    },
+    {
+        "key": "ctrl+k ctrl+s",
+        "command": "-workbench.action.openGlobalKeybindings"
+    },
+    {
+        "key": "ctrl+k ctrl+s",
+        "command": "workbench.action.openSettings"
+    },
+    {
+        "key": "ctrl+,",
+        "command": "-workbench.action.openSettings"
+    },
+    {
+        "key": "ctrl+shift+k ctrl+shift+,",
+        "command": "workbench.action.openGlobalKeybindingsFile"
+    },
+    {
+        "key": "meta+r",
+        "command": "jupyter.runallcells"
     }
 ]

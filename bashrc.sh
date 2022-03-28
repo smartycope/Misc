@@ -1,5 +1,11 @@
 #!/bin/bash
 
+
+# Quick misc stuff that needs sorted
+# # copypath(){
+
+# }
+
 #* This file contains my user specific aliases and functions
 
 
@@ -171,7 +177,7 @@
 
 
 #* --Aliases/Functions to make existing commands nicer--
-    alias minicom='minicom -w -t xterm -l -R UTF-8'
+#     alias minicom='minicom -w -t xterm -l -R UTF-8'
     alias dd="sudo dd status=progress "
     alias swapoff="sudo swapoff -a &"
     alias cowsay="/bin/cowsay"

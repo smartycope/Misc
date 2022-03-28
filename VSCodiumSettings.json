@@ -138,7 +138,6 @@
     "explorer.confirmDelete": false,
     "terminal.integrated.scrollback": 1000000,
     "godot_tools.editor_path": "/bin/godot",
-    "godot_tools.gdscript_lsp_server_port": 6007,
     "clangd.onConfigChanged": "ignore",
     "cmake.configureOnEdit": false,
     "explorer.confirmDragAndDrop": false,
@@ -148,5 +147,17 @@
     "debug.allowBreakpointsEverywhere": true,
     "jupyter.askForKernelRestart": false,
     "notebook.experimental.useMarkdownRenderer": true,
+    "notebook.output.textLineLimit": 1000,
+    "notebook.lineNumbers": "on",
+    "sshfs.configs": [
+        {
+            "name": "Lenny",
+            "label": "Lenny",
+            "host": "192.168.43.129",
+            "root": "/home/pi/ECEN-361-Project/ECEN-361-Project/From Lenny/LennysCode",
+            "username": "pi",
+            "password": "raspberry"
+        }
+    ],
     "window.zoomLevel": -1
 }
