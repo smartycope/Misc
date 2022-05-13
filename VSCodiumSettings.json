@@ -159,5 +159,8 @@
             "password": "raspberry"
         }
     ],
+    "workbench.editor.untitled.hint": "hidden",
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "cmake.configureOnOpen": false,
     "window.zoomLevel": -1
 }

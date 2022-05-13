@@ -1,5 +1,5 @@
 {
-   "checksum": "a56119ae6fb5480e232dc4612509f169",
+   "checksum": "ccc5c5710f467f8e21a01ebf26846f70",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1320,13 +1320,6 @@
                "name": "Brigham Keys · GitGud",
                "type": "url",
                "url": "https://gitgud.io/bkeys"
-            }, {
-               "date_added": "13249616240000000",
-               "guid": "6b139db7-8bc6-4ce2-9d80-b2d876cdf4b2",
-               "id": "434",
-               "name": "My Resumé 5.0 - Google Docs",
-               "type": "url",
-               "url": "https://docs.google.com/document/d/1IUdI9n9-bxavftKY7j_SXHQL0X2RED2RrMI7qQgCoh0/edit"
             }, {
                "date_added": "13249593056000000",
                "guid": "e63950c3-13a1-4ce1-bb89-1e9214c8f43f",
@@ -3350,9 +3343,23 @@
             "name": "BYUI Deadlines",
             "type": "url",
             "url": "https://www.byui.edu/student-records/academic-deadlines"
+         }, {
+            "date_added": "13295729944761802",
+            "guid": "f1a82708-3dc3-48c4-a65b-daee4cc1e778",
+            "id": "515",
+            "name": "List of medieval composers - Wikipedia",
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/List_of_medieval_composers"
+         }, {
+            "date_added": "13296275452332530",
+            "guid": "eb0d9e14-4191-4830-abd4-71a214e0f47b",
+            "id": "517",
+            "name": "SONIX FFMPEG SOLUTION",
+            "type": "url",
+            "url": "https://github.com/wang-bin/QtAV"
          } ],
          "date_added": "13251515918909933",
-         "date_modified": "13291917645269288",
+         "date_modified": "13296342582071295",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",

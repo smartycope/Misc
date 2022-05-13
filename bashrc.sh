@@ -1,10 +1,15 @@
 #!/bin/bash
 
 
+FInD_DEVICE_PROGRAM=/home/leonard/hello/python/findDevice.py
+
 # Quick misc stuff that needs sorted
 # # copypath(){
 
 # }
+
+# Including the emscripten binarys to PATH
+alias activateEmscripten="source /home/leonard/Software/emsdk/emsdk_env.sh"
 
 #* This file contains my user specific aliases and functions
 
@@ -226,9 +231,10 @@
     # Run wodev with the device unpluged
     # Run wdev with the device plugged in
     # Then run dev to get the name of the device
-    # alias wodev="ls /dev > /tmp/dev2"
-    # alias wdev="ls /dev > /tmp/dev1"
-    # alias dev="LINE=$(cmp /tmp/dev1 /tmp/dev2 | cut -d' ' -f 7); TMP=\"${LINE}!\"; TMP=\"${TMP}d\"; sed \"${TMP}\" /tmp/dev1"
+    alias wodev="ls /dev > /tmp/dev2"
+    alias wdev="ls /dev > /tmp/dev1"
+    alias dev="python $FIND_DEVICE_PROGRAM"
+#     alias dev="LINE=$(cmp /tmp/dev1 /tmp/dev2 | cut -d' ' -f 7); TMP=\"${LINE}!\"; TMP=\"${TMP}d\"; sed \"${TMP}\" /tmp/dev1"
 
     # Delete this whenever the GTK corruption patch ever reaches the mainline kernel
     alias patch="cd ~/Downloads/tmp/; sudo dnf install ./* -y"
@@ -544,13 +550,13 @@
 
 
 #* --Things to actually do--
-    randomquote
     mapkeys
-
-
+    wodev
 
     # matlab(){
     #     /usr/local/bin/matlab -nodisplay -nosplash -nodesktop -r "run('$1');exit;" | tail -n +11
     # }
 
     . ~/hello/Libs/installLibs.sh
+
+    randomquote
