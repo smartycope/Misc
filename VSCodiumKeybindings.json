@@ -143,5 +143,49 @@
     {
         "key": "meta+r",
         "command": "jupyter.runallcells"
+    },
+    {
+        "key": "ctrl+k ctrl+v",
+        "command": "textPowerTools.insertFullFilePath"
+    },
+    {
+        "key": "ctrl+alt+1",
+        "command": "textPowerTools.setTextSlot1Content"
+    },
+    {
+        "key": "ctrl+alt+2",
+        "command": "textPowerTools.setTextSlot2Content"
+    },
+    {
+        "key": "ctrl+alt+3",
+        "command": "textPowerTools.setTextSlot3Content"
+    },
+    {
+        "key": "ctrl+alt+4",
+        "command": "textPowerTools.setTextSlot4Content"
+    },
+    {
+        "key": "ctrl+alt+5",
+        "command": "textPowerTools.setTextSlot5Content"
+    },
+    {
+        "key": "shift+alt+1",
+        "command": "textPowerTools.pasteTextSlot1Content"
+    },
+    {
+        "key": "shift+alt+2",
+        "command": "textPowerTools.pasteTextSlot2Content"
+    },
+    {
+        "key": "shift+alt+3",
+        "command": "textPowerTools.pasteTextSlot3Content"
+    },
+    {
+        "key": "shift+alt+4",
+        "command": "textPowerTools.pasteTextSlot4Content"
+    },
+    {
+        "key": "shift+alt+5",
+        "command": "textPowerTools.pasteTextSlot5Content"
     }
 ]

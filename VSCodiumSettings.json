@@ -47,30 +47,35 @@
     "editor.cursorBlinking": "solid",
     "workbench.settings.enableNaturalLanguageSearch": false,
     "window.openFoldersInNewWindow": "on",
-
     "macros.list": {
         "add__init__": [
-            {"command": "type", "args": {"text": "def __init__(self):\n\t"}},
+            {
+                "command": "type",
+                "args": {
+                    "text": "def __init__(self):\n\t"
+                }
+            },
             "insertSnippet"
         ],
-
         "addSelf": [
-            {"command": "type", "args": {"text": "self"}},
+            {
+                "command": "type",
+                "args": {
+                    "text": "self"
+                }
+            },
             "insertSnippet"
         ],
-
         "commentDown": [
             "editor.action.copyLinesDownAction",
             "cursorUp",
             "editor.action.addCommentLine",
             "cursorDown"
         ],
-
         "copyLine": [
             "cursorEnd",
             "cursorHomeSelect",
         ],
-
         "runMain": [
             //* This took waaaaaaaaaaaaaay longer than it should have to figure out.
             // "workbench.action.files.saveAll",
@@ -81,14 +86,16 @@
             // "python.execInTerminal",
             // "workbench.action.quickOpenPreviousRecentlyUsedEditorInGroup",
             // "workbench.action.acceptSelectedQuickOpenItem",
-
-
             // {"command": "workbench.action.terminal.sendSequence", "args": {"text": "{ctrl}c"}},
             "workbench.action.terminal.clear",
             //* {"command": "workbench.action.terminal.sendSequence", "args": {"text": "/bin/python src/main.py\n"}},
-            {"command": "workbench.action.terminal.sendSequence", "args": {"text": "/bin/python src/main.py\n"}},
+            {
+                "command": "workbench.action.terminal.sendSequence",
+                "args": {
+                    "text": "/bin/python src/main.py\n"
+                }
+            },
         ],
-
         // "runPrev": [
         //     // "workbench.action.terminal.focus",
         //     "workbench.action.terminal.clear",
@@ -97,42 +104,73 @@
         //     "workbench.action.quickOpen",
         //     "workbench.action.acceptSelectedQuickOpenItem",
         // ],
-
         "leaveTerminal": [
             // {"command": "workbench.action.terminal.toggleTerminal", "args": {"command": "commentDown"}}
             // "workbench.action.quickOpenNavigateNextInViewPicker",
             "workbench.action.quickOpen",
             "workbench.action.acceptSelectedQuickOpenItem",
-
         ],
-
         "specialCommentLine": [
             "editor.action.commentLine",
             "cursorHome",
             "cursorWordEndRight",
-            {"command": "type", "args": {"text": "* "}},
+            {
+                "command": "type",
+                "args": {
+                    "text": "* "
+                }
+            },
         ],
-
         "autoDocString": [
-            {"command": "type", "args": {"text": "\"\"\"\n\"\"\""}},
+            {
+                "command": "type",
+                "args": {
+                    "text": "\"\"\"\n\"\"\""
+                }
+            },
             "cursorUp",
-            {"command": "type", "args": {"text": " "}},
+            {
+                "command": "type",
+                "args": {
+                    "text": " "
+                }
+            },
         ],
         "colonEndLine": [
             "cursorEnd",
-            {"command": "type", "args": {"text": ":\n"}},
+            {
+                "command": "type",
+                "args": {
+                    "text": ":\n"
+                }
+            },
         ],
         "semicolonEndLine": [
             "cursorEnd",
-            {"command": "type", "args": {"text": ";"}},
+            {
+                "command": "type",
+                "args": {
+                    "text": ";"
+                }
+            },
         ],
         "closeParenEndLine": [
             "cursorEnd",
-            {"command": "type", "args": {"text": ")\n"}},
+            {
+                "command": "type",
+                "args": {
+                    "text": ")\n"
+                }
+            },
         ],
         "commaEndLine": [
             "cursorEnd",
-            {"command": "type", "args": {"text": ","}},
+            {
+                "command": "type",
+                "args": {
+                    "text": ","
+                }
+            },
         ]
     },
     "explorer.confirmDelete": false,
@@ -157,10 +195,24 @@
             "root": "/home/pi/ECEN-361-Project/ECEN-361-Project/From Lenny/LennysCode",
             "username": "pi",
             "password": "raspberry"
+        },
+        {
+            "name": "doorannouncer",
+            "host": "10.150.200.200",
+            "root": "/home/chadrick",
+            "username": "chadrick",
+            "password": " "
         }
     ],
     "workbench.editor.untitled.hint": "hidden",
     "editor.unicodeHighlight.invisibleCharacters": false,
     "cmake.configureOnOpen": false,
-    "window.zoomLevel": -1
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "[cpp]": {
+        "editor.defaultFormatter": "xaver.clang-format"
+    },
+    "python.formatting.provider": "none",
+    "window.zoomLevel": -1,
 }
